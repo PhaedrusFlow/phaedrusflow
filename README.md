@@ -28,18 +28,8 @@ Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech
 
 
 ## 🔭 Tech-Stack
-## 🔭 Tech-Stack
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg?sanitize=true" title="Rust" alt="Rust" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg?sanitize=true" title="CUDA" alt="CUDA" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg?sanitize=true" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg?sanitize=true" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg?sanitize=true" title="Zig" alt="Zig" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg?sanitize=true" title="Golang" alt="Golang" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg?sanitize=true" title="Lua" alt="Lua" width="40" height="40"/>
-  <img src="https://www.modular.com/static/images/mojo-icon.svg?sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
-</div>
+![My Tech Stack](./tech-stack.svg?sanitize=true)
 
 
 ## 💻 Operating Systems & Tooling
