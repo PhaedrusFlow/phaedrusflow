@@ -1,0 +1,53 @@
+<script type="text/javascript">
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      tags: 'ams'
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      enableEnrichment: true,
+      enableExplorer: true,
+      a11y: {
+        speech: true,
+        braille: true,
+        subtitles: true,
+        backgroundColor: 'Blue',
+        backgroundOpacity: .2,
+        foregroundColor: 'Black',
+        foregroundOpacity: 1,
+        highlight: 'None'
+      }
+    },
+    startup: {
+      pageReady: () => {
+        return MathJax.startup.defaultPageReady().then(() => {
+          // Add dark mode detection and styling
+          const darkModeStyles = document.createElement('style');
+          darkModeStyles.textContent = `
+            @media (prefers-color-scheme: dark) {
+              .MathJax {
+                color: #ffffff !important;
+              }
+              .MathJax_Display {
+                color: #ffffff !important;
+              }
+              .MathJax .merror {
+                background-color: #661111 !important;
+                color: #ffffff !important;
+                border: 1px solid #ff5555 !important;
+              }
+            }
+          `;
+          document.head.appendChild(darkModeStyles);
+        });
+      }
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
