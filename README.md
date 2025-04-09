@@ -27,16 +27,51 @@ Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/en-US/)
 
 
-## 🔭 Technologies & Languages
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" alt="Zig" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nvidia/nvidia-original.svg" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
-</div>
+## 🔭 Tech-Stack
+<img src="./tech-stack.svg?sanitize=true" alt="My Tech Stack">
+
+## 💻 Operating Systems & Tooling
+
+### Operating Systems
+- **Windows**: Enterprise development, gaming, and Windows Subsystem for Linux 2
+- **macOS**: Design workflows and iOS development
+- **Linux**: Experienced with Debian/Ubuntu and Arch-based distributions
+
+### Graphics & Display
+- **Wayland**: Modern display server protocol with compositor experience
+- **Hyprland**: Tiling Wayland compositor for efficient workflows
+- **Vulkan**: Low-overhead graphics API for high-performance rendering
+- **Mesa**: Open-source implementation of OpenGL, Vulkan, and other graphics APIs
+
+### Terminal & Security
+- **Ghostty**: High-performance GPU-accelerated terminal emulator
+- **OpenSSH**: Secure remote access and file transfers
+- **OpenSSL**: Cryptography library for secure communications
+- **OpenPGP/GnuPG**: Email encryption and digital signatures for secure communications
+
+### Audio & Multimedia
+- **Pipewire**: Modern multimedia framework for audio/video handling
+- **OBS Studio**: Professional-grade streaming and recording solution
+
+[![Tech Stack](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
+
+## 🗄️ Database Technologies
+- Redis for caching and real-time data operations
+- PostgreSQL for relational database needs
+- DuckDB for analytical workloads
+
+## 🤖 AI & ML Tools
+- PyTorch/TensorFlow for deep learning models
+- Hugging Face for transformer models and inference
+- ONNX for model interoperability
+- Scikit-learn for traditional ML algorithms
+- MLflow for experiment tracking
+- Vector databases for semantic search
+
+## 📊 Version Control & Data Management
+- Git for standard version control
+- Xet-core for AI-specific version control and large file handling
+- DVC for data versioning and ML pipelines
 
 ## 📊 GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phaedrusflow&show_icons=true&theme=radical)
