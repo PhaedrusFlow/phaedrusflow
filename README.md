@@ -2,16 +2,27 @@
 
 ## Former Intelligence Officer | Qompass AI Founder/CEO
 
+<h3>Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech</h3>
 
+## 🔭 Tech-Stack
 
-Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Mojo-FF5A00?style=for-the-badge&logo=mojo&logoColor=white&sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
+
+</div>
 
 ## 💻 Operating Systems & Tooling
 
 ### Operating Systems
-- **Windows**: Enterprise development, gaming, and Windows Subsystem for Linux 2
-- **macOS**: Design workflows and iOS development
-- **Linux**: Experienced with Debian/Ubuntu and Arch-based distributions
+- **Windows**: Enterprise development, gaming, and Windows Subsystem for Linux 2 (WSL2)
+- **macOS**: Design workflows, education, and system administration
+- **Linux**: Production with Debian/Ubuntu and Arch-based distributions
 
 ### Graphics & Display
 - **Wayland**: Modern display server protocol with compositor experience
@@ -98,18 +109,7 @@ Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech
 
 </div>
 
-## 🔭 Tech-Stack
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Mojo-FF5A00?style=for-the-badge&logo=mojo&logoColor=white&sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
-
-</div>
 
 
 <details id="detailed-research">
