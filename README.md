@@ -73,8 +73,6 @@ Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech
 - Xet-core for AI-specific version control and large file handling
 - DVC for data versioning and ML pipelines
 
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phaedrusflow&show_icons=true&theme=radical)
 
 ## Research Focus Areas
 
