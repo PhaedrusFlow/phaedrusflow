@@ -2,8 +2,7 @@
 
 ## Former Intelligence Officer | Qompass AI Founder/CEO
 
-![Profile Views](https://komarev.com/ghpvc/?username=phaedrusflow)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&lines=Founder+and+CEO+of+Qompass+AI+;Quantum+AI+Models+as+a+Service;Healthcare+and+Education+Tech)
+
 
 Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech 
 
@@ -253,3 +252,5 @@ $$K = \text{KDF}(Z')$$
 - $K$: final derived key material
 
 </details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=phaedrusflow)
