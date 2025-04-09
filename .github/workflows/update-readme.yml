@@ -1,0 +1,23 @@
+name: Update Profile README
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # Monthly update
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - name: Update README with latest information
+        run: deno run -A scripts/update-readme.ts
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update README"
+          git push
