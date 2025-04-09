@@ -4,44 +4,7 @@
 
 
 
-Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech 
-
-## Connect With Me
-
-### Professional Networks
-[![Personal LinkedIn](https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matt-a-porter-103535224/)
-[![Startup LinkedIn](https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/company/95058568/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0302--4812-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-0302-4812)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Matt--Porter-blue?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Matt-Porter-7)
-
-### Social Media
-[![Twitter](https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter)](https://twitter.com/PhaedrusFlow)
-[![Instagram](https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/phaedrusflow)
-[![YouTube](https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube)](https://www.youtube.com/@qompassai)
-
-### Developer Programs
-[![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
-[![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
-[![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
-[![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
-[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/en-US/)
-
-
-## 🔭 Tech-Stack
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Mojo-FF5A00?style=for-the-badge&logo=mojo&logoColor=white&sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
-
-</div>
-
-
+Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech
 
 ## 💻 Operating Systems & Tooling
 
@@ -66,7 +29,11 @@ Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech
 - **Pipewire**: Modern multimedia framework for audio/video handling
 - **OBS Studio**: Professional-grade streaming and recording solution
 
+<div align="center">
+  
 [![Tech Stack](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
+
+</div>
 
 ## 🗄️ Database Technologies
 - Redis for caching and real-time data operations
@@ -93,9 +60,59 @@ Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech
 |------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------|
 | **Quantum Machine Learning** | Developing novel quantum algorithms for self-hosted deployment | Healthcare diagnostics, Personalized education, Network security        |
 | **Post-Quantum Cryptography**| Implementing quantum-resistant algorithms on-device          | Patient data protection, Educational records security, Government communications |
-| **Quantum Error Correction** | Optimizing search via quantum amplified search               | Stable learning platforms, Resilient cryptography                      |
+| **Quantum Error Correction** | Optimizing search via quantum amplified search               | Sustainably secure learning platforms with resilient cryptography                      |
 
-<details>
+[📚 Read Full Research Details](#detailed-research)
+
+## Connect With Me
+
+<h3 align="center">Professional Networks</h3>
+<div align="center">
+  
+[![Personal LinkedIn](https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matt-a-porter-103535224/)
+[![Startup LinkedIn](https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/company/95058568/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0302--4812-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-0302-4812)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Matt--Porter-blue?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Matt-Porter-7)
+
+</div>
+
+<h3 align="center">Social Media</h3>
+<div align="center">
+  
+[![Twitter](https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter)](https://twitter.com/PhaedrusFlow)
+[![Instagram](https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/phaedrusflow)
+[![YouTube](https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube)](https://www.youtube.com/@qompassai)
+
+</div>
+
+<h3 align="center">Developer Programs</h3>
+<div align="center">
+ 
+ [![Qompass AI Github](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://github.com/qompassai)
+[![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
+[![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
+[![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
+[![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/en-US/)
+
+</div>
+
+## 🔭 Tech-Stack
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Mojo-FF5A00?style=for-the-badge&logo=mojo&logoColor=white&sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
+
+</div>
+
+
+<details id="detailed-research">
   <summary><strong>Research: The Pursuit of Quality Quantum Advantage</strong></summary>
 
 The foundation of quantum computing begins with the Schrödinger equation:
