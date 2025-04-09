@@ -9,7 +9,8 @@ Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech
 ## Connect With Me
 
 ### Professional Networks
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matt-a-porter-103535224/)
+[![Personal LinkedIn](https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matt-a-porter-103535224/)
+[![Startup LinkedIn](https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/company/95058568/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0302--4812-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-0302-4812)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Matt--Porter-blue?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Matt-Porter-7)
 
@@ -36,7 +37,8 @@ Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech
   <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40"/>
-  <img src="https://www.modular.com/static/images/mojo-icon.svg?sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Mojo-FF5A00?style=for-the-badge&logo=mojo&logoColor=white&sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
+
 </div>
 
 
