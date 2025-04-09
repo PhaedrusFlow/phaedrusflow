@@ -1,0 +1,46 @@
+
+
+  
+  .skill-item {
+    background-color: #2d2d2d;
+  }
+  
+  /* Custom MathJax styling to ensure it's visible in dark mode */
+  .MathJax {
+    color: var(--text-color) !important;
+  }
+  
+  .mjx-math {
+    color: var(--text-color) !important;
+  }
+}
+
+
+/* === Print Styles === */
+@media print {
+  body {
+    font-size: 12pt;
+  
+  .skill-item {
+    background-color: #2d2d2d;
+  }
+  
+  /* Custom MathJax styling to ensure it's visible in dark mode */
+  .MathJax {
+    color: var(--text-color) !important;
+  }
+  
+  .mjx-math {
+    color: var(--text-color) !important;
+  }
+}
+
+
+/* === Print Styles === */
+@media print {
+  body {
+    font-size: 12pt;
+    line-height: 1.4;
+  }
+  
+  .header, .footer, .nav-toggle, .btn
