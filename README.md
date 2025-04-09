@@ -29,7 +29,16 @@ Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech
 
 ## 🔭 Tech-Stack
 
-![My Tech Stack](./tech-stack.svg?sanitize=true)
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40"/>
+  <img src="https://www.modular.com/static/images/mojo-icon.svg?sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
+</div>
+
 
 
 ## 💻 Operating Systems & Tooling
