@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Portfolio"
+theme = "phantom"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  description = "Former Intelligence Officer turned Deep Tech Founder"
+  author = "Matt A. Porter"
