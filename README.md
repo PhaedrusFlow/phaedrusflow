@@ -16,6 +16,7 @@
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
  <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="40" height="40"/>
