@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" alt="GitHub" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
