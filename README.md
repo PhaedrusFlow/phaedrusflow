@@ -15,6 +15,15 @@
   <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=latex" alt="Latex" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="Pytorch" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=scala" alt="Scala" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
@@ -24,11 +33,14 @@
 
 ## 💻 Operating Systems & Tooling
 
-### Operating Systems
+<div align="center">
+[![Tech Stack](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
+
 <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40"/>
 
+</div>
 ### Graphics & Display
 - **Wayland**: Modern display server protocol with compositor experience
 - **Hyprland**: Tiling Wayland compositor for efficient workflows
@@ -45,11 +57,6 @@
 - **Pipewire**: Modern multimedia framework for audio/video handling
 - **OBS Studio**: Professional-grade streaming and recording solution
 
-<div align="center">
-  
-[![Tech Stack](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
-
-</div>
 
 ## 🗄️ Database Technologies
 - Redis for caching and real-time data operations
