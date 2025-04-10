@@ -9,6 +9,7 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/>
