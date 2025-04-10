@@ -4,7 +4,7 @@
 
 <h3>Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech</h3>
 
-## 🔭 Tech-Stack
+## Tech-Stack
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
@@ -42,7 +42,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaedrusflow&langs_count=10)
 
 
-## 💻 Operating Systems & Tooling
+## Operating Systems
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40"/>
