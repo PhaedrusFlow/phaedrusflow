@@ -48,21 +48,26 @@
 <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=macos" alt="MacOS" width="40" height="40"/>
 
 </div>
+
 ### Graphics & Display
+
 - **Wayland**: Modern display server protocol with compositor experience
 - **Hyprland**: Tiling Wayland compositor for efficient workflows
 - **Vulkan**: Low-overhead graphics API for high-performance rendering
 - **Mesa**: Open-source implementation of OpenGL, Vulkan, and other graphics APIs
 
-### Terminal & Security
+### Edge Security
+
 - **Ghostty**: High-performance GPU-accelerated terminal emulator
 - **OpenSSH**: Secure remote access and file transfers
 - **OpenSSL**: Cryptography library for secure communications
 - **OpenPGP/GnuPG**: Email encryption and digital signatures for secure communications
 
-### Audio & Multimedia
+### Multimedia
 - **Pipewire**: Modern multimedia framework for audio/video handling
 - **OBS Studio**: Professional-grade streaming and recording solution
 
