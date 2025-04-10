@@ -39,6 +39,9 @@
 
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaedrusflow" />
+
+
 ## 💻 Operating Systems & Tooling
 
 <div align="center">
