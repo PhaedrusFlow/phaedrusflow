@@ -8,16 +8,16 @@
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="Ansible" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="Anaconda" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=lua" alt="Cloudflare" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=lua" alt="CSS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=lua" alt="Bash" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Mojo-FF5A00?style=for-the-badge&logo=mojo&logoColor=white&sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
 
 </div>
@@ -25,9 +25,9 @@
 ## 💻 Operating Systems & Tooling
 
 ### Operating Systems
-<img src="https://skillicons.dev/icons?i=zig" alt="Arch" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=zig" alt="Azure" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=zig" alt="Debian" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40"/>
 
 ### Graphics & Display
 - **Wayland**: Modern display server protocol with compositor experience
