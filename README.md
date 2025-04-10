@@ -39,7 +39,8 @@
 
 </div>
 
-![Combined Languages](https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=PhaedrusFlow,qompassai)
+
+![Combined Languages](https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=PhaedrusFlow,qompassai&cache_seconds=86400&random=123456)
 
 
 
