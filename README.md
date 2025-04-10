@@ -39,7 +39,8 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaedrusflow" />
+![Combined Languages](https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=PhaedrusFlow,qompassai)
+
 
 
 ## 💻 Operating Systems & Tooling
