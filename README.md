@@ -14,6 +14,7 @@
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
+ <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40"/>
  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=latex" alt="Latex" width="40" height="40"/>
@@ -39,6 +40,8 @@
 <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="40" height="40"/>
 
 </div>
 ### Graphics & Display
