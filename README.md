@@ -34,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Mojo-FF5A00?style=for-the-badge&logo=mojo&logoColor=white&sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
 
 </div>
@@ -65,12 +66,6 @@
 - **Pipewire**: Modern multimedia framework for audio/video handling
 - **OBS Studio**: Professional-grade streaming and recording solution
 
-
-## 🗄️ Database Technologies
-- Redis for caching and real-time data operations
-- PostgreSQL for relational database needs
-- DuckDB for analytical workloads
-
 ## 🤖 AI & ML Tools
 - PyTorch/TensorFlow for deep learning models
 - Hugging Face for transformer models and inference
@@ -78,11 +73,6 @@
 - Scikit-learn for traditional ML algorithms
 - MLflow for experiment tracking
 - Vector databases for semantic search
-
-## 📊 Version Control & Data Management
-- Git for standard version control
-- Xet-core for AI-specific version control and large file handling
-- DVC for data versioning and ML pipelines
 
 
 ## Research Focus Areas
