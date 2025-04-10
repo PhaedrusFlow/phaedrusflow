@@ -39,7 +39,11 @@
 
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaedrusflow&langs_count=10)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhaedrusFlow&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhaedrusFlow&layout=compact&theme=radical" width="400" />
+</p>
+
 
 
 ## Operating Systems
