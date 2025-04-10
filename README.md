@@ -39,9 +39,7 @@
 
 </div>
 
-
-![Combined Languages](https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=PhaedrusFlow,qompassai&cache_seconds=86400&random=123456)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaedrusflow&langs_count=10)
 
 
 ## 💻 Operating Systems & Tooling
