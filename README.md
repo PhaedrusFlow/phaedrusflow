@@ -34,11 +34,10 @@
 ## 💻 Operating Systems & Tooling
 
 <div align="center">
-[![Tech Stack](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
-
 <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
 
 </div>
 ### Graphics & Display
