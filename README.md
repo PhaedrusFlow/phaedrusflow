@@ -15,6 +15,7 @@
   <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40"/>
+ <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=latex" alt="Latex" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="40" height="40"/>
