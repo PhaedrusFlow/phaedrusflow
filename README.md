@@ -141,12 +141,10 @@
     <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/>
     <p style="margin: 5px 0;">Redis</p>
   </div>
-  
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="assets/icons/duckdb.svg" alt="DuckDB" width="50" height="50"/>
     <p style="margin: 5px 0;">DuckDB</p>
   </div>
-  
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
     <p style="margin: 5px 0;">MySQL</p>
