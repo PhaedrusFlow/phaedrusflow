@@ -120,14 +120,7 @@
     <h3>AI</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
-        <p style="margin: 5px 0;">PyTorch</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
-        <p style="margin: 5px 0;">TensorFlow</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        
         <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="50" height="50"/>
         <p style="margin: 5px 0;">AI</p>
       </div>
