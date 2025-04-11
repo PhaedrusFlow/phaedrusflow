@@ -6,47 +6,240 @@
 
 ## Tech-Stack
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
- <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40"/>
- <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=latex" alt="Latex" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="Pytorch" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailWind" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=scala" alt="Scala" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=wasm" alt="Wasm" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Mojo-FF5A00?style=for-the-badge&logo=mojo&logoColor=white&sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
+<h2 align="center">My Tech Stack</h2>
+
+<div align="center">
+  <!-- Programming Languages Ecosystem -->
+  <div style="margin-bottom: 30px;">
+    <h3>Programming Languages</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="50" height="50"/>
+        <p style="margin: 5px 0;">Rust</p>
+        <div style="display: flex; gap: 8px; margin-top: 5px;">
+          <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" width="30" height="30" title="WebAssembly"/>
+          <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
+        </div>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/>
+        <p style="margin: 5px 0;">Python</p>
+        <div style="display: flex; gap: 8px; margin-top: 5px;">
+          <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30" title="PyTorch"/>
+          <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="30" height="30" title="TensorFlow"/>
+          <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="30" height="30" title="Anaconda"/>
+          <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="30" height="30" title="OpenCV"/>
+        </div>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
+        <p style="margin: 5px 0;">TypeScript</p>
+        <div style="display: flex; gap: 8px; margin-top: 5px;">
+          <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="30" height="30" title="Node.js"/>
+          <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="30" height="30" title="Deno"/>
+        </div>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="50" height="50"/>
+        <p style="margin: 5px 0;">Go</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="50" height="50"/>
+        <p style="margin: 5px 0;">Zig</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="50" height="50"/>
+        <p style="margin: 5px 0;">Lua</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=scala" alt="Scala" width="50" height="50"/>
+        <p style="margin: 5px 0;">Scala</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
+        <p style="margin: 5px 0;">JavaScript</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Web Development Ecosystem -->
+  <div style="margin-bottom: 30px;">
+    <h3>Web-Dev</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
+        <p style="margin: 5px 0;">HTML</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
+        <p style="margin: 5px 0;">CSS</p>
+        <div style="display: flex; gap: 8px; margin-top: 5px;">
+          <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="30" height="30" title="Tailwind CSS"/>
+        </div>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50"/>
+        <p style="margin: 5px 0;">Vite</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- DevOps & Infrastructure Ecosystem -->
+  <div style="margin-bottom: 30px;">
+    <h3>DevOps & Infra</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
+        <p style="margin: 5px 0;">Docker</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50"/>
+        <p style="margin: 5px 0;">Kubernetes</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50" height="50"/>
+        <p style="margin: 5px 0;">Ansible</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/>
+        <p style="margin: 5px 0;">Terraform</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="50" height="50"/>
+        <p style="margin: 5px 0;">NGINX</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="50" height="50"/>
+        <p style="margin: 5px 0;">Cloudflare</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- AI Ecosystem -->
+  <div style="margin-bottom: 30px;">
+    <h3>AI</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
+        <p style="margin: 5px 0;">PyTorch</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
+        <p style="margin: 5px 0;">TensorFlow</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="50" height="50"/>
+        <p style="margin: 5px 0;">AI</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50"/>
+        <p style="margin: 5px 0;">CUDA</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/>
+        <p style="margin: 5px 0;">OpenCV</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Database Ecosystem -->
+  <div style="margin-bottom: 30px;">
+    <h3>Databases</h3>
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/>
+    <p style="margin: 5px 0;">Redis</p>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="assets/icons/duckdb.svg" alt="DuckDB" width="50" height="50"/>
+    <p style="margin: 5px 0;">DuckDB</p>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
+    <p style="margin: 5px 0;">MySQL</p>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL" width="50" height="50"/>
+    <p style="margin: 5px 0;">SQL</p>
+  </div>
+</div>
+  <!-- Development Tools Ecosystem -->
+  <div style="margin-bottom: 30px;">
+    <h3>Dev Tools</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+        <p style="margin: 5px 0;">Git</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
+        <p style="margin: 5px 0;">GitHub</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
+        <p style="margin: 5px 0;">VS Code</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="50" height="50"/>
+        <p style="margin: 5px 0;">Neovim</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="50" height="50"/>
+        <p style="margin: 5px 0;">Unreal Engine</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Documentation & Scripting Ecosystem -->
+  <div style="margin-bottom: 30px;">
+    <h3>Documentation & Scripting</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="50" height="50"/>
+        <p style="margin: 5px 0;">LaTeX</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="50" height="50"/>
+        <p style="margin: 5px 0;">Markdown</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
+        <p style="margin: 5px 0;">Bash</p>
+      </div>
+      
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="50" height="50"/>
+        <p style="margin: 5px 0;">PowerShell</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
@@ -116,61 +309,60 @@ graph TB
         WASM["WebAssembly"]
     end
     
-    subgraph "Scientific Computing"
-        Anaconda["Anaconda"]
-    end
 
     classDef default fill:#f9f9f9,stroke:#333,stroke-width:2px;
     classDef highlight fill:#e1f5fe,stroke:#03a9f4,stroke-width:2px;
     class Rust,Python,TypeScript,Go highlight;
 ```
 
-## 💻 Operating Systems & Tooling
+## 💻 Operating Systems 
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=macos" alt="MacOS" width="40" height="40"/>
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
+    <div style="display: flex; gap: 5px; margin-top: 10px;">
+      <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>
+      <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>
+      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
+      <img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="30" height="30"/>
+    </div>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50"/>
+    <div style="display: flex; gap: 5px; margin-top: 10px;">
+      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>
+    </div>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=macos" alt="MacOS" width="50" height="50"/>
+  </div>
 </div>
 
-### Graphics & Display
+### Graphics & Media
 
-- **Wayland**: Modern display server protocol with compositor experience
-- **Hyprland**: Tiling Wayland compositor for efficient workflows
-- **Vulkan**: Low-overhead graphics API for high-performance rendering
-- **Mesa**: Open-source implementation of OpenGL, Vulkan, and other graphics APIs
+<img src="assets/icons/wayland.svg" alt="Wayland" width="40" height="40"/>
+<img src="assets/icons/hyprland.svg" alt="Hyprland" width="40" height="40"/>
+<img src="assets/icons/mesa.svg" alt="Mesa" width="40" height="40"/>
+<img src="assets/icons/vulkan.svg" alt="Vulkan" width="40" height="40"/>
+<img src="assets/icons/pipewire.svg" alt="Pipewire" width="40" height="40"/>
+<img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="40" height="40"/>
 
 ### Edge Security
 
-- **Ghostty**: High-performance GPU-accelerated terminal emulator
-- **OpenSSH**: Secure remote access and file transfers
-- **OpenSSL**: Cryptography library for secure communications
-- **OpenPGP/GnuPG**: Email encryption and digital signatures for secure communications
-
-### Multimedia
-- **Pipewire**: Modern multimedia framework for audio/video handling
-- **OBS Studio**: Professional-grade streaming and recording solution
-
-## 🤖 AI & ML Tools
-- PyTorch/TensorFlow for deep learning models
-- Hugging Face for transformer models and inference
-- ONNX for model interoperability
-- Scikit-learn for traditional ML algorithms
-- MLflow for experiment tracking
-- Vector databases for semantic search
-
+<img src="assets/icons/ghostty.svg" alt="Ghostty" width="40" height="40"/>
+<img src="assets/icons/openssh.svg" alt="OpenSSH" width="40" height="40"/>
+<img src="assets/icons/openssl.svg" alt="OpenSSL" width="40" height="40"/>
+<img src="assets/icons/tor.svg" alt="Tor" width="40" height="40"/>
+<img src="assets/icons/openpgp.svg" alt="OpenPGP" width="40" height="40"/>
+<img src="assets/icons/gnupg.svg" alt="GnuPG" width="40" height="40"/>
 
 ## Research Focus Areas
 
 | Area                         | Description                                                  | Applications                                                           |
 |------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------|
-| **Quantum Machine Learning** | Developing novel quantum algorithms for self-hosted deployment | Healthcare diagnostics, Personalized education, Network security        |
+| **Quantum/AI Hybrid DevOps** | Developing novel quantum algorithms for self-hosted deployment | Healthcare diagnostics, Personalized education, Network security        |
 | **Post-Quantum Cryptography**| Implementing quantum-resistant algorithms on-device          | Patient data protection, Educational records security, Government communications |
 | **Quantum Error Correction** | Optimizing search via quantum amplified search               | Sustainably secure learning platforms with resilient cryptography                      |
 
