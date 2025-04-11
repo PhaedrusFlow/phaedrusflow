@@ -59,7 +59,7 @@
 
 
 ## Operating Systems
-=======
+```mermaid
 graph TD
     subgraph "Programming Languages"
         Rust["Rust"]
@@ -118,7 +118,7 @@ graph TD
     subgraph "Scientific Computing"
         Anaconda["Anaconda"]
     end
-
+```
 
 ## 💻 Operating Systems & Tooling
 
