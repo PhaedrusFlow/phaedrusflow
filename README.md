@@ -17,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
  <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="40" height="40"/>
@@ -27,15 +28,27 @@
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=pytorch" alt="Pytorch" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailWind" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=scala" alt="Scala" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=wasm" alt="Wasm" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Mojo-FF5A00?style=for-the-badge&logo=mojo&logoColor=white&sanitize=true" title="Mojo 🔥" alt="Mojo" width="40" height="40"/>
+
+
 
 </div>
 
@@ -46,6 +59,68 @@
 
 
 ## Operating Systems
+=======
+graph TD
+    subgraph "Programming Languages"
+        Rust["Rust"]
+        Python["Python"]
+        TypeScript["TypeScript"]
+        Zig["Zig"]
+        Go["Go"]
+        Lua["Lua"]
+        Scala["Scala"]
+        Mojo["Mojo"]
+    end
+    
+    subgraph "Data & Databases"
+        Postgres["PostgreSQL"]
+        Redis["Redis"]
+    end
+    
+    subgraph "AI & Machine Learning"
+        PyTorch["PyTorch"]
+        TensorFlow["TensorFlow"]
+        OpenCV["OpenCV"]
+        AI["AI"]
+    end
+    
+    subgraph "DevOps & Infrastructure"
+        Ansible["Ansible"]
+        Nginx["NGINX"]
+        Cloudflare["Cloudflare"]
+        Bash["Bash"]
+        PowerShell["PowerShell"]
+    end
+    
+    subgraph "Frontend & UI"
+        HTML["HTML"]
+        CSS["CSS"]
+        Tailwind["Tailwind"]
+        Vite["Vite"]
+    end
+    
+    subgraph "Development Tools"
+        VSCode["VS Code"]
+        Neovim["Neovim"]
+    end
+    
+    subgraph "Documentation & Markup"
+        LaTeX["LaTeX"]
+        Markdown["Markdown"]
+    end
+    
+    subgraph "Frameworks & Runtimes"
+        NodeJS["Node.js"]
+        Tauri["Tauri"]
+        WASM["WebAssembly"]
+    end
+    
+    subgraph "Scientific Computing"
+        Anaconda["Anaconda"]
+    end
+
+
+## 💻 Operating Systems & Tooling
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40"/>
