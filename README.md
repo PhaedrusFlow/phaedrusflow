@@ -336,18 +336,20 @@ graph TB
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=macos" alt="MacOS" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="50" height="50"/>
   </div>
 </div>
 
 ### Graphics & Media
 
-<img src="assets/icons/wayland.svg" alt="Wayland" width="40" height="40"/>
-<img src="assets/icons/hyprland.svg" alt="Hyprland" width="40" height="40"/>
-<img src="assets/icons/mesa.svg" alt="Mesa" width="40" height="40"/>
-<img src="assets/icons/vulkan.svg" alt="Vulkan" width="40" height="40"/>
-<img src="assets/icons/pipewire.svg" alt="Pipewire" width="40" height="40"/>
-<img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="40" height="40"/>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="assets/icons/wayland.svg" alt="Wayland" width="40" height="40"/>
+  <img src="assets/icons/hyprland.svg" alt="Hyprland" width="40" height="40"/>
+  <img src="assets/icons/mesa.svg" alt="Mesa" width="40" height="40"/>
+  <img src="assets/icons/vulkan.svg" alt="Vulkan" width="40" height="40"/>
+  <img src="assets/icons/pipewire.svg" alt="Pipewire" width="40" height="40"/>
+  <img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="40" height="40"/>
+</div>
 
 ### Edge Security
 
