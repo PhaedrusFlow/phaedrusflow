@@ -60,7 +60,7 @@
 
 ## Operating Systems
 ```mermaid
-graph TD
+graph TB
     subgraph "Programming Languages"
         Rust["Rust"]
         Python["Python"]
@@ -118,6 +118,10 @@ graph TD
     subgraph "Scientific Computing"
         Anaconda["Anaconda"]
     end
+
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:2px;
+    classDef highlight fill:#e1f5fe,stroke:#03a9f4,stroke-width:2px;
+    class Rust,Python,TypeScript,Go highlight;
 ```
 
 ## 💻 Operating Systems & Tooling
