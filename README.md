@@ -21,7 +21,6 @@
           <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
         </div>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/>
         <p style="margin: 5px 0;">Python</p>
@@ -32,7 +31,6 @@
           <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="30" height="30" title="OpenCV"/>
         </div>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
         <p style="margin: 5px 0;">TypeScript</p>
@@ -41,27 +39,22 @@
           <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="30" height="30" title="Deno"/>
         </div>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=go" alt="Go" width="50" height="50"/>
         <p style="margin: 5px 0;">Go</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="50" height="50"/>
         <p style="margin: 5px 0;">Zig</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="50" height="50"/>
         <p style="margin: 5px 0;">Lua</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=scala" alt="Scala" width="50" height="50"/>
         <p style="margin: 5px 0;">Scala</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
         <p style="margin: 5px 0;">JavaScript</p>
@@ -77,7 +70,6 @@
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
         <p style="margin: 5px 0;">HTML</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
         <p style="margin: 5px 0;">CSS</p>
@@ -85,8 +77,7 @@
           <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="30" height="30" title="Tailwind CSS"/>
         </div>
       </div>
-      
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+           <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50"/>
         <p style="margin: 5px 0;">Vite</p>
       </div>
@@ -101,27 +92,22 @@
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
         <p style="margin: 5px 0;">Docker</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50"/>
         <p style="margin: 5px 0;">Kubernetes</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50" height="50"/>
         <p style="margin: 5px 0;">Ansible</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/>
         <p style="margin: 5px 0;">Terraform</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="50" height="50"/>
         <p style="margin: 5px 0;">NGINX</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="50" height="50"/>
         <p style="margin: 5px 0;">Cloudflare</p>
@@ -137,22 +123,18 @@
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
         <p style="margin: 5px 0;">PyTorch</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
         <p style="margin: 5px 0;">TensorFlow</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="50" height="50"/>
         <p style="margin: 5px 0;">AI</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50"/>
         <p style="margin: 5px 0;">CUDA</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/>
         <p style="margin: 5px 0;">OpenCV</p>
@@ -191,22 +173,18 @@
         <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
         <p style="margin: 5px 0;">Git</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
         <p style="margin: 5px 0;">GitHub</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
         <p style="margin: 5px 0;">VS Code</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="50" height="50"/>
         <p style="margin: 5px 0;">Neovim</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="50" height="50"/>
         <p style="margin: 5px 0;">Unreal Engine</p>
@@ -222,17 +200,14 @@
         <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="50" height="50"/>
         <p style="margin: 5px 0;">LaTeX</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="50" height="50"/>
         <p style="margin: 5px 0;">Markdown</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
         <p style="margin: 5px 0;">Bash</p>
       </div>
-      
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="50" height="50"/>
         <p style="margin: 5px 0;">PowerShell</p>
@@ -242,16 +217,6 @@
 </div>
 
 
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhaedrusFlow&layout=compact&theme=radical" width="400" />
-</p>
-
-
-
-## Operating Systems
 ```mermaid
 %%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'arial' }, 'flowchart': {'htmlLabels': true, 'curve': 'cardinal'}, 'securityLevel': 'loose'}}%%
 graph TB
@@ -315,7 +280,11 @@ graph TB
     class Rust,Python,TypeScript,Go highlight;
 ```
 
-## 💻 Operating Systems 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhaedrusFlow&layout=compact&theme=radical" width="400" />
+</p>
+
+##  Operating Systems 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
@@ -410,6 +379,7 @@ graph TB
   <summary><strong>Research: The Pursuit of Quality Quantum Advantage</strong></summary>
 
 The foundation of quantum computing begins with the Schrödinger equation:
+
 $$i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t)$$
 
 **Schrodinger Legend:**
@@ -420,9 +390,11 @@ $$i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t
 
 
 A qubit state forms the computational basis:
+
 $|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$ where $|\alpha|^2 + |\beta|^2 = 1$
 
 **Qubit Legend:**
+
 - $|\psi\rangle$: quantum state
 - $\alpha, \beta$: complex probability amplitudes
 - $|0\rangle, |1\rangle$: computational basis states
@@ -431,21 +403,26 @@ $|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$ where $|\alpha|^2 + |\beta|^2 
 ## Grover's Algorithm
 
 **Quantum State Preparation:**
+
 $$|\psi_0\rangle = \frac{1}{\sqrt{N}}\sum_{x=0}^{N-1}|x\rangle$$
 
 **Grover Iteration (applied ~$\frac{\pi}{4}\sqrt{N}$ times):**
+
 $$G = (2|\psi_0\rangle\langle\psi_0| - I) \cdot O_f$$
 
 **Oracle Operation:**
+
 $$O_f|x\rangle = \begin{cases} 
 -|x\rangle & \text{if } f(x) = 1 \\
 |x\rangle & \text{if } f(x) = 0
 \end{cases}$$
 
 **Success Probability:**
+
 $$P_{\text{success}} = \sin^2\left((2r+1)\arcsin\sqrt{\frac{M}{N}}\right)$$
 
 **Grover's Legend:**
+
 - $N = 2^n$: Size of search space (where n is number of qubits)
 - $|\psi_0\rangle$: Uniform superposition of all basis states
 - $O_f$: Oracle function marking solution states with phase flip
