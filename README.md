@@ -12,200 +12,52 @@
 <h2 align="center">My Tech Stack</h2>
 
 <div align="center">
-  <!-- Programming Languages Ecosystem -->
-  <div style="margin-bottom: 30px;">
-    <h3>Programming Languages</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="50" height="50"/>
-        <p style="margin: 5px 0;">Rust</p>
-        <div style="display: flex; gap: 8px; margin-top: 5px;">
-          <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" width="30" height="30" title="WebAssembly"/>
-          <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
-        </div>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/>
-        <p style="margin: 5px 0;">Python</p>
-        <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50"/>
-        <p style="margin: 5px 0;">CUDA</p>
-      </div>
-          <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30" title="PyTorch"/>
-          <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="30" height="30" title="TensorFlow"/>
-          <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="30" height="30" title="Anaconda"/>
-          <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="30" height="30" title="OpenCV"/>
-        </div>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
-        <p style="margin: 5px 0;">TypeScript</p>
-        <div style="display: flex; gap: 8px; margin-top: 5px;">
-          <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="30" height="30" title="Node.js"/>
-          <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="30" height="30" title="Deno"/>
-        </div>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="50" height="50"/>
-        <p style="margin: 5px 0;">Go</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="50" height="50"/>
-        <p style="margin: 5px 0;">Zig</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="50" height="50"/>
-        <p style="margin: 5px 0;">Lua</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=scala" alt="Scala" width="50" height="50"/>
-        <p style="margin: 5px 0;">Scala</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
-        <p style="margin: 5px 0;">JavaScript</p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Web Development Ecosystem -->
-  <div style="margin-bottom: 30px;">
-    <h3>Web-Dev</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
-        <p style="margin: 5px 0;">HTML</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
-        <p style="margin: 5px 0;">CSS</p>
-        <div style="display: flex; gap: 8px; margin-top: 5px;">
-          <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="30" height="30" title="Tailwind CSS"/>
-        </div>
-      </div>
-           <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50"/>
-        <p style="margin: 5px 0;">Vite</p>
-      </div>
-    </div>
-  </div>
-  <!-- DevOps & Infrastructure Ecosystem -->
-  <div style="margin-bottom: 30px;">
-    <h3>DevOps & Infra</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
-        <p style="margin: 5px 0;">Docker</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50"/>
-        <p style="margin: 5px 0;">Kubernetes</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50" height="50"/>
-        <p style="margin: 5px 0;">Ansible</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/>
-        <p style="margin: 5px 0;">Terraform</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="50" height="50"/>
-        <p style="margin: 5px 0;">NGINX</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="50" height="50"/>
-        <p style="margin: 5px 0;">Cloudflare</p>
-      </div>
-    </div>
-  </div>
-=======
-  
-  <!-- AI Ecosystem -->
-  <div style="margin-bottom: 30px;">
-    <h3>AI</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="50" height="50"/>
-        <p style="margin: 5px 0;">AI</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50"/>
-        <p style="margin: 5px 0;">CUDA</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/>
-        <p style="margin: 5px 0;">OpenCV</p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Database Ecosystem -->
-  <div style="margin-bottom: 30px;">
-    <h3>Databases</h3>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/>
-    <p style="margin: 5px 0;">Redis</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-    <p style="margin: 5px 0;">MySQL</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL" width="50" height="50"/>
-    <p style="margin: 5px 0;">SQL</p>
-  </div>
-</div>
-  <!-- Development Tools Ecosystem -->
-  <div style="margin-bottom: 30px;">
-    <h3>Dev Tools</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-        <p style="margin: 5px 0;">Git</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
-        <p style="margin: 5px 0;">GitHub</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
-        <p style="margin: 5px 0;">VS Code</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="50" height="50"/>
-        <p style="margin: 5px 0;">Neovim</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" width="50" height="50"/>
-        <p style="margin: 5px 0;">Unreal Engine</p>
-      </div>
-    </div>
-  </div>
-  <!-- Documentation & Scripting Ecosystem -->
-  <div style="margin-bottom: 30px;">
-    <h3>Documentation & Scripting</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="50" height="50"/>
-        <p style="margin: 5px 0;">LaTeX</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="50" height="50"/>
-        <p style="margin: 5px 0;">Markdown</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
-        <p style="margin: 5px 0;">Bash</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="50" height="50"/>
-        <p style="margin: 5px 0;">PowerShell</p>
-      </div>
-    </div>
-  </div>
-</div>
+### 🧠 Programming Languages
+
+![Rust](https://skillicons.dev/icons?i=rust) ![WASM](https://skillicons.dev/icons?i=wasm) ![Tauri](https://skillicons.dev/icons?i=tauri)  
+![Python](https://skillicons.dev/icons?i=py) ![Go](https://skillicons.dev/icons?i=go) ![Zig](https://skillicons.dev/icons?i=zig) ![Lua](https://skillicons.dev/icons?i=lua) ![Scala](https://skillicons.dev/icons?i=scala)  
+![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+---
+
+### 🌐 Web Development
+
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)  
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Deno](https://skillicons.dev/icons?i=deno)
+
+---
+
+### ⚙️ DevOps & Infrastructure
+
+![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Ansible](https://skillicons.dev/icons?i=ansible)  
+![Terraform](https://skillicons.dev/icons?i=terraform) ![NGINX](https://skillicons.dev/icons?i=nginx) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+
+---
+
+### 🧬 AI / ML / HPC
+
+![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Anaconda](https://skillicons.dev/icons?i=anaconda)  
+![OpenCV](https://skillicons.dev/icons?i=opencv)  
+![CUDA](https://img.shields.io/badge/CUDA-0769AD?style=flat&logo=nvidia&logoColor=white)
+
+---
+
+### 🗃️ Databases
+
+![Redis](https://skillicons.dev/icons?i=redis) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite)
+
+---
+
+### 🛠️ Development Tools
+
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode)  
+![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal)
+
+---
+
+### 📜 Documentation & Scripting
+
+![LaTeX](https://skillicons.dev/icons?i=latex) ![Markdown](https://skillicons.dev/icons?i=md) ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell)
 
 ##Tech Flow
 ```mermaid
