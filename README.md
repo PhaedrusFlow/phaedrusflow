@@ -54,8 +54,7 @@
 
 ## Tech Flow
 
-    ```mermaid
-
+```mermaid
 %%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'arial' }, 'flowchart': {'htmlLabels': true, 'curve': 'cardinal'}, 'securityLevel': 'loose'}}%%
 
 graph TB
@@ -68,20 +67,17 @@ graph TB
         Lua["Lua"]
         Scala["Scala"]
         Mojo["Mojo"]
-    end
-    
+    end 
     subgraph "Data & Databases"
         Postgres["PostgreSQL"]
         Redis["Redis"]
     end
-    
     subgraph "AI & Machine Learning"
         PyTorch["PyTorch"]
         TensorFlow["TensorFlow"]
         OpenCV["OpenCV"]
         AI["AI"]
     end
-    
     subgraph "DevOps & Infrastructure"
         Ansible["Ansible"]
         Nginx["NGINX"]
@@ -89,31 +85,25 @@ graph TB
         Bash["Bash"]
         PowerShell["PowerShell"]
     end
-    
     subgraph "Frontend & UI"
         HTML["HTML"]
         CSS["CSS"]
         Tailwind["Tailwind"]
         Vite["Vite"]
     end
-    
     subgraph "Development Tools"
         VSCode["VS Code"]
         Neovim["Neovim"]
     end
-    
     subgraph "Documentation & Markup"
         LaTeX["LaTeX"]
         Markdown["Markdown"]
     end
-    
     subgraph "Frameworks & Runtimes"
         NodeJS["Node.js"]
         Tauri["Tauri"]
         WASM["WebAssembly"]
     end
-    
-
     classDef default fill:#f9f9f9,stroke:#333,stroke-width:2px;
     classDef highlight fill:#e1f5fe,stroke:#03a9f4,stroke-width:2px;
     class Rust,Python,TypeScript,Go highlight;
@@ -124,9 +114,8 @@ graph TB
 </p>
 
 ##  Operating Systems 
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; flex-direction: row; align-items: center;">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
     <div style="display: flex; gap: 5px; margin-top: 10px;">
       <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>
@@ -136,14 +125,14 @@ graph TB
     </div>
   </div>
   
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; flex-direction: row; align-items: center;">
     <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50"/>
     <div style="display: flex; gap: 5px; margin-top: 10px;">
       <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>
     </div>
   </div>
   
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; flex-direction: row; align-items: center;">
     <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="50" height="50"/>
   </div>
 </div>
@@ -161,12 +150,15 @@ graph TB
 
 ### Edge Security
 
-<img src="assets/icons/ghostty.svg" alt="Ghostty" width="40" height="40"/>
-<img src="assets/icons/openssh.svg" alt="OpenSSH" width="40" height="40"/>
-<img src="assets/icons/openssl.svg" alt="OpenSSL" width="40" height="40"/>
-<img src="assets/icons/tor.svg" alt="Tor" width="40" height="40"/>
-<img src="assets/icons/openpgp.svg" alt="OpenPGP" width="40" height="40"/>
-<img src="assets/icons/gnupg.svg" alt="GnuPG" width="40" height="40"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="assets/icons/ghostty.svg" alt="Ghostty" width="40" height="40" title="Ghostty"/>
+  <img src="assets/icons/openssh.svg" alt="OpenSSH" width="40" height="40" title="OpenSSH"/>
+  <img src="assets/icons/openssl.svg" alt="OpenSSL" width="40" height="40" title="OpenSSL"/>
+  <img src="assets/icons/tor.svg" alt="Tor" width="40" height="40" title="Tor"/>
+  <img src="assets/icons/openpgp.svg" alt="OpenPGP" width="40" height="40" title="OpenPGP"/>
+  <img src="assets/icons/gnupg.svg" alt="GnuPG" width="40" height="40" title="GnuPG"/>
+</div>
+
 
 ## Research Focus Areas
 
@@ -187,18 +179,14 @@ graph TB
 [![Startup LinkedIn](https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/95058568/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0302--4812-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-0302-4812)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Open--Research-blue?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Matt-Porter-7)
-
 </div>
-
 <h3 align="center">Social Media</h3>
 <div align="center">
   
 [![Twitter](https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter)](https://twitter.com/PhaedrusFlow)
 [![Instagram](https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/phaedrusflow)
 [![YouTube](https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube)](https://www.youtube.com/@qompassai)
-
 </div>
-
 <h3 align="center">Developer Programs</h3>
 <div align="center">
  
@@ -210,9 +198,6 @@ graph TB
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/en-US/)
 
 </div>
-
-
-
 
 <details id="detailed-research">
   <summary><strong>Research: The Pursuit of Quality Quantum Advantage</strong></summary>
@@ -303,15 +288,19 @@ Improving quantum circuit reliability through advanced error mitigation techniqu
 ML-KEM operates in the polynomial ring $R_q = \mathbb{Z}_q[X]/(X^n + 1)$
 
 **Key Generation:**
+
 $$\text{pk} = (A, t = As + e)$$
 
 **Encapsulation:**
+
 $$c = (c_1 = A^T r + e_1, c_2 = t^T r + e_2 + \lfloor q/2 \rfloor m)$$
 
 **Decapsulation:**
+
 $$m' = \left\lceil\left(c_2 - s^T c_1\right) \cdot \frac{2}{q}\right\rceil$$
 
 **ML-KEM Legend:**
+
 - $R_q$: polynomial ring with coefficients in $\mathbb{Z}_q$
 - $\mathbb{Z}_q$: integers modulo $q$
 - $n$: polynomial degree (typically 256)
@@ -329,9 +318,11 @@ $$m' = \left\lceil\left(c_2 - s^T c_1\right) \cdot \frac{2}{q}\right\rceil$$
 ## ML-DSA (Dilithium)
 
 **Key Generation:**
+
 $$\text{pk} = (A, t = A s)$$
 
 **Signature Generation:**
+
 - Sample $y$ and compute $w = Ay$
 - Compute challenge $c$ from message digest and $w$
 - Compute $z = y + cs$
