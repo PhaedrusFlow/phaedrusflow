@@ -22,87 +22,30 @@
 
 ### 🧠 Programming Languages
 
-![Rust](https://skillicons.dev/icons?i=rust) 
+![Rust](https://skillicons.dev/icons?i=rust) ![WASM](https://skillicons.dev/icons?i=wasm) ![Tauri](https://skillicons.dev/icons?i=tauri)  
 
-![WASM](https://skillicons.dev/icons?i=wasm) 
-
-![Tauri](https://skillicons.dev/icons?i=tauri)  
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <div style="display: flex; align-items: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" title="PyTorch"/>
-  </div>
-  <div style="display: flex; align-items: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" title="TensorFlow"/>
-  </div>
-  <div style="display: flex; align-items: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="50" height="50" title="Anaconda"/>
-  </div>
-  <div style="display: flex; align-items: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50" title="OpenCV"/>
-  </div>
-  <div style="display: flex; align-items: center; margin: 10px;">
-    <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50" title="NVIDIA CUDA"/>
-  </div>
-</div>
-: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
-    <p style="margin: 5px 0;">TensorFlow</p>
-  </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="50" height="50" title="Anaconda"/>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50" title="OpenCV"/>
+  <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50" title="NVIDIA CUDA"/>
 </div>
 
-![Go](https://skillicons.dev/icons?i=go) 
-
-![Zig](https://skillicons.dev/icons?i=zig) 
-
-![Lua](https://skillicons.dev/icons?i=lua) 
-
-![Scala](https://skillicons.dev/icons?i=scala)  
-
-![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Go](https://skillicons.dev/icons?i=go) ![Zig](https://skillicons.dev/icons?i=zig) ![Lua](https://skillicons.dev/icons?i=lua) ![Scala](https://skillicons.dev/icons?i=scala)  ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ---
 
 ### 🌐 Web Development
 
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)  
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Deno](https://skillicons.dev/icons?i=deno)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)  ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Deno](https://skillicons.dev/icons?i=deno)
 
 ---
 
 ### ⚙️ DevOps & Infrastructure
 
-![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Ansible](https://skillicons.dev/icons?i=ansible)  
-![Terraform](https://skillicons.dev/icons?i=terraform) ![NGINX](https://skillicons.dev/icons?i=nginx) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Ansible](https://skillicons.dev/icons?i=ansible)  ![Terraform](https://skillicons.dev/icons?i=terraform) ![NGINX](https://skillicons.dev/icons?i=nginx) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
 
----
-
-<div style="margin-bottom: 30px;">
-  <h3>AI / ML / HPC</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
-      <p style="margin: 5px 0;">PyTorch</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
-      <p style="margin: 5px 0;">TensorFlow</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="50" height="50"/>
-      <p style="margin: 5px 0;">Anaconda</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/>
-      <p style="margin: 5px 0;">OpenCV</p>
-    </div>
-    <!-- Custom CUDA SVG -->
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-      <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50"/>
-      <p style="margin: 5px 0;">CUDA</p>
-    </div>
-  </div>
-</div>
 ---
 
 ### 🗃️ Databases
@@ -112,8 +55,7 @@
 
 ### 🛠️ Development Tools
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode)  
-![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode)  ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal)
 ---
 
 ### 📜 Documentation & Scripting
