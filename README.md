@@ -25,45 +25,36 @@
 ![Rust](https://skillicons.dev/icons?i=rust) ![WASM](https://skillicons.dev/icons?i=wasm) ![Tauri](https://skillicons.dev/icons?i=tauri)  
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40" title="PyTorch"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" title="TensorFlow"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="50" height="50" title="Anaconda"/>
-  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50" title="OpenCV"/>
-  <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50" title="NVIDIA CUDA"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40" title="Anaconda"/>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40" title="OpenCV"/>
+  <img src="assets/icons/cuda.svg" alt="CUDA" width="40" height="40" title="NVIDIA CUDA"/>
 </div>
 
 ![Go](https://skillicons.dev/icons?i=go) ![Zig](https://skillicons.dev/icons?i=zig) ![Lua](https://skillicons.dev/icons?i=lua) ![Scala](https://skillicons.dev/icons?i=scala)  ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=javascript)
-
 ---
 
 ### 🌐 Web Development
 
 ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite)  ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Deno](https://skillicons.dev/icons?i=deno)
-
 ---
-
 ### ⚙️ DevOps & Infrastructure
-
 ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Ansible](https://skillicons.dev/icons?i=ansible)  ![Terraform](https://skillicons.dev/icons?i=terraform) ![NGINX](https://skillicons.dev/icons?i=nginx) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
-
 ---
-
 ### 🗃️ Databases
-<!-- Database Ecosystem -->
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)![MySQL](https://skillicons.dev/icons?i=mysql)    
 ---
-
 ### 🛠️ Development Tools
-
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode)  ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal)
 ---
-
 ### 📜 Documentation & Scripting
-
 ![LaTeX](https://skillicons.dev/icons?i=latex) ![Markdown](https://skillicons.dev/icons?i=md) ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell)
 
-##Tech Flow
-```mermaid
+## Tech Flow
+
+    ```mermaid
 
 %%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'arial' }, 'flowchart': {'htmlLabels': true, 'curve': 'cardinal'}, 'securityLevel': 'loose'}}%%
 
