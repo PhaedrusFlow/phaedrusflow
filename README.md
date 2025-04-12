@@ -28,15 +28,24 @@
 
 ![Tauri](https://skillicons.dev/icons?i=tauri)  
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <!-- Python Icon -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="70" height="70"/>
-    <p style="margin: 5px 0;">Python</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <div style="display: flex; align-items: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" title="PyTorch"/>
   </div>
-  
-  <!-- TensorFlow Icon -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; align-items: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" title="TensorFlow"/>
+  </div>
+  <div style="display: flex; align-items: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="50" height="50" title="Anaconda"/>
+  </div>
+  <div style="display: flex; align-items: center; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50" title="OpenCV"/>
+  </div>
+  <div style="display: flex; align-items: center; margin: 10px;">
+    <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50" title="NVIDIA CUDA"/>
+  </div>
+</div>
+: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
     <p style="margin: 5px 0;">TensorFlow</p>
   </div>

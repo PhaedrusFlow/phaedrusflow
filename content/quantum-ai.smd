@@ -1,0 +1,27 @@
+---
+.title = "Ecosystem Overview",
+.layout = "base.shtml",
+---
+<!-- Ecosystem Section -->
+<div style="margin-bottom: 30px;">
+  <h3>🗃️ Databases</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <div class="icon-container">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/>
+      <span class="custom-tooltip">Redis</span>
+    </div>
+    <div class="icon-container">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
+      <span class="custom-tooltip">MySQL</span>
+    </div>
+    <div class="icon-container">
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="50" height="50"/>
+      <span class="custom-tooltip">SQLite</span>
+    </div>
+    <div class="icon-container">
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/>
+      <span class="custom-tooltip">PostgreSQL</span>
+    </div>
+  </div>
+</div>
+
