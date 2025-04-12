@@ -22,8 +22,34 @@
 
 ### 🧠 Programming Languages
 
-![Rust](https://skillicons.dev/icons?i=rust) ![WASM](https://skillicons.dev/icons?i=wasm) ![Tauri](https://skillicons.dev/icons?i=tauri)  
-![Python](https://skillicons.dev/icons?i=py) ![Go](https://skillicons.dev/icons?i=go) ![Zig](https://skillicons.dev/icons?i=zig) ![Lua](https://skillicons.dev/icons?i=lua) ![Scala](https://skillicons.dev/icons?i=scala)  
+![Rust](https://skillicons.dev/icons?i=rust) 
+
+![WASM](https://skillicons.dev/icons?i=wasm) 
+
+![Tauri](https://skillicons.dev/icons?i=tauri)  
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <!-- Python Icon -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="70" height="70"/>
+    <p style="margin: 5px 0;">Python</p>
+  </div>
+  
+  <!-- TensorFlow Icon -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
+    <p style="margin: 5px 0;">TensorFlow</p>
+  </div>
+</div>
+
+![Go](https://skillicons.dev/icons?i=go) 
+
+![Zig](https://skillicons.dev/icons?i=zig) 
+
+![Lua](https://skillicons.dev/icons?i=lua) 
+
+![Scala](https://skillicons.dev/icons?i=scala)  
+
 ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ---
@@ -72,29 +98,7 @@
 
 ### 🗃️ Databases
 <!-- Database Ecosystem -->
-<div style="margin-bottom: 30px;">
-  <h3>Databases</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/>
-      <p style="margin: 5px 0;">Redis</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
-      <p style="margin: 5px 0;">MySQL</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="50" height="50"/>
-      <p style="margin: 5px 0;">SQLite</p>
-    </div>
-    <!-- Add PostgreSQL -->
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/>
-      <p style="margin: 5px 0;">PostgreSQL</p>
-    </div>
-  </div>
-</div>
-
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)![MySQL](https://skillicons.dev/icons?i=mysql)    
 ---
 
 ### 🛠️ Development Tools
