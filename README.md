@@ -118,6 +118,27 @@
       </div>
     </div>
   </div>
+=======
+  
+  <!-- AI Ecosystem -->
+  <div style="margin-bottom: 30px;">
+    <h3>AI</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="50" height="50"/>
+        <p style="margin: 5px 0;">AI</p>
+      </div>
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50"/>
+        <p style="margin: 5px 0;">CUDA</p>
+      </div>
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/>
+        <p style="margin: 5px 0;">OpenCV</p>
+      </div>
+    </div>
+  </div>
+  
   <!-- Database Ecosystem -->
   <div style="margin-bottom: 30px;">
     <h3>Databases</h3>
@@ -126,10 +147,7 @@
     <p style="margin: 5px 0;">Redis</p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img src="assets/icons/duckdb.svg" alt="DuckDB" width="50" height="50"/>
-    <p style="margin: 5px 0;">DuckDB</p>
   </div>
-  
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
     <p style="margin: 5px 0;">MySQL</p>
@@ -189,8 +207,9 @@
   </div>
 </div>
 
-
+##Tech Flow
 ```mermaid
+
 %%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'arial' }, 'flowchart': {'htmlLabels': true, 'curve': 'cardinal'}, 'securityLevel': 'loose'}}%%
 
 graph TB
