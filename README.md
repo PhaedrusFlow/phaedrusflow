@@ -4,14 +4,22 @@
 
 <h3>Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech</h3>
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![License](https://img.shields.io/badge/license-Custom-lightgrey.svg)](./LICENSE-QCDA)
+<p align="center">
+  <a href="https://www.gnu.org/licenses/agpl-3.0">
+    <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3">
+  </a>
+  <a href="./LICENSE-QCDA">
+    <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
+  </a>
+</p>
+
 
 ## Tech-Stack
 
 <h2 align="center">My Tech Stack</h2>
 
 <div align="center">
+
 ### 🧠 Programming Languages
 
 ![Rust](https://skillicons.dev/icons?i=rust) ![WASM](https://skillicons.dev/icons?i=wasm) ![Tauri](https://skillicons.dev/icons?i=tauri)  
@@ -34,17 +42,58 @@
 
 ---
 
-### 🧬 AI / ML / HPC
-
-![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Anaconda](https://skillicons.dev/icons?i=anaconda)  
-![OpenCV](https://skillicons.dev/icons?i=opencv)  
-![CUDA](https://img.shields.io/badge/CUDA-0769AD?style=flat&logo=nvidia&logoColor=white)
-
+<div style="margin-bottom: 30px;">
+  <h3>AI / ML / HPC</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
+      <p style="margin: 5px 0;">PyTorch</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
+      <p style="margin: 5px 0;">TensorFlow</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="50" height="50"/>
+      <p style="margin: 5px 0;">Anaconda</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/>
+      <p style="margin: 5px 0;">OpenCV</p>
+    </div>
+    <!-- Custom CUDA SVG -->
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+      <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50"/>
+      <p style="margin: 5px 0;">CUDA</p>
+    </div>
+  </div>
+</div>
 ---
 
 ### 🗃️ Databases
-
-![Redis](https://skillicons.dev/icons?i=redis) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite)
+<!-- Database Ecosystem -->
+<div style="margin-bottom: 30px;">
+  <h3>Databases</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px;">
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/>
+      <p style="margin: 5px 0;">Redis</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
+      <p style="margin: 5px 0;">MySQL</p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="50" height="50"/>
+      <p style="margin: 5px 0;">SQLite</p>
+    </div>
+    <!-- Add PostgreSQL -->
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/>
+      <p style="margin: 5px 0;">PostgreSQL</p>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -52,7 +101,6 @@
 
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode)  
 ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal)
-
 ---
 
 ### 📜 Documentation & Scripting
