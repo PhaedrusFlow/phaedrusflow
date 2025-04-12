@@ -1,0 +1,12 @@
+// zine.ziggy
+Site {
+    .title = "The Deep Pursuit of Quality AI",
+    .host_url = "https://phaedrusflow.github.io",
+    .content_dir_path = "content",
+    .layouts_dir_path = "layouts", 
+    .assets_dir_path = "assets",
+    .static_assets = [
+        .{ .src = "assets", .dst = "/" },
+    ],
+}
+

@@ -4,6 +4,9 @@
 
 <h3>Quality AI Adoption Solutions Helping you navigate the Deep Waters of Deep Tech</h3>
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License](https://img.shields.io/badge/license-Custom-lightgrey.svg)](./LICENSE-QCDA)
+
 ## Tech-Stack
 
 <h2 align="center">My Tech Stack</h2>
@@ -24,7 +27,9 @@
       <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
         <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/>
         <p style="margin: 5px 0;">Python</p>
-        <div style="display: flex; gap: 8px; margin-top: 5px;">
+        <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50"/>
+        <p style="margin: 5px 0;">CUDA</p>
+      </div>
           <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30" title="PyTorch"/>
           <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="30" height="30" title="TensorFlow"/>
           <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="30" height="30" title="Anaconda"/>
@@ -83,7 +88,6 @@
       </div>
     </div>
   </div>
-  
   <!-- DevOps & Infrastructure Ecosystem -->
   <div style="margin-bottom: 30px;">
     <h3>DevOps & Infra</h3>
@@ -114,34 +118,6 @@
       </div>
     </div>
   </div>
-  
-  <!-- AI Ecosystem -->
-  <div style="margin-bottom: 30px;">
-    <h3>AI</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
-        <p style="margin: 5px 0;">PyTorch</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50"/>
-        <p style="margin: 5px 0;">TensorFlow</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=ai" alt="AI" width="50" height="50"/>
-        <p style="margin: 5px 0;">AI</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="assets/icons/cuda.svg" alt="CUDA" width="50" height="50"/>
-        <p style="margin: 5px 0;">CUDA</p>
-      </div>
-      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/>
-        <p style="margin: 5px 0;">OpenCV</p>
-      </div>
-    </div>
-  </div>
-  
   <!-- Database Ecosystem -->
   <div style="margin-bottom: 30px;">
     <h3>Databases</h3>
@@ -149,7 +125,6 @@
     <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/>
     <p style="margin: 5px 0;">Redis</p>
   </div>
-  
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="assets/icons/duckdb.svg" alt="DuckDB" width="50" height="50"/>
     <p style="margin: 5px 0;">DuckDB</p>
@@ -159,7 +134,6 @@
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
     <p style="margin: 5px 0;">MySQL</p>
   </div>
-  
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL" width="50" height="50"/>
     <p style="margin: 5px 0;">SQL</p>
@@ -191,7 +165,6 @@
       </div>
     </div>
   </div>
-  
   <!-- Documentation & Scripting Ecosystem -->
   <div style="margin-bottom: 30px;">
     <h3>Documentation & Scripting</h3>
@@ -219,6 +192,7 @@
 
 ```mermaid
 %%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'arial' }, 'flowchart': {'htmlLabels': true, 'curve': 'cardinal'}, 'securityLevel': 'loose'}}%%
+
 graph TB
     subgraph "Programming Languages"
         Rust["Rust"]

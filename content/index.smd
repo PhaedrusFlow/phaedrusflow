@@ -1,12 +1,12 @@
-# PhaedrusFlow
+# content/index.smd
+---
+.title = "Quantum AI Research Hub"
+.layout = "base.shtml"
+---
+Welcome to **Qompass AI** - Helping You Navigate the Deep Waters of Deep Tech.
 
-## Founder and CEO of Qompass AI
-Quality AI Adoption Solutions as a Service
+%%{init: {'theme': 'dark'}}%%
+graph LR
+    Quantum[Quantum Algorithms] --> Healthcare[Medical Imaging]
+    Quantum --> Education[Personalized Learning]
 
-$image('profile.jpg')
-
-## Projects
-- Nautilus: Security
-- Equator: Education
-- Sojourn: Deployment
-- WaveRunner: Infra
