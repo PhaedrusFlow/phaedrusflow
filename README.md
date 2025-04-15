@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<h2 align="center">Front-End Technologies</h2>
+<h3 align="center">Front-End Technologies</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" title="CSS"/>
@@ -44,17 +44,16 @@
 <img src ="https://skillicons.dev/icons?i=html" alt="html" width="30" height="30" title="html"/>
 </div>
 
-#### 🗃️ Databases
+<h3 align="center">Databases</h3>
 
 #### ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)![MySQL](https://skillicons.dev/icons?i=mysql)
 <div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
  <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="30" height="30" title="Neovim"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" height="30" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30" height="30" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="30" height="30" title="Neovim"/>
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="30" height="30" title="Unreal"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="30" height="30" title="Bash"/>
 </div>
@@ -67,7 +66,7 @@
   <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="30" height="30" title="Cloudflare"/>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
 <img src="assets/icons/ghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
 <img src="assets/icons/openssh.svg" alt="OpenSSH" width="30" height="30" title="OpenSSH"/>
 <img src="assets/icons/openssl.svg" alt="OpenSSL" width="30" height="30" title="OpenSSL"/>
@@ -84,12 +83,12 @@
 
 ### Operating Systems
 
-  <div style="display: flex; flex-direction: row; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
     <div style="display: flex; gap: 5px; margin-top: 10px;">
-      <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>|
-      <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>|
-      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>|
+      <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>
+      <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>
+      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
       <img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="30" height="30"/>
     </div>
   </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>|
