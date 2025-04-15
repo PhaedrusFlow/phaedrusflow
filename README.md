@@ -42,26 +42,32 @@
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
 <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src ="https://skillicons.dev/icons?i=html" alt="html" width="30" height="30" title="html"/>
 </div>
 
 ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Deno](https://skillicons.dev/icons?i=deno) ![WASM](https://skillicons.dev/icons?i=wasm) ![LaTeX](https://skillicons.dev/icons?i=latex) ![Markdown](https://skillicons.dev/icons?i=md)
 
-#### ⚙️ DevOps & Infra
-
-
-
 #### 🗃️ Databases
 
 #### ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)![MySQL](https://skillicons.dev/icons?i=mysql)
+<div>
 
-#### 🛠️ Development Tools
-
-#### ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal) ![Bash](https://skillicons.dev/icons?i=bash)
-
-### ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Ansible](https://skillicons.dev/icons?i=ansible) ![Terraform](https://skillicons.dev/icons?i=terraform) ![NGINX](https://skillicons.dev/icons?i=nginx) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+ <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="30" height="30" title="Neovim"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" height="30" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30" height="30" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="30" height="30" title="Neovim"/>
+  <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="30" height="30" title="Unreal"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="30" height="30" title="Bash"/>
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" height="30" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="30" height="30" title="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="30" height="30" title="Ansible"/>
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="30" height="30" title="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="30" height="30" title="NGINX"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="30" height="30" title="Cloudflare"/>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
