@@ -24,7 +24,6 @@
 <h2 align="center">Front-End Technologies</h2>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="30" title="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="30" height="30" title="Tailwind"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/>
