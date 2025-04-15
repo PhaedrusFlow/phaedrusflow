@@ -1,0 +1,59 @@
+[View the interactive visualization →](https://phaedrusflow.github.io/phaedrusflow/diagrams/mlkem/)
+
+<sub>This visualization demonstrates Alice and Bob establishing a shared secret using NIST-standardized post-quantum cryptography.</sub>
+This visualization illustrates how Alice and Bob establish a shared secret using the NIST-standardized post-quantum cryptographic algorithm.
+
+```mermaid
+%%{init: {'theme': 'forest', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'arial' }, 'flowchart': {'htmlLabels': true, 'curve': 'cardinal'}, 'securityLevel': 'loose'}}%%
+
+graph TB
+    subgraph "Programming Languages"
+        Rust["Rust"]
+        Python["Python"]
+        TypeScript["TypeScript"]
+        Zig["Zig"]
+        Go["Go"]
+        Lua["Lua"]
+        Scala["Scala"]
+        Mojo["Mojo"]
+    end 
+    subgraph "Data & Databases"
+        Postgres["PostgreSQL"]
+        Redis["Redis"]
+    end
+    subgraph "AI & Machine Learning"
+        PyTorch["PyTorch"]
+        TensorFlow["TensorFlow"]
+        OpenCV["OpenCV"]
+        AI["AI"]
+    end
+    subgraph "DevOps & Infrastructure"
+        Ansible["Ansible"]
+        Nginx["NGINX"]
+        Cloudflare["Cloudflare"]
+        Bash["Bash"]
+        PowerShell["PowerShell"]
+    end
+    subgraph "Frontend & UI"
+        HTML["HTML"]
+        CSS["CSS"]
+        Tailwind["Tailwind"]
+        Vite["Vite"]
+    end
+    subgraph "Development Tools"
+        VSCode["VS Code"]
+        Neovim["Neovim"]
+    end
+    subgraph "Documentation & Markup"
+        LaTeX["LaTeX"]
+        Markdown["Markdown"]
+    end
+    subgraph "Frameworks & Runtimes"
+        NodeJS["Node.js"]
+        Tauri["Tauri"]
+        WASM["WebAssembly"]
+    end
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:2px;
+    classDef highlight fill:#e1f5fe,stroke:#03a9f4,stroke-width:2px;
+    class Rust,Python,TypeScript,Go highlight;
+```

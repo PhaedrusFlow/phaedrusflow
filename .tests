@@ -1,0 +1,405 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Kyber/ML-KEM Visualization</title>
+    <meta charset="UTF-8" />
+    <style>
+      body {
+        font-family: "Inter", sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #0f1419;
+        color: #ffffff;
+      }
+
+      h1 {
+        font-size: 2rem;
+        text-align: center;
+        margin-bottom: 2rem;
+        color: #36e2ec;
+      }
+
+      #visualization {
+        width: 960px;
+        height: 600px;
+        margin: 0 auto;
+      }
+
+      .animated-link {
+        stroke-dasharray: 10, 5;
+        animation: dash 1s linear infinite;
+      }
+
+      @keyframes dash {
+        to {
+          stroke-dashoffset: 15;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Kyber/ML-KEM Post-Quantum Cryptography Visualization</h1>
+    <div id="visualization"></div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+      // Kyber/ML-KEM visualization using D3.js with Hyprland-inspired color scheme
+      const svg = d3.select("#visualization").append("svg").attr("width", 960).attr("height", 600).attr("style", "background-color: #0f1419;"); // Dark background similar to wallpaper
+
+      // Define a gradient for glow effects
+      const defs = svg.append("defs");
+
+      // Radial gradient for nodes
+      const glowGradient = defs.append("radialGradient").attr("id", "character-glow").attr("cx", "50%").attr("cy", "50%").attr("r", "50%");
+
+      glowGradient.append("stop").attr("offset", "0%").attr("stop-color", "#36e2ec").attr("stop-opacity", 1);
+
+      glowGradient.append("stop").attr("offset", "100%").attr("stop-color", "#1a6dbb").attr("stop-opacity", 0.8);
+
+      // Alice gradient (lighter cyan)
+      const aliceGradient = defs.append("radialGradient").attr("id", "alice-gradient").attr("cx", "50%").attr("cy", "50%").attr("r", "50%");
+
+      aliceGradient
+        .append("stop")
+        .attr("offset", "0%")
+        .attr("stop-color", "#36e2ec") // Bright cyan
+        .attr("stop-opacity", 1);
+
+      aliceGradient
+        .append("stop")
+        .attr("offset", "100%")
+        .attr("stop-color", "#1a6dbb") // Darker blue
+        .attr("stop-opacity", 0.8);
+
+      // Bob gradient (deeper blue)
+      const bobGradient = defs.append("radialGradient").attr("id", "bob-gradient").attr("cx", "50%").attr("cy", "50%").attr("r", "50%");
+
+      bobGradient
+        .append("stop")
+        .attr("offset", "0%")
+        .attr("stop-color", "#1a6dbb") // Darker blue
+        .attr("stop-opacity", 1);
+
+      bobGradient
+        .append("stop")
+        .attr("offset", "100%")
+        .attr("stop-color", "#0a3a6a") // Even darker blue
+        .attr("stop-opacity", 0.8);
+
+      // Glow filter
+      const filter = defs.append("filter").attr("id", "glow").attr("x", "-50%").attr("y", "-50%").attr("width", "200%").attr("height", "200%");
+
+      filter.append("feGaussianBlur").attr("stdDeviation", "5").attr("result", "coloredBlur");
+
+      const feMerge = filter.append("feMerge");
+      feMerge.append("feMergeNode").attr("in", "coloredBlur");
+      feMerge.append("feMergeNode").attr("in", "SourceGraphic");
+
+      // Add humanistic patterns for Alice and Bob
+      const alicePattern = defs.append("pattern").attr("id", "alice-pattern").attr("width", 1).attr("height", 1).attr("patternUnits", "objectBoundingBox");
+
+      // Add female silhouette for Alice
+      alicePattern.append("circle").attr("cx", 0.5).attr("cy", 0.38).attr("r", 0.22).attr("fill", "#36e2ec");
+
+      alicePattern.append("path").attr("d", "M0.3,0.6 C0.3,0.6 0.5,0.9 0.7,0.6 L0.7,1 L0.3,1 Z").attr("fill", "#36e2ec");
+
+      const bobPattern = defs.append("pattern").attr("id", "bob-pattern").attr("width", 1).attr("height", 1).attr("patternUnits", "objectBoundingBox");
+
+      // Add male silhouette for Bob
+      bobPattern.append("circle").attr("cx", 0.5).attr("cy", 0.38).attr("r", 0.22).attr("fill", "#1a6dbb");
+
+      bobPattern.append("path").attr("d", "M0.35,0.6 C0.35,0.6 0.5,0.85 0.65,0.6 L0.65,1 L0.35,1 Z").attr("fill", "#1a6dbb");
+
+      // Add Alice and Bob characters with humanistic representations
+      const characters = [
+        { id: "alice", name: "Alice", x: 150, y: 150, pattern: "url(#alice-pattern)" },
+        { id: "bob", name: "Bob", x: 800, y: 450, pattern: "url(#bob-pattern)" },
+      ];
+
+      // Define nodes with improved positioning to reduce overlap
+      const nodes = [
+        { id: "aliceKeyGen", label: "KeyGen()", x: 150, y: 270, type: "process", owner: "alice" },
+        { id: "alicePubKey", label: "Public Key", x: 300, y: 170, type: "key", owner: "alice" },
+        { id: "alicePrivKey", label: "Private Key", x: 150, y: 390, type: "key", owner: "alice" },
+        { id: "bobEncap", label: "Encapsulate", x: 600, y: 350, type: "process", owner: "bob" },
+        { id: "bobCiphertext", label: "Ciphertext", x: 450, y: 420, type: "data", owner: "bob" },
+        { id: "bobSharedSecret", label: "Shared Secret", x: 800, y: 350, type: "secret", owner: "bob" },
+        { id: "aliceDecap", label: "Decapsulate", x: 300, y: 460, type: "process", owner: "alice" },
+        { id: "aliceSharedSecret", label: "Shared Secret", x: 150, y: 520, type: "secret", owner: "alice" },
+      ];
+
+      // Define links between nodes as message exchanges - now all animated
+      const links = [
+        { source: "aliceKeyGen", target: "alicePubKey", label: "1. Generate key pair", animate: true },
+        { source: "aliceKeyGen", target: "alicePrivKey", label: "1. Generate key pair", animate: true },
+        { source: "alicePubKey", target: "bobEncap", label: "2. Send public key", animate: true },
+        { source: "bobEncap", target: "bobCiphertext", label: "3. Generate ciphertext", animate: true },
+        { source: "bobEncap", target: "bobSharedSecret", label: "3. Derive shared secret", animate: true },
+        { source: "bobCiphertext", target: "aliceDecap", label: "4. Send ciphertext", animate: true },
+        { source: "alicePrivKey", target: "aliceDecap", label: "5. Use private key", animate: true },
+        { source: "aliceDecap", target: "aliceSharedSecret", label: "5. Recover same secret", animate: true },
+      ];
+
+      // Add links with glow effect - all animated now
+      svg
+        .selectAll(".link")
+        .data(links)
+        .enter()
+        .append("path")
+        .attr("class", "animated-link")
+        .attr("id", (d) => `link-${d.source}-${d.target}`)
+        .attr("d", (d) => {
+          const sourceNode = nodes.find((node) => node.id === d.source);
+          const targetNode = nodes.find((node) => node.id === d.target);
+          return `M${sourceNode.x},${sourceNode.y}L${targetNode.x},${targetNode.y}`;
+        })
+        .attr("stroke", (d) => (d.animate ? "#36e2ec" : "#1a6dbb"))
+        .attr("stroke-width", 2)
+        .attr("stroke-dasharray", "10,5")
+        .attr("filter", "url(#glow)");
+
+      // Add link labels with improved positioning and background
+      const linkLabels = svg.selectAll(".link-label-bg").data(links).enter().append("g").attr("class", "link-label-group");
+
+      // Add background for better text readability - improved to avoid overlapping
+      linkLabels
+        .append("rect")
+        .attr("x", (d) => {
+          const sourceNode = nodes.find((node) => node.id === d.source);
+          const targetNode = nodes.find((node) => node.id === d.target);
+          const midX = (sourceNode.x + targetNode.x) / 2;
+          // Dynamically determine width based on label length
+          const width = d.label.length * 7.5 + 20;
+
+          // Special case adjustments for overlapping labels
+          if (d.source === "aliceKeyGen" && d.target === "alicePubKey") {
+            return midX - width / 2 - 15;
+          } else if (d.source === "aliceKeyGen" && d.target === "alicePrivKey") {
+            return midX - width / 2 + 15;
+          } else if (d.source === "bobEncap" && d.target === "bobCiphertext") {
+            return midX - width / 2 - 20;
+          } else if (d.source === "bobEncap" && d.target === "bobSharedSecret") {
+            return midX - width / 2 + 20;
+          }
+
+          return midX - width / 2;
+        })
+        .attr("y", (d) => {
+          const sourceNode = nodes.find((node) => node.id === d.source);
+          const targetNode = nodes.find((node) => node.id === d.target);
+          const midY = (sourceNode.y + targetNode.y) / 2;
+
+          // Adjust position for specific overlapping labels
+          if (d.source === "aliceKeyGen" && d.target === "alicePubKey") {
+            return midY - 30;
+          } else if (d.source === "aliceKeyGen" && d.target === "alicePrivKey") {
+            return midY + 10;
+          } else if (d.source === "bobEncap" && d.target === "bobCiphertext") {
+            return midY - 30;
+          } else if (d.source === "bobEncap" && d.target === "bobSharedSecret") {
+            return midY + 10;
+          } else if (d.source === "alicePrivKey" && d.target === "aliceDecap") {
+            return midY - 25;
+          } else if (d.source === "aliceDecap" && d.target === "aliceSharedSecret") {
+            return midY + 10;
+          }
+
+          return midY - 20;
+        })
+        .attr("width", (d) => d.label.length * 7.5 + 20) // Wider based on text length
+        .attr("height", 22)
+        .attr("fill", "#0f1419")
+        .attr("fill-opacity", 0.9) // Increased opacity for better readability
+        .attr("rx", 5)
+        .attr("ry", 5);
+
+      // Adjust the text positioning to match the new background rectangles
+      linkLabels
+        .append("text")
+        .attr("class", "link-label")
+        .attr("x", (d) => {
+          const sourceNode = nodes.find((node) => node.id === d.source);
+          const targetNode = nodes.find((node) => node.id === d.target);
+          const midX = (sourceNode.x + targetNode.x) / 2;
+
+          // Special case adjustments for overlapping labels
+          if (d.source === "aliceKeyGen" && d.target === "alicePubKey") {
+            return midX - 15;
+          } else if (d.source === "aliceKeyGen" && d.target === "alicePrivKey") {
+            return midX + 15;
+          } else if (d.source === "bobEncap" && d.target === "bobCiphertext") {
+            return midX - 20;
+          } else if (d.source === "bobEncap" && d.target === "bobSharedSecret") {
+            return midX + 20;
+          }
+
+          return midX;
+        })
+        .attr("y", (d) => {
+          const sourceNode = nodes.find((node) => node.id === d.source);
+          const targetNode = nodes.find((node) => node.id === d.target);
+          const midY = (sourceNode.y + targetNode.y) / 2;
+
+          // Adjust position for specific overlapping labels
+          if (d.source === "aliceKeyGen" && d.target === "alicePubKey") {
+            return midY - 15;
+          } else if (d.source === "aliceKeyGen" && d.target === "alicePrivKey") {
+            return midY + 25;
+          } else if (d.source === "bobEncap" && d.target === "bobCiphertext") {
+            return midY - 15;
+          } else if (d.source === "bobEncap" && d.target === "bobSharedSecret") {
+            return midY + 25;
+          } else if (d.source === "alicePrivKey" && d.target === "aliceDecap") {
+            return midY - 10;
+          } else if (d.source === "aliceDecap" && d.target === "aliceSharedSecret") {
+            return midY + 25;
+          }
+
+          return midY - 5;
+        })
+        .text((d) => d.label)
+        .attr("text-anchor", "middle")
+        .attr("fill", "#ffffff")
+        .attr("font-size", "12px");
+
+      // Add Alice and Bob characters with humanistic representations
+      const characterGroups = svg
+        .selectAll(".character")
+        .data(characters)
+        .enter()
+        .append("g")
+        .attr("class", "character")
+        .attr("transform", (d) => `translate(${d.x},${d.y})`);
+
+      characterGroups
+        .append("circle")
+        .attr("r", 50)
+        .attr("fill", (d) => d.pattern)
+        .attr("filter", "url(#glow)")
+        .attr("stroke", "#36e2ec")
+        .attr("stroke-width", 1)
+        .attr("stroke-opacity", 0.5);
+
+      // Add glowing overlay for characters
+      characterGroups
+        .append("circle")
+        .attr("r", 50)
+        .attr("fill", (d) => (d.id === "alice" ? "url(#alice-gradient)" : "url(#bob-gradient)"))
+        .attr("opacity", 0.6)
+        .attr("filter", "url(#glow)");
+
+      characterGroups
+        .append("text")
+        .attr("text-anchor", "middle")
+        .attr("dy", ".35em")
+        .text((d) => d.name)
+        .attr("fill", "#ffffff")
+        .attr("font-size", "18px")
+        .attr("font-weight", "bold");
+
+      // Add nodes with glow effects
+      const nodeGroups = svg
+        .selectAll(".node")
+        .data(nodes)
+        .enter()
+        .append("g")
+        .attr("class", "node")
+        .attr("transform", (d) => `translate(${d.x},${d.y})`);
+
+      nodeGroups
+        .append("circle")
+        .attr("r", 30)
+        .attr("fill", (d) => {
+          if (d.owner === "alice") {
+            return "url(#alice-gradient)";
+          } else {
+            return "url(#bob-gradient)";
+          }
+        })
+        .attr("filter", "url(#glow)")
+        .attr("stroke", "#36e2ec")
+        .attr("stroke-width", 0.5)
+        .attr("stroke-opacity", 0.5);
+
+      // Add text with better contrast
+      nodeGroups
+        .append("text")
+        .attr("text-anchor", "middle")
+        .attr("dy", ".35em")
+        .text((d) => d.label)
+        .attr("fill", "#ffffff")
+        .attr("font-size", "10px")
+        .attr("font-weight", "bold");
+
+      // Add title and explanation in Hyprland style
+      svg
+        .append("text")
+        .attr("x", 480)
+        .attr("y", 50)
+        .attr("text-anchor", "middle")
+        .text("Kyber/ML-KEM Key Exchange Between Alice and Bob")
+        .attr("fill", "#ffffff")
+        .attr("font-size", "20px")
+        .attr("font-weight", "bold")
+        .attr("filter", "url(#glow)");
+
+      svg
+        .append("text")
+        .attr("x", 480)
+        .attr("y", 80)
+        .attr("text-anchor", "middle")
+        .text("Post-Quantum Cryptography for Secure Communication")
+        .attr("fill", "#36e2ec")
+        .attr("font-size", "16px");
+
+      // Add legend with Hyprland-style design
+      const legend = svg.append("g").attr("transform", "translate(750, 100)");
+
+      const legendItems = [
+        { color: "url(#alice-gradient)", label: "Alice's Keys" },
+        { color: "url(#bob-gradient)", label: "Bob's Keys" },
+        { color: "url(#alice-gradient)", label: "Alice's Secret", filter: "url(#glow)" },
+        { color: "url(#bob-gradient)", label: "Bob's Secret", filter: "url(#glow)" },
+      ];
+
+      // Add legend backgrounds
+      legend
+        .append("rect")
+        .attr("x", -10)
+        .attr("y", -10)
+        .attr("width", 140)
+        .attr("height", 120)
+        .attr("fill", "#0f1419")
+        .attr("fill-opacity", 0.7)
+        .attr("rx", 5)
+        .attr("ry", 5);
+
+      legend
+        .selectAll("circle")
+        .data(legendItems)
+        .enter()
+        .append("circle")
+        .attr("cx", 8)
+        .attr("cy", (d, i) => i * 25 + 10)
+        .attr("r", 8)
+        .attr("fill", (d) => d.color)
+        .attr("filter", (d) => d.filter || null);
+
+      legend
+        .selectAll("text")
+        .data(legendItems)
+        .enter()
+        .append("text")
+        .attr("x", 25)
+        .attr("y", (d, i) => i * 25 + 14)
+        .text((d) => d.label)
+        .attr("fill", "#ffffff")
+        .attr("font-size", "12px");
+
+      // Add CSS for animations to handle the animated links
+      document.querySelectorAll(".animated-link").forEach((el) => {
+        el.style.animation = "dash 1s linear infinite";
+      });
+    </script>
+  </body>
+</html>
