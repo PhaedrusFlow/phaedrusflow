@@ -43,8 +43,8 @@
 <img src ="https://skillicons.dev/icons?i=zig" alt="Zig" width="20" height="20" title="Zig"/>
 <img src = "https://skillicons.dev/icons?i=lua" alt="Lua" width="20" height="20" title="Lua"/>
 <img src = "https://skillicons.dev/icons?i=scala" alt="Scala" width="20" height="20" title="Scala"/>
-< img src ="https://skillicons.dev/icons?i=ts)" alt="TypeScript" width="20" height="20" title="TypeScript"/>
-< img src ="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="20" height="20" title="JavaScript"/>
+<img src ="https://skillicons.dev/icons?i=ts)" alt="TypeScript" width="20" height="20" title="TypeScript"/>
+<img src ="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="20" height="20" title="JavaScript"/>
 </div>
 ### 🌐 Web Development
 
