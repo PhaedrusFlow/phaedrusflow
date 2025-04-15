@@ -40,7 +40,7 @@
 </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src="https://skillicons.dev/icons?i=go" alt ="Go" width="30" height = "30" title="Go"/>
-<img src ="https://skillicons.dev/icons?i=zig" alt="Zig" width="30" height="20" title="Zig"/>
+<img src ="https://skillicons.dev/icons?i=zig" alt="Zig" width="30" height="30" title="Zig"/>
 <img src = "https://skillicons.dev/icons?i=lua" alt="Lua" width="30" height="30" title="Lua"/>
 <img src = "https://skillicons.dev/icons?i=scala" alt="Scala" width="30" height="30" title="Scala"/>
 <img src ="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
@@ -49,7 +49,8 @@
 
 ### 🌐 Web Development
 
-## ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Deno](https://skillicons.dev/icons?i=deno) ![WASM](https://skillicons.dev/icons?i=wasm) ![LaTeX](https://skillicons.dev/icons?i=latex) ![Markdown](https://skillicons.dev/icons?i=md)
+## !<img src ="https://skillicons.dev/icons?i=html alt="html" width="30" height="30" title="html"/>
+![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Deno](https://skillicons.dev/icons?i=deno) ![WASM](https://skillicons.dev/icons?i=wasm) ![LaTeX](https://skillicons.dev/icons?i=latex) ![Markdown](https://skillicons.dev/icons?i=md)
 
 ### ⚙️ DevOps & Infra
 
