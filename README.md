@@ -28,23 +28,23 @@
 ### 🧠 Programming Languages
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="30" height="30" title="Rust"/>
-<img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="20" height="20" title="Tauri"/>
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="30" height="40" title="Rust"/>
+<img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="20" height="20" title="PyTorch"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="20" height="20" title="TensorFlow"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="20" height="20" title="Anaconda"/>
-  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="20" height="20" title="OpenCV"/>
-  <img src="assets/icons/cuda.svg" alt="CUDA" width="20" height="20" title="CUDA"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="30" height="30" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="30" height="30" title="Anaconda"/>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="30" height="30" title="OpenCV"/>
+  <img src="assets/icons/cuda.svg" alt="CUDA" width="30" height="30" title="CUDA"/>
 </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-<img src="https://skillicons.dev/icons?i=go" alt ="Go" width="20" height = "20" title="Go"/>
-<img src ="https://skillicons.dev/icons?i=zig" alt="Zig" width="20" height="20" title="Zig"/>
-<img src = "https://skillicons.dev/icons?i=lua" alt="Lua" width="20" height="20" title="Lua"/>
-<img src = "https://skillicons.dev/icons?i=scala" alt="Scala" width="20" height="20" title="Scala"/>
-<img src ="https://skillicons.dev/icons?i=ts)" alt="TypeScript" width="20" height="20" title="TypeScript"/>
-<img src ="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="20" height="20" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=go" alt ="Go" width="30" height = "30" title="Go"/>
+<img src ="https://skillicons.dev/icons?i=zig" alt="Zig" width="30" height="20" title="Zig"/>
+<img src = "https://skillicons.dev/icons?i=lua" alt="Lua" width="30" height="30" title="Lua"/>
+<img src = "https://skillicons.dev/icons?i=scala" alt="Scala" width="30" height="30" title="Scala"/>
+<img src ="https://skillicons.dev/icons?i=ts)" alt="TypeScript" width="30" height="30" title="TypeScript"/>
+<img src ="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/>
 </div>
 ### 🌐 Web Development
 
