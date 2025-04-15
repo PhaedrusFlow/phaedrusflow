@@ -82,14 +82,14 @@
 
 ### Operating Systems
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
-    <div style="display: flex; gap: 5px; margin-top: 10px;">
-      <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="30" height="30"/>
-    </div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
+</p>
+
+
   </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>|
     <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40"/>|
   </div>
