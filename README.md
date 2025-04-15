@@ -49,7 +49,8 @@
 
 ### 🌐 Web Development
 
-## !<img src ="https://skillicons.dev/icons?i=html alt="html" width="30" height="30" title="html"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<img src ="https://skillicons.dev/icons?i=html alt="html" width="30" height="30" title="html"/>
 ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Deno](https://skillicons.dev/icons?i=deno) ![WASM](https://skillicons.dev/icons?i=wasm) ![LaTeX](https://skillicons.dev/icons?i=latex) ![Markdown](https://skillicons.dev/icons?i=md)
 
 ### ⚙️ DevOps & Infra
