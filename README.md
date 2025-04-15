@@ -23,12 +23,17 @@
 
 <h3 align="center">Front-End Technologies</h3>
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" title="CSS"/>
+<img src="https://skillicons.dev/icons?i=wasm" alt="WASM" width="30" height="30" title="WebAssembly"/><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="30" height="30" title="Tailwind"/>
+
+<img src ="https://skillicons.dev/icons?i=html" alt="html" width="30" height="30" title="html"/>
+</div>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=wasm" alt="WASM" width="30" height="30" title="WebAssembly"/>
+  
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
@@ -37,12 +42,6 @@
   <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="30" height="30" title="LaTeX"/>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
-<img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-<img src ="https://skillicons.dev/icons?i=html" alt="html" width="30" height="30" title="html"/>
-</div>
 
 <h3 align="center">Databases</h3>
 
