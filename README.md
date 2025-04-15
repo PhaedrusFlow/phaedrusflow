@@ -43,9 +43,10 @@
 <img src ="https://skillicons.dev/icons?i=zig" alt="Zig" width="30" height="20" title="Zig"/>
 <img src = "https://skillicons.dev/icons?i=lua" alt="Lua" width="30" height="30" title="Lua"/>
 <img src = "https://skillicons.dev/icons?i=scala" alt="Scala" width="30" height="30" title="Scala"/>
-<img src ="https://skillicons.dev/icons?i=ts)" alt="TypeScript" width="30" height="30" title="TypeScript"/>
+<img src ="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
 <img src ="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/>
 </div>
+
 ### 🌐 Web Development
 
 ## ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Deno](https://skillicons.dev/icons?i=deno) ![WASM](https://skillicons.dev/icons?i=wasm) ![LaTeX](https://skillicons.dev/icons?i=latex) ![Markdown](https://skillicons.dev/icons?i=md)
