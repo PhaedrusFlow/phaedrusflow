@@ -67,13 +67,14 @@
 
 ## ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal) ![Bash](https://skillicons.dev/icons?i=bash)
 
-<img src="assets/iconsghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<img src="assets/icons/ghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
 <img src="assets/icons/openssh.svg" alt="OpenSSH" width="30" height="30" title="OpenSSH"/>
 <img src="assets/icons/openssl.svg" alt="OpenSSL" width="30" height="30" title="OpenSSL"/>
 <img src="assets/icons/tor.svg" alt="Tor" width="30" height="30" title="Tor"/>
 <img src="assets/icons/openpgp.svg" alt="OpenPGP" width="30" height="30" title="OpenPGP"/>
 <img src="assets/icons/gnupg.svg" alt="GnuPG" width="30" height="30" title="GnuPG"/>
-
+</div>
 ## Operating Systems
 
   <div style="display: flex; flex-direction: row; align-items: center;">
