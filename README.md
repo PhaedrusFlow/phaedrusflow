@@ -66,50 +66,41 @@
 ### 🛠️ Development Tools
 
 ## ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal) ![Bash](https://skillicons.dev/icons?i=bash)
+<img src="assets/iconsghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
+  <img src="assets/icons/openssh.svg" alt="OpenSSH" width="30" height="30" title="OpenSSH"/>
+  <img src="assets/icons/openssl.svg" alt="OpenSSL" width="30" height="30" title="OpenSSL"/>
+  <img src="assets/icons/tor.svg" alt="Tor" width="30" height="30" title="Tor"/>
+  <img src="assets/icons/openpgp.svg" alt="OpenPGP" width="30" height="30" title="OpenPGP"/>
+  <img src="assets/icons/gnupg.svg" alt="GnuPG" width="30" height="30" title="GnuPG"/>
 
 ## Operating Systems
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div style="display: flex; flex-direction: row; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="30" height="30"/>
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
     <div style="display: flex; gap: 5px; margin-top: 10px;">
-      <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="20" height="20"/>
+      <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>
       <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>
       <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="20" height="20"/>
+      <img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="20" height="30"/>
     </div>
-  </div>
-  
-  <div style="display: flex; flex-direction: row; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="20" height="20"/>
+  </div> |<img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>
     </div>
   </div>
   <div style="display: flex; flex-direction: row; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="30" height="20"/>
+    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40"/>
   </div>
 </div>
 
 ### Graphics & Media
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="assets/icons/wayland.svg" alt="Wayland" width="20" height="20"/>
-  <img src="assets/icons/hyprland.svg" alt="Hyprland" width="20" height="20"/>
-  <img src="assets/icons/mesa.svg" alt="Mesa" width="20" height="20"/>
-  <img src="assets/icons/vulkan.svg" alt="Vulkan" width="40" height="40"/>
-  <img src="assets/icons/pipewire.svg" alt="Pipewire" width="40" height="40"/>
-  <img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="40" height="40"/>
-</div>
-
-### Edge Security
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="assets/icons/ghostty.svg" alt="Ghostty" width="20" height="20" title="Ghostty"/>
-  <img src="assets/icons/openssh.svg" alt="OpenSSH" width="20" height="20" title="OpenSSH"/>
-  <img src="assets/icons/openssl.svg" alt="OpenSSL" width="20" height="20" title="OpenSSL"/>
-  <img src="assets/icons/tor.svg" alt="Tor" width="20" height="20" title="Tor"/>
-  <img src="assets/icons/openpgp.svg" alt="OpenPGP" width="20" height="20" title="OpenPGP"/>
-  <img src="assets/icons/gnupg.svg" alt="GnuPG" width="20" height="20" title="GnuPG"/>
+  <img src="assets/icons/wayland.svg" alt="Wayland" width="30" height="30"/>
+  <img src="assets/icons/hyprland.svg" alt="Hyprland" width="30" height="30"/>
+  <img src="assets/icons/mesa.svg" alt="Mesa" width="30" height="30"/>
+  <img src="assets/icons/vulkan.svg" alt="Vulkan" width="30" height="30"/>
+  <img src="assets/icons/pipewire.svg" alt="Pipewire" width="30" height="30"/>
+  <img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="30" height="30"/>
 </div>
 
 ## Research Focus Areas
@@ -150,7 +141,7 @@
 </div>
 <details id="detailed-research">
   <summary><strong>Research: The Pursuit of Quality Quantum Advantage</strong></summary>
-The foundation of quantum computing begins with the Schrödinger equation:
+The foundation of quantum computing and impetus for enterprise quantum adoption begins with the Schrödinger equation:
 
 $$i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat{H}\Psi(\mathbf{r},t)$$
 
