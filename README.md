@@ -19,16 +19,14 @@
   </a>
 </p>
 
-### Tech-Stack
-
-<h2 align="center">My Tech Stack</h2>
+<h3 align="center">My Tech Stack</h2>
 
 <div align="center">
 
 #### Programming Languages
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="30" height="40" title="Rust"/>
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
 <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" title="Python"/>
