@@ -66,12 +66,14 @@
 ### 🛠️ Development Tools
 
 ## ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal) ![Bash](https://skillicons.dev/icons?i=bash)
+<div style="display: flex; flex-direction: row; align-items: center;">
 <img src="assets/iconsghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
-  <img src="assets/icons/openssh.svg" alt="OpenSSH" width="30" height="30" title="OpenSSH"/>
-  <img src="assets/icons/openssl.svg" alt="OpenSSL" width="30" height="30" title="OpenSSL"/>
-  <img src="assets/icons/tor.svg" alt="Tor" width="30" height="30" title="Tor"/>
-  <img src="assets/icons/openpgp.svg" alt="OpenPGP" width="30" height="30" title="OpenPGP"/>
-  <img src="assets/icons/gnupg.svg" alt="GnuPG" width="30" height="30" title="GnuPG"/>
+<img src="assets/icons/openssh.svg" alt="OpenSSH" width="30" height="30" title="OpenSSH"/>
+<img src="assets/icons/openssl.svg" alt="OpenSSL" width="30" height="30" title="OpenSSL"/>
+<img src="assets/icons/tor.svg" alt="Tor" width="30" height="30" title="Tor"/>
+<img src="assets/icons/openpgp.svg" alt="OpenPGP" width="30" height="30" title="OpenPGP"/>
+<img src="assets/icons/gnupg.svg" alt="GnuPG" width="30" height="30" title="GnuPG"/>
+</div>
 
 ## Operating Systems
 
@@ -81,13 +83,11 @@
       <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>
       <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>
       <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="20" height="30"/>
+      <img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="30" height="30"/>
     </div>
   </div> |<img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>
-    </div>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center;">
+    </div>|
     <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40"/>
   </div>
 </div>
