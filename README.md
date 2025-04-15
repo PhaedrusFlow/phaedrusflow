@@ -19,32 +19,29 @@
   </a>
 </p>
 
-<h3 align="center">My Tech Stack</h2>
-
 <div align="center">
 
-#### Programming Languages
+<h2 align="center">Front-End Technologies</h2>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="30" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="30" height="30" title="Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=wasm" alt="WASM" width="30" height="30" title="WebAssembly"/>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="30" height="30" title="Vite"/>
+  <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="30" height="30" title="Markdown"/>
+  <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="30" height="30" title="LaTeX"/>
+</div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
 <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="30" height="30" title="PyTorch"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="30" height="30" title="TensorFlow"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="30" height="30" title="Anaconda"/>
-  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="30" height="30" title="OpenCV"/>
-  <img src="assets/icons/cuda.svg" alt="CUDA" width="30" height="30" title="CUDA"/>
-</div>
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-<img src="https://skillicons.dev/icons?i=go" alt ="Go" width="30" height = "30" title="Go"/>
-<img src ="https://skillicons.dev/icons?i=zig" alt="Zig" width="30" height="30" title="Zig"/>
-<img src = "https://skillicons.dev/icons?i=lua" alt="Lua" width="30" height="30" title="Lua"/>
-<img src = "https://skillicons.dev/icons?i=scala" alt="Scala" width="30" height="30" title="Scala"/>
-<img src ="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
-<img src ="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/>
-
-#### 🌐 Web Development
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src ="https://skillicons.dev/icons?i=html" alt="html" width="30" height="30" title="html"/>
@@ -54,8 +51,7 @@
 
 #### ⚙️ DevOps & Infra
 
-### ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Ansible](https://skillicons.dev/icons?i=ansible) ![Terraform](https://skillicons.dev/icons?i=terraform) ![NGINX](https://skillicons.dev/icons?i=nginx) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
-</div>
+
 
 #### 🗃️ Databases
 
@@ -64,6 +60,9 @@
 #### 🛠️ Development Tools
 
 #### ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal) ![Bash](https://skillicons.dev/icons?i=bash)
+
+### ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Ansible](https://skillicons.dev/icons?i=ansible) ![Terraform](https://skillicons.dev/icons?i=terraform) ![NGINX](https://skillicons.dev/icons?i=nginx) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+</div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src="assets/icons/ghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
