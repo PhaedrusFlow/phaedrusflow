@@ -1,14 +1,14 @@
-# Matt A. Porter
+## Matt A. Porter
 
-## Former Intelligence Officer | Qompass AI Founder/CEO
+### Former Intelligence Officer | Qompass AI Founder/CEO
 
 <h3>Helping you navigate the Deep Waters of Deep Tech with Quality AI Adoption Solutions</h3>
 
 [![Quality AI: Safe, Secure & Trustworthy](assets/images/mlkem-visualization.png)](https://phaedrusflow.github.io/phaedrusflow/diagrams/mlkem/)
 
-## Q: What defines AI "Quality"?
+### Q: What defines AI "Quality"?
 
-## A: Building safe, secure, and trustworthy systems supporting responsible innovation on-prem and on-device.
+### A: Building safe, secure, and trustworthy systems supporting responsible innovation on-prem and on-device.
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/agpl-3.0">
@@ -19,13 +19,13 @@
   </a>
 </p>
 
-## Tech-Stack
+### Tech-Stack
 
 <h2 align="center">My Tech Stack</h2>
 
 <div align="center">
 
-### 🧠 Programming Languages
+#### Programming Languages
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="30" height="40" title="Rust"/>
@@ -46,7 +46,7 @@
 <img src ="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
 <img src ="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/>
 
-### 🌐 Web Development
+#### 🌐 Web Development
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src ="https://skillicons.dev/icons?i=html" alt="html" width="30" height="30" title="html"/>
@@ -54,18 +54,18 @@
 
 ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vite](https://skillicons.dev/icons?i=vite) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Deno](https://skillicons.dev/icons?i=deno) ![WASM](https://skillicons.dev/icons?i=wasm) ![LaTeX](https://skillicons.dev/icons?i=latex) ![Markdown](https://skillicons.dev/icons?i=md)
 
-### ⚙️ DevOps & Infra
+#### ⚙️ DevOps & Infra
 
-## ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Ansible](https://skillicons.dev/icons?i=ansible) ![Terraform](https://skillicons.dev/icons?i=terraform) ![NGINX](https://skillicons.dev/icons?i=nginx) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+### ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Ansible](https://skillicons.dev/icons?i=ansible) ![Terraform](https://skillicons.dev/icons?i=terraform) ![NGINX](https://skillicons.dev/icons?i=nginx) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
 </div>
 
-### 🗃️ Databases
+#### 🗃️ Databases
 
-## ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)![MySQL](https://skillicons.dev/icons?i=mysql)
+### ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### 🛠️ Development Tools
+#### 🛠️ Development Tools
 
-## ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal) ![Bash](https://skillicons.dev/icons?i=bash)
+### ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal) ![Bash](https://skillicons.dev/icons?i=bash)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src="assets/icons/ghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
@@ -74,8 +74,15 @@
 <img src="assets/icons/tor.svg" alt="Tor" width="30" height="30" title="Tor"/>
 <img src="assets/icons/openpgp.svg" alt="OpenPGP" width="30" height="30" title="OpenPGP"/>
 <img src="assets/icons/gnupg.svg" alt="GnuPG" width="30" height="30" title="GnuPG"/>
+  <img src="assets/icons/wayland.svg" alt="Wayland" width="30" height="30"/>
+  <img src="assets/icons/hyprland.svg" alt="Hyprland" width="30" height="30"/>
+  <img src="assets/icons/mesa.svg" alt="Mesa" width="30" height="30"/>
+  <img src="assets/icons/vulkan.svg" alt="Vulkan" width="30" height="30"/>
+  <img src="assets/icons/pipewire.svg" alt="Pipewire" width="30" height="30"/>
+  <img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="30" height="30"/>
 </div>
-## Operating Systems
+
+### Operating Systems
 
   <div style="display: flex; flex-direction: row; align-items: center;">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
@@ -85,24 +92,12 @@
       <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
       <img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="30" height="30"/>
     </div>
-  </div> |<img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
-      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>|
+  </div> |<img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>|
     <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40"/>|
   </div>
 </div>
 
-### Graphics & Media
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="assets/icons/wayland.svg" alt="Wayland" width="30" height="30"/>
-  <img src="assets/icons/hyprland.svg" alt="Hyprland" width="30" height="30"/>
-  <img src="assets/icons/mesa.svg" alt="Mesa" width="30" height="30"/>
-  <img src="assets/icons/vulkan.svg" alt="Vulkan" width="30" height="30"/>
-  <img src="assets/icons/pipewire.svg" alt="Pipewire" width="30" height="30"/>
-  <img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="30" height="30"/>
-</div>
-
-## Research Focus Areas
+### Research Focus Areas
 
 | Area                          | Description                                                    | Applications                                                                     |
 | ----------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------- |
