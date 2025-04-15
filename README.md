@@ -59,11 +59,11 @@
 
 #### 🗃️ Databases
 
-### ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)![MySQL](https://skillicons.dev/icons?i=mysql)
+#### ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)![MySQL](https://skillicons.dev/icons?i=mysql)
 
 #### 🛠️ Development Tools
 
-### ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal) ![Bash](https://skillicons.dev/icons?i=bash)
+#### ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Neovim](https://skillicons.dev/icons?i=neovim) ![Unreal](https://skillicons.dev/icons?i=unreal) ![Bash](https://skillicons.dev/icons?i=bash)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src="assets/icons/ghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
@@ -85,17 +85,17 @@
   <div style="display: flex; flex-direction: row; align-items: center;">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
     <div style="display: flex; gap: 5px; margin-top: 10px;">
-      <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>
-      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
+      <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>|
+      <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>|
+      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>|
       <img src="https://skillicons.dev/icons?i=redhat" alt="Redhat" width="30" height="30"/>
     </div>
-  </div> |<img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>|
+  </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>|
     <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40"/>|
   </div>
 </div>
 
-### Research Focus Areas
+#### Research Focus Areas
 
 | Area                          | Description                                                    | Applications                                                                     |
 | ----------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -105,9 +105,7 @@
 
 [📚 Read Full Research Details](#detailed-research)
 
-## Connect With Me
-
-<h3 align="center">Professional Networks</h3>
+<h4 align="center">Connect With Me</h4>
 <div align="center">
   
 [![Personal LinkedIn](https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matt-a-porter-103535224/)
