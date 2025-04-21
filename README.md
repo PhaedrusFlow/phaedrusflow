@@ -25,13 +25,13 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
-<img src="https://skillicons.dev/icons?i=wasm" alt="WASM" width="30" height="30" title="WebAssembly"/><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
+<img src="https://skillicons.dev/icons?i=wasm" alt="WASM" width="30" height="30" title="WebAssembly"/><<img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
+<img src ="https://skillicons.dev/icons?i=html" alt="html" width="30" height="30" title="html"/>
 <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="30" height="30" title="Tailwind"/>
 </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-<img src ="https://skillicons.dev/icons?i=html" alt="html" width="30" height="30" title="html"/>
-</div>
+img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
@@ -43,23 +43,22 @@
 <h3 align="center">DevSecOps</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
-<img src="https://skillicons.dev/icons?i=postgres"alt="Postgres" width="30" height="30" title="Postgres"/>
-<img src="https://skillicons.dev/icons?i=sqlite"alt="SQLite" width="30" height="30" title="SQLite"/>
-<img src="https://skillicons.dev/icons?i=mysql"alt="MySQL" width="30" height="30" title="MySQL"/>
-<div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
  <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="30" height="30" title="Neovim"/>
+</div>
+<img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="30" height="30" title="Bash"/>
+  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="30" height="30" title="Ansible"/>
+</div>
+<img src="https://skillicons.dev/icons?i=postgres"alt="Postgres" width="30" height="30" title="Postgres"/>
+<
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" height="30" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30" height="30" title="VS Code"/>
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="30" height="30" title="Unreal"/>
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="30" height="30" title="Bash"/>
-</div>
+  
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" height="30" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="30" height="30" title="Kubernetes"/>
-  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="30" height="30" title="Ansible"/>
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="30" height="30" title="Terraform"/>
 </div>
   <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="30" height="30" title="NGINX"/>
@@ -68,6 +67,8 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
 <img src="assets/icons/ghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
+<img src="https://skillicons.dev/icons?i=sqlite"alt="SQLite" width="30" height="30" title="SQLite"/>
+<img src="https://skillicons.dev/icons?i=mysql"alt="MySQL" width="30" height="30" title="MySQL"/>
 <img src="assets/icons/openssh.svg" alt="OpenSSH" width="30" height="30" title="OpenSSH"/>
 <img src="assets/icons/openssl.svg" alt="OpenSSL" width="30" height="30" title="OpenSSL"/>
 <img src="assets/icons/tor.svg" alt="Tor" width="30" height="30" title="Tor"/>
@@ -75,6 +76,7 @@
 </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src="assets/icons/gnupg.svg" alt="GnuPG" width="30" height="30" title="GnuPG"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
   <img src="assets/icons/wayland.svg" alt="Wayland" width="30" height="30"/>
   <img src="assets/icons/hyprland.svg" alt="Hyprland" width="30" height="30"/>
   <img src="assets/icons/mesa.svg" alt="Mesa" width="30" height="30"/>
