@@ -41,10 +41,9 @@
   <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="30" height="30" title="LaTeX"/>
 </div>
 
-<h3 align="center">Databases</h3>
+<h3 align="center">DevSecOps</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
-#### 
 <img src="https://skillicons.dev/icons?i=postgres"alt="Postgres" width="30" height="30" title="Postgres"/>
 <img src="https://skillicons.dev/icons?i=sqlite"alt="SQLite" width="30" height="30" title="SQLite"/>
 <img src="https://skillicons.dev/icons?i=mysql"alt="MySQL" width="30" height="30" title="MySQL"/>
