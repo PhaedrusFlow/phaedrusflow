@@ -36,10 +36,12 @@
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="30" height="30" title="Vite"/>
   <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="30" height="30" title="Markdown"/>
 </div>
   <img src="https://skillicons.dev/icons?i=Lua" alt="Lua" width="30" height="30" title="Lua"/>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="30" height="30" title="LaTeX"/>
   <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="30" height="30" title="Zig"/>
 </div>
