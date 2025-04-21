@@ -35,11 +35,9 @@
 <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="30" height="30" title="Rust"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 </div>
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="30" height="30" title="Vite"/>
   <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="30" height="30" title="Markdown"/>
-</div>
   <img src="https://skillicons.dev/icons?i=Lua" alt="Lua" width="30" height="30" title="Lua"/>
 </div>
   <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="30" height="30" title="LaTeX"/>
@@ -57,8 +55,6 @@
 </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src="https://skillicons.dev/icons?i=postgres"alt="Postgres" width="30" height="30" title="Postgres"/>
-</div>
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" height="30" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" title="GitHub"/>
 </div>
@@ -67,6 +63,7 @@
  </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" height="30" title="Docker"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="30" height="30" title="Kubernetes"/>
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="30" height="30" title="Terraform"/>
 </div>
