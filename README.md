@@ -88,7 +88,7 @@
 ### Operating Systems
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="30" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="30" height="30"/>
   <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>
   <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
