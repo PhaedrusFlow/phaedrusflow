@@ -55,14 +55,16 @@
 <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="30" height="30" title="Bash"/>
   <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="30" height="30" title="Ansible"/>
 </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src="https://skillicons.dev/icons?i=postgres"alt="Postgres" width="30" height="30" title="Postgres"/>
 <
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" height="30" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" title="GitHub"/>
+</div>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30" height="30" title="VS Code"/>
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="30" height="30" title="Unreal"/>
-  
+ </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" height="30" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="30" height="30" title="Kubernetes"/>
