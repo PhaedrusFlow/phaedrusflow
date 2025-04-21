@@ -57,7 +57,7 @@
 </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src="https://skillicons.dev/icons?i=postgres"alt="Postgres" width="30" height="30" title="Postgres"/>
-<
+</div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" height="30" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" title="GitHub"/>
@@ -102,7 +102,7 @@
   <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
 </div>
-  </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="30" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>
+  </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="30" height="30"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>
 </div>
     <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="30" height="30"/>
   </div>
