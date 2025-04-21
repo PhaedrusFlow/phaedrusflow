@@ -48,6 +48,7 @@
 <h3 align="center">DevSecOps</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
+<p align="center">
  <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="30" height="30" title="Neovim"/>
 </div>
 <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="30" height="30" title="Bash"/>
@@ -70,7 +71,6 @@
   <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="30" height="30" title="NGINX"/>
   <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="30" height="30" title="Cloudflare"/>
 </div>
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
 <img src="assets/icons/ghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
 <img src="https://skillicons.dev/icons?i=sqlite"alt="SQLite" width="30" height="30" title="SQLite"/>
