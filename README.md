@@ -34,7 +34,6 @@
 </div>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-</div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="30" height="30" title="Vite"/>
   <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="30" height="30" title="Markdown"/>
