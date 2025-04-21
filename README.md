@@ -25,7 +25,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
-<img src="https://skillicons.dev/icons?i=wasm" alt="WASM" width="30" height="30" title="WebAssembly"/><<img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
+<img src="https://skillicons.dev/icons?i=wasm" alt="WASM" width="30" height="30" title="WebAssembly"/><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
 <img src ="https://skillicons.dev/icons?i=html" alt="html" width="30" height="30" title="html"/>
 <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="30" height="30" title="Tailwind"/>
