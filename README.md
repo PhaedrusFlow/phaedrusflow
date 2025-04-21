@@ -87,13 +87,14 @@
 ### Operating Systems
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="30" height="40"/>
   <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>
   <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
 </div>
-  </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/></p>
-    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40"/>
+  </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="30" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>
+</div>
+    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="30" height="40"/>
   </div>
 </div>
 
