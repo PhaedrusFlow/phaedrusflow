@@ -28,24 +28,26 @@
 <img src="https://skillicons.dev/icons?i=wasm" alt="WASM" width="30" height="30" title="WebAssembly"/><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
 <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="30" height="30" title="Tailwind"/>
-
+</div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src ="https://skillicons.dev/icons?i=html" alt="html" width="30" height="30" title="html"/>
 </div>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
-  
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 </div>
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="30" height="30" title="Vite"/>
   <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="30" height="30" title="Markdown"/>
   <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="30" height="30" title="LaTeX"/>
 </div>
 
-
 <h3 align="center">Databases</h3>
 
-#### ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)![MySQL](https://skillicons.dev/icons?i=mysql)
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
+#### 
+<img src="https://skillicons.dev/icons?i=postgres"alt="Postgres" width="30" height="30" title="Postgres"/>
+<img src="https://skillicons.dev/icons?i=sqlite"alt="SQLite" width="30" height="30" title="SQLite"/>
+<img src="https://skillicons.dev/icons?i=mysql"alt="MySQL" width="30" height="30" title="MySQL"/>
 <div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
@@ -56,11 +58,12 @@
   <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="30" height="30" title="Unreal"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="30" height="30" title="Bash"/>
 </div>
-<div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" height="30" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="30" height="30" title="Kubernetes"/>
   <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="30" height="30" title="Ansible"/>
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="30" height="30" title="Terraform"/>
+</div>
   <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="30" height="30" title="NGINX"/>
   <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="30" height="30" title="Cloudflare"/>
 </div>
@@ -71,6 +74,8 @@
 <img src="assets/icons/openssl.svg" alt="OpenSSL" width="30" height="30" title="OpenSSL"/>
 <img src="assets/icons/tor.svg" alt="Tor" width="30" height="30" title="Tor"/>
 <img src="assets/icons/openpgp.svg" alt="OpenPGP" width="30" height="30" title="OpenPGP"/>
+</div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img src="assets/icons/gnupg.svg" alt="GnuPG" width="30" height="30" title="GnuPG"/>
   <img src="assets/icons/wayland.svg" alt="Wayland" width="30" height="30"/>
   <img src="assets/icons/hyprland.svg" alt="Hyprland" width="30" height="30"/>
@@ -88,11 +93,8 @@
   <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
 </div>
-
-
-
-  </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>|
-    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40"/>|
+  </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/></p>
+    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40"/>
   </div>
 </div>
 
