@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="30" height="30" title="Tailwind"/>
 </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
+<img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="30" height="30" title="Rust"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
