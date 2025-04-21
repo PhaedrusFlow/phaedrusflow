@@ -95,7 +95,7 @@
 </div>
   </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="30" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>
 </div>
-    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="30" height="40"/>
+    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="30" height="30"/>
   </div>
 </div>
 
