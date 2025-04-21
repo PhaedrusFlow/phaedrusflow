@@ -38,9 +38,12 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="30" height="30" title="Vite"/>
   <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="30" height="30" title="Markdown"/>
+</div>
+  <img src="https://skillicons.dev/icons?i=Lua" alt="Lua" width="30" height="30" title="Lua"/>
   <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="30" height="30" title="LaTeX"/>
   <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="30" height="30" title="Zig"/>
 </div>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30" title="Python"/>
 
 <h3 align="center">DevSecOps</h3>
 
