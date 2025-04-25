@@ -176,6 +176,22 @@
 
 [📚 Read Full Research Details](#detailed-research)
 
+<details id="Contact">
+  <summary><strong>Contact Qompass AI</strong></summary>
+
+ <div align="center">
+  <p>Matthew A. Porter<sup>1</sup><br>
+  <sup>1</sup>Qompass AI, Spokane, WA</p>
+
+  <a href="mailto:&#109;&#97;&#112;&#64;&#113;&#111;&#109;&#112;&#97;&#115;&#115;&#46;&#97;&#105;">
+  <img src="https://img.shields.io/badge/Email-Get_a_Quote-blue?style=flat-square&logo=gmail" alt="Email Me">
+</a>
+
+  <a href="sms:&#43;&#49;&#53;&#48;&#57;&#57;&#49;&#57;&#53;&#50;&#51;&#55;">
+  <img src="https://img.shields.io/badge/SMS-Text_Me-blue?style=flat-square&logo=minutemailer" alt="Text Me">
+</a>
+
+
  <h3>Publications</h3>
   <p>
     <a href="https://orcid.org/0000-0002-0302-4812">
