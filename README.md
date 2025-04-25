@@ -106,7 +106,7 @@
     <img src="assets/icons/tor.svg" alt="Tor" width="40" height="40" title="Tor"/>
   </a>
   <a href="https://github.com/yourusername/openpgp-repo" class="icon-link">
-    <img src="assets/icons/openpgp.svg" alt="OpenPGP" width="40" height="40" title="OpenPGP"/>
+    <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40" title="Zig"/>
   </a>
   <a href="https://github.com/yourusername/gnupg-repo" class="icon-link">
     <img src="assets/icons/gnupg.svg" alt="GnuPG" width="40" height="40" title="GnuPG"/>
@@ -121,7 +121,7 @@
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/yourusername/mesa-repo" class="icon-link">
-    <img src="assets/icons/mesa.svg" alt="Mesa" width="40" height="40" title="Mesa"/>
+    <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" title="Go"/>
   </a>
   <a href="https://github.com/yourusername/vulkan-repo" class="icon-link">
     <img src="assets/icons/vulkan.svg" alt="Vulkan" width="40" height="40" title="Vulkan"/>
@@ -131,10 +131,13 @@
   </a>
   <a href="https://github.com/yourusername/obs-studio-repo" class="icon-link">
     <img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="40" height="40" title="OBS Studio"/>
-  </a>
-  <a href="https://github.com/yourusername/ffmpeg-repo" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40" title="Lua"/>
-  </a>
+  <div align="center">
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+    <a href="https://github.com/qompassai/Lua" onmouseover="this.style.transform='scale(1.15)';this.style.boxShadow='0 0 15px rgba(0, 255, 255, 0.7)';" onmouseout="this.style.transform='';this.style.boxShadow='';">
+      <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40" title="Lua"/>
+    </a>
+  </div>
+</div>
   <a href="https://github.com/yourusername/blender-repo" class="icon-link">
     <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
   </a>
@@ -142,15 +145,28 @@
 
 ### Operating Systems
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40"/>
-</div>
-  </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>|
-    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40"/>|
-  </div>
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="#" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" title="Linux"/>
+  </a>
+  <a href="#" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40" title="Arch"/>
+  </a>
+  <a href="#" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40" title="Debian"/>
+  </a>
+  <a href="#" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40" title="Ubuntu"/>
+  </a>
+  <a href="#" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40" title="Windows"/>
+  </a>
+  <a href="#" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40" title="Azure"/>
+  </a>
+  <a href="#" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40" title="MacOS"/>
+  </a>
 </div>
 
 #### Research Focus Areas
