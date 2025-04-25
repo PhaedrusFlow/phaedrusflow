@@ -131,12 +131,10 @@
   </a>
   <a href="https://github.com/yourusername/obs-studio-repo" class="icon-link">
     <img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="40" height="40" title="OBS Studio"/>
-  <div align="center">
+  </a>
   <a href="https://github.com/qompassai/Lua" class="icon-link">
-      <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40" title="Lua"/>
-    </a>
-  </div>
-</div>
+    <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40" title="Lua"/>
+  </a>
   <a href="https://github.com/yourusername/blender-repo" class="icon-link">
     <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
   </a>
@@ -178,21 +176,78 @@
 
 [📚 Read Full Research Details](#detailed-research)
 
-<h4 align="center">Connect With Me</h4>
-<div align="center">
+ <h3>Publications</h3>
+  <p>
+    <a href="https://orcid.org/0000-0002-0302-4812">
+      <img src="https://img.shields.io/badge/ORCID-0000--0002--0302--4812-green?style=flat-square&logo=orcid" alt="ORCID">
+    </a>
+    <a href="https://www.researchgate.net/profile/Matt-Porter-7">
+      <img src="https://img.shields.io/badge/ResearchGate-Open--Research-blue?style=flat-square&logo=researchgate" alt="ResearchGate">
+    </a>
+    <a href="https://zenodo.org/communities/qompassai">
+      <img src="https://img.shields.io/badge/Zenodo-Publications-blue?style=flat-square&logo=zenodo" alt="Zenodo">
+    </a>
+  </p>
   
-[![Personal LinkedIn](https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matt-a-porter-103535224/)
-[![Startup LinkedIn](https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/95058568/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0302--4812-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-0302-4812)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Open--Research-blue?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Matt-Porter-7)
-</div>
-<h3 align="center">Social Media</h3>
-<div align="center">
+  <h3>Professional Profiles</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/matt-a-porter-103535224/">
+      <img src="https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin" alt="Personal LinkedIn">
+    </a>
+    <a href="https://www.linkedin.com/company/95058568/">
+      <img src="https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin" alt="Startup LinkedIn">
+    </a>
+  </p>
   
-[![X/Twitter](https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter)](https://twitter.com/PhaedrusFlow)
-[![Instagram](https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/phaedrusflow)
-[![YouTube](https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube)](https://www.youtube.com/@qompassai)
+  <h3>Social Media</h3>
+  <p>
+    <a href="https://twitter.com/PhaedrusFlow">
+      <img src="https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter" alt="X/Twitter">
+    </a>
+    <a href="https://www.instagram.com/phaedrusflow">
+      <img src="https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram" alt="Instagram">
+    </a>
+    <a href="https://www.youtube.com/@qompassai">
+      <img src="https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube" alt="YouTube">
+    </a>
+  </p>
+  
+<div align="center">
+<h3>Support & Funding</h3>
+
+<table>
+<tr>
+<th align="center">💰 Pre-Seed Funding 2023-2025</th>
+<th align="center">🏆 Amount</th>
+<th align="center">📅 Date</th>
+</tr>
+<tr>
+<td><a href="https://github.com/qompassai/r4r" title="RJOS/Zimmer Biomet Research Grant Repository">RJOS/Zimmer Biomet Research Grant</a></td>
+<td align="center">$30,000</td>
+<td align="center">March 2024</td>
+</tr>
+<tr>
+<td onclick="window.open('https://github.com/qompassai/PathFinders', '_blank')">
+  <a href="https://github.com/qompassai/PathFinders" title="GitHub Repository">Pathfinders Intern Program</a>
+  <br>
+  <small><a href="https://www.linkedin.com/posts/evergreenbio_bioscience-internships-workforcedevelopment-activity-7253166461416812544-uWUM/" onclick="event.stopPropagation()" target="_blank">View on LinkedIn</a></small>
+</td>
+<td align="center">$2,000</td>
+<td align="center">October 2024</td>
+</tr>
+</table>
+
+<p>Your support helps us continue building innovative solutions at the intersection of health and education.</p>
+
+<a href="https://www.buymeacoffee.com/phaedrusflow" target="_blank">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" width="250" />
+</a>
+
+<hr width="50%" style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<p><i>Funding helps us continue our research at the intersection of AI, healthcare, and education</i></p>
 </div>
+
 <h3 align="center">Developer Programs</h3>
 <div align="center">
  
@@ -202,6 +257,8 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
 [![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
 </div>
+</details>
+
 <details id="detailed-research">
   <summary><strong>Research: The Pursuit of Quality Quantum Advantage</strong></summary>
 The foundation of quantum computing and impetus for enterprise quantum adoption begins with the Schrödinger equation:
