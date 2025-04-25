@@ -23,10 +23,8 @@
 
 <h3 align="center">Front-End Technologies</h3>
 
-<!-- Pyramid container -->
 <div class="tech-pyramid" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
   
-  <!-- Row 1: 5 icons -->
   <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" title="HTML"/>
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" title="CSS"/>
@@ -57,7 +55,9 @@
     <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="40" height="40" title="Deno"/>
   </div>  
 </div>
+<div align="center">
 
+<h3 align="center">DevOps</h3>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/yourusername/bash-repo" class="icon-link">
@@ -132,8 +132,7 @@
   <a href="https://github.com/yourusername/obs-studio-repo" class="icon-link">
     <img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="40" height="40" title="OBS Studio"/>
   <div align="center">
-  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-    <a href="https://github.com/qompassai/Lua" onmouseover="this.style.transform='scale(1.15)';this.style.boxShadow='0 0 15px rgba(0, 255, 255, 0.7)';" onmouseout="this.style.transform='';this.style.boxShadow='';">
+  <a href="https://github.com/qompassai/Lua" class="icon-link">
       <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40" title="Lua"/>
     </a>
   </div>
