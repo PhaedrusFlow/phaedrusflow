@@ -4,7 +4,7 @@
 
 <h3>Helping you navigate the Deep Waters of Deep Tech with Quality AI Adoption Solutions</h3>
 
-[![Quality AI: Safe, Secure & Trustworthy](assets/images/mlkem-visualization.png)](https://phaedrusflow.github.io/phaedrusflow/diagrams/mlkem/)
+<!-- [![Quality AI: Safe, Secure & Trustworthy](assets/images/mlkem-visualization.png)](https://phaedrusflow.github.io/phaedrusflow/diagrams/mlkem/) -->
 
 ### Q: What defines AI "Quality"?
 
@@ -23,75 +23,132 @@
 
 <h3 align="center">Front-End Technologies</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
-<img src="https://skillicons.dev/icons?i=wasm" alt="WASM" width="30" height="30" title="WebAssembly"/><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" title="CSS"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="30" height="30" title="Tailwind"/>
-
-<img src ="https://skillicons.dev/icons?i=html" alt="html" width="30" height="30" title="html"/>
-</div>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30" height="30" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
+<!-- Pyramid container -->
+<div class="tech-pyramid" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
   
+  <!-- Row 1: 5 icons -->
+  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" title="HTML"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" title="CSS"/>
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" title="TypeScript"/>
+    <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="40" height="40" title="Vue"/>
+  </div>
+  
+  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" title="Tailwind"/>
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" title="Vite"/>
+    <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="40" height="40" title="Markdown"/>
+    <img src="https://skillicons.dev/icons?i=latex" alt="Latex" width="40" height="40" title="Latex"/>
+  </div>
+  
+  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+    <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="40" height="40" title="Svelte"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" title="Next.js"/>
+    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="40" height="40" title="Three.js"/>
+  </div>
+  
+  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+    <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" width="40" height="40" title="WebAssembly"/>
+    <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="40" height="40" title="Tauri"/>
+  </div>
+  
+  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+    <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="40" height="40" title="Deno"/>
+  </div>  
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="30" height="30" title="Vite"/>
-  <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="30" height="30" title="Markdown"/>
-  <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="30" height="30" title="LaTeX"/>
+
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/yourusername/bash-repo" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" title="Bash"/>
+  </a>
 </div>
 
-
-<h3 align="center">Databases</h3>
-
-#### ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Redis](https://skillicons.dev/icons?i=redis)![MySQL](https://skillicons.dev/icons?i=mysql)
-<div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
- <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="30" height="30" title="Neovim"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" height="30" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30" height="30" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="30" height="30" title="Unreal"/>
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="30" height="30" title="Bash"/>
-</div>
-<div>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" height="30" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="30" height="30" title="Kubernetes"/>
-  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="30" height="30" title="Ansible"/>
-  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="30" height="30" title="Terraform"/>
-  <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="30" height="30" title="NGINX"/>
-  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="30" height="30" title="Cloudflare"/>
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/yourusername/docker-repo" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" title="Docker"/>
+  </a>
+  <a href="https://github.com/yourusername/kubernetes-repo" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" title="Kubernetes"/>
+  </a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 15px;">
-<img src="assets/icons/ghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
-<img src="assets/icons/openssh.svg" alt="OpenSSH" width="30" height="30" title="OpenSSH"/>
-<img src="assets/icons/openssl.svg" alt="OpenSSL" width="30" height="30" title="OpenSSL"/>
-<img src="assets/icons/tor.svg" alt="Tor" width="30" height="30" title="Tor"/>
-<img src="assets/icons/openpgp.svg" alt="OpenPGP" width="30" height="30" title="OpenPGP"/>
-<img src="assets/icons/gnupg.svg" alt="GnuPG" width="30" height="30" title="GnuPG"/>
-  <img src="assets/icons/wayland.svg" alt="Wayland" width="30" height="30"/>
-  <img src="assets/icons/hyprland.svg" alt="Hyprland" width="30" height="30"/>
-  <img src="assets/icons/mesa.svg" alt="Mesa" width="30" height="30"/>
-  <img src="assets/icons/vulkan.svg" alt="Vulkan" width="30" height="30"/>
-  <img src="assets/icons/pipewire.svg" alt="Pipewire" width="30" height="30"/>
-  <img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="30" height="30"/>
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/yourusername/ansible-repo" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40" title="Ansible"/>
+  </a>
+  <a href="https://github.com/yourusername/terraform-repo" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40" title="Terraform"/>
+  </a>
+  <a href="https://github.com/yourusername/nginx-repo" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="40" height="40" title="NGINX"/>
+  </a>
+</div>
+
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/yourusername/cloudflare-repo" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40" title="Cloudflare"/>
+  </a>
+  <a href="https://github.com/yourusername/ghostty-repo" class="icon-link">
+    <img src="assets/icons/ghostty.svg" alt="Ghostty" width="40" height="40" title="Ghostty"/>
+  </a>
+  <a href="https://github.com/yourusername/openssh-repo" class="icon-link">
+    <img src="assets/icons/openssh.svg" alt="OpenSSH" width="40" height="40" title="OpenSSH"/>
+  </a>
+  <a href="https://github.com/yourusername/openssl-repo" class="icon-link">
+    <img src="assets/icons/openssl.svg" alt="OpenSSL" width="40" height="40" title="OpenSSL"/>
+  </a>
+</div>
+
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/yourusername/tor-repo" class="icon-link">
+    <img src="assets/icons/tor.svg" alt="Tor" width="40" height="40" title="Tor"/>
+  </a>
+  <a href="https://github.com/yourusername/openpgp-repo" class="icon-link">
+    <img src="assets/icons/openpgp.svg" alt="OpenPGP" width="40" height="40" title="OpenPGP"/>
+  </a>
+  <a href="https://github.com/yourusername/gnupg-repo" class="icon-link">
+    <img src="assets/icons/gnupg.svg" alt="GnuPG" width="40" height="40" title="GnuPG"/>
+  </a>
+  <a href="https://github.com/yourusername/wayland-repo" class="icon-link">
+    <img src="assets/icons/wayland.svg" alt="Wayland" width="40" height="40" title="Wayland"/>
+  </a>
+  <a href="https://github.com/yourusername/hyprland-repo" class="icon-link">
+    <img src="assets/icons/hyprland.svg" alt="Hyprland" width="40" height="40" title="Hyprland"/>
+  </a>
+</div>
+
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/yourusername/mesa-repo" class="icon-link">
+    <img src="assets/icons/mesa.svg" alt="Mesa" width="40" height="40" title="Mesa"/>
+  </a>
+  <a href="https://github.com/yourusername/vulkan-repo" class="icon-link">
+    <img src="assets/icons/vulkan.svg" alt="Vulkan" width="40" height="40" title="Vulkan"/>
+  </a>
+  <a href="https://github.com/yourusername/pipewire-repo" class="icon-link">
+    <img src="assets/icons/pipewire.svg" alt="Pipewire" width="40" height="40" title="Pipewire"/>
+  </a>
+  <a href="https://github.com/yourusername/obs-studio-repo" class="icon-link">
+    <img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="40" height="40" title="OBS Studio"/>
+  </a>
+  <a href="https://github.com/yourusername/ffmpeg-repo" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40" title="Lua"/>
+  </a>
+  <a href="https://github.com/yourusername/blender-repo" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
+  </a>
 </div>
 
 ### Operating Systems
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30"/>
-  <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30"/>
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40"/>
 </div>
-
-
-
-  </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30"/>|
+  </div> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>|
     <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40"/>|
   </div>
 </div>
