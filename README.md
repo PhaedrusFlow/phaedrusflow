@@ -139,9 +139,6 @@
     <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
   </a>
 </div>
-
-### Operating Systems
-
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="#" class="icon-link">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" title="Linux"/>
