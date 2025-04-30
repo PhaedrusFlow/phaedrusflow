@@ -19,7 +19,10 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=phaedrusflow)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phaedrusflow" alt="Profile Views">
+</p>
+
 
 <div align="center">
 
