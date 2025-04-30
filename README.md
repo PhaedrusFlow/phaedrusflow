@@ -19,6 +19,8 @@
   </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=phaedrusflow)
+
 <div align="center">
 
 <h3 align="center">Front-End Technologies</h3>
@@ -60,7 +62,7 @@
 <h3 align="center">DevOps</h3>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="https://github.com/yourusername/bash-repo" class="icon-link">
+  <a href="https://github.com/qompassai/Shell" class="icon-link">
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" title="Bash"/>
   </a>
 </div>
@@ -78,10 +80,10 @@
   <a href="https://github.com/qompassai/current" class="icon-link">
     <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40" title="Ansible"/>
   </a>
-  <a href="https://github.com/yourusername/terraform-repo" class="icon-link">
+  <a href="https://github.com/qompassai/Terraform" class="icon-link">
     <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40" title="Terraform"/>
   </a>
-  <a href="https://github.com/yourusername/nginx-repo" class="icon-link">
+  <a href="https://github.com/qompassai/Nginx" class="icon-link">
     <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="40" height="40" title="NGINX"/>
   </a>
 </div>
@@ -90,7 +92,7 @@
   <a href="https://github.com/qompassai/qai" class="icon-link">
     <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40" title="Cloudflare"/>
   </a>
-  <a href="https://github.com/yourusername/ghostty-repo" class="icon-link">
+  <a href="https://github.com/Shell" class="icon-link">
     <img src="assets/icons/ghostty.svg" alt="Ghostty" width="40" height="40" title="Ghostty"/>
   </a>
   <a href="https://github.com/qompassai/qssh" class="icon-link">
@@ -126,7 +128,7 @@
   <a href="https://github.com/qompassai/Vulkan" class="icon-link">
     <img src="assets/icons/vulkan.svg" alt="Vulkan" width="40" height="40" title="Vulkan"/>
   </a>
-  <a href="https://github.com/yourusername/pipewire-repo" class="icon-link">
+  <a href="https://github.com/pipewire" class="icon-link">
     <img src="assets/icons/pipewire.svg" alt="Pipewire" width="40" height="40" title="Pipewire"/>
   </a><a href="https://github.com/qompassai/Python" class="icon-link">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" title="Python"/>
@@ -162,7 +164,11 @@
   </a>
 </div>
 
-#### Research Focus Areas
+<details id="Research">
+  <summary><strong>Research Focus Areas</strong></summary>
+<div align="center">
+
+<h3>Research Focus Areas</h3>
 
 | Area                          | Description                                                    | Applications                                                                     |
 | ----------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -170,14 +176,16 @@
 | **Post-Quantum Cryptography** | Implementing quantum-resistant algorithms on-device            | Patient data protection, Educational records security, Government communications |
 | **Quantum Error Correction**  | Optimizing search via quantum amplified search                 | Sustainably secure learning platforms with resilient cryptography                |
 
+</details>
+
 [📚 Read Full Research Details](#detailed-research)
 
 <details id="Contact">
   <summary><strong>Contact Qompass AI</strong></summary>
 
  <div align="center">
-  <p>Matthew A. Porter<sup>1</sup><br>
-  <sup>1</sup>Qompass AI, Spokane, WA</p>
+  <p>Matthew A. Porter<sup></sup><br>
+  <sup></sup>Qompass AI, Spokane, WA</p>
 
   <a href="mailto:&#109;&#97;&#112;&#64;&#113;&#111;&#109;&#112;&#97;&#115;&#115;&#46;&#97;&#105;">
   <img src="https://img.shields.io/badge/Email-Get_a_Quote-blue?style=flat-square&logo=gmail" alt="Email Me">
@@ -497,5 +505,3 @@ $$K = \text{KDF}(Z')$$
 - $K$: final derived key material
 
 </details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=phaedrusflow)
