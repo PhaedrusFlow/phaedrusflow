@@ -169,7 +169,7 @@
 
 
 <details id="Contact">
-  <summary><strong>Contact Qompass AI</strong></summary>
+  <summary><strong>About Me</strong></summary>
 
  <div align="center">
   <p>Matthew A. Porter<sup></sup><br>
@@ -268,7 +268,7 @@
 </details>
 
 <details id="Research">
-  <summary><strong>Research Focus Areas</strong></summary>
+  <summary><strong>Research</strong></summary>
 <div align="center">
 
 [📚 Read Full Research Details](#detailed-research)
@@ -280,8 +280,6 @@
 | **Quantum/AI Hybrid DevOps**  | Developing novel quantum algorithms for self-hosted deployment | Healthcare diagnostics, Personalized education, Network security                 |
 | **Post-Quantum Cryptography** | Implementing quantum-resistant algorithms on-device            | Patient data protection, Educational records security, Government communications |
 | **Quantum Error Correction**  | Optimizing search via quantum amplified search                 | Sustainably secure learning platforms with resilient cryptography                |
-
-</details>
 
 <details id="detailed-research">
   <summary><strong>Research: The Pursuit of Quality Quantum Advantage</strong></summary>
