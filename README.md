@@ -87,25 +87,25 @@
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="https://github.com/yourusername/cloudflare-repo" class="icon-link">
+  <a href="https://github.com/qompassai/qai" class="icon-link">
     <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40" title="Cloudflare"/>
   </a>
   <a href="https://github.com/yourusername/ghostty-repo" class="icon-link">
     <img src="assets/icons/ghostty.svg" alt="Ghostty" width="40" height="40" title="Ghostty"/>
   </a>
-  <a href="https://github.com/yourusername/openssh-repo" class="icon-link">
+  <a href="https://github.com/qompassai/qssh" class="icon-link">
     <img src="assets/icons/openssh.svg" alt="OpenSSH" width="40" height="40" title="OpenSSH"/>
   </a>
-  <a href="https://github.com/yourusername/openssl-repo" class="icon-link">
+  <a href="https://github.com/qompassai/qssl" class="icon-link">
     <img src="assets/icons/openssl.svg" alt="OpenSSL" width="40" height="40" title="OpenSSL"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="https://github.com/yourusername/tor-repo" class="icon-link">
+  <a href="https://github.com/qompassai/Tor" class="icon-link">
     <img src="assets/icons/tor.svg" alt="Tor" width="40" height="40" title="Tor"/>
   </a>
-  <a href="https://github.com/yourusername/openpgp-repo" class="icon-link">
+  <a href="https://github.com/qompassai/Zig" class="icon-link">
     <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40" title="Zig"/>
   </a>
   <a href="https://github.com/yourusername/gnupg-repo" class="icon-link">
@@ -114,28 +114,27 @@
   <a href="https://github.com/yourusername/wayland-repo" class="icon-link">
     <img src="assets/icons/wayland.svg" alt="Wayland" width="40" height="40" title="Wayland"/>
   </a>
-  <a href="https://github.com/yourusername/hyprland-repo" class="icon-link">
+  <a href="https://github.com/qompassai/Hyprland" class="icon-link">
     <img src="assets/icons/hyprland.svg" alt="Hyprland" width="40" height="40" title="Hyprland"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="https://github.com/yourusername/mesa-repo" class="icon-link">
+  <a href="https://github.com/qompassai/Go" class="icon-link">
     <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" title="Go"/>
   </a>
-  <a href="https://github.com/yourusername/vulkan-repo" class="icon-link">
+  <a href="https://github.com/qompassai/Vulkan" class="icon-link">
     <img src="assets/icons/vulkan.svg" alt="Vulkan" width="40" height="40" title="Vulkan"/>
   </a>
   <a href="https://github.com/yourusername/pipewire-repo" class="icon-link">
     <img src="assets/icons/pipewire.svg" alt="Pipewire" width="40" height="40" title="Pipewire"/>
-  </a>
-  <a href="https://github.com/yourusername/obs-studio-repo" class="icon-link">
-    <img src="assets/icons/obs-studio.svg" alt="OBS Studio" width="40" height="40" title="OBS Studio"/>
+  </a><a href="https://github.com/qompassai/Python" class="icon-link">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" title="Python"/>
   </a>
   <a href="https://github.com/qompassai/Lua" class="icon-link">
     <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40" title="Lua"/>
   </a>
-  <a href="https://github.com/yourusername/blender-repo" class="icon-link">
+  <a href="https://github.com/qompassai/Rust" class="icon-link">
     <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
   </a>
 </div>
