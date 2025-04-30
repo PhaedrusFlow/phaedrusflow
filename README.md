@@ -167,21 +167,6 @@
   </a>
 </div>
 
-<details id="Research">
-  <summary><strong>Research Focus Areas</strong></summary>
-<div align="center">
-
-<h3>Research Focus Areas</h3>
-
-| Area                          | Description                                                    | Applications                                                                     |
-| ----------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| **Quantum/AI Hybrid DevOps**  | Developing novel quantum algorithms for self-hosted deployment | Healthcare diagnostics, Personalized education, Network security                 |
-| **Post-Quantum Cryptography** | Implementing quantum-resistant algorithms on-device            | Patient data protection, Educational records security, Government communications |
-| **Quantum Error Correction**  | Optimizing search via quantum amplified search                 | Sustainably secure learning platforms with resilient cryptography                |
-
-</details>
-
-[📚 Read Full Research Details](#detailed-research)
 
 <details id="Contact">
   <summary><strong>Contact Qompass AI</strong></summary>
@@ -280,6 +265,22 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
 [![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
 </div>
+</details>
+
+<details id="Research">
+  <summary><strong>Research Focus Areas</strong></summary>
+<div align="center">
+
+[📚 Read Full Research Details](#detailed-research)
+
+<h3>Research TLDR</h3>
+
+| Area                          | Description                                                    | Applications                                                                     |
+| ----------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Quantum/AI Hybrid DevOps**  | Developing novel quantum algorithms for self-hosted deployment | Healthcare diagnostics, Personalized education, Network security                 |
+| **Post-Quantum Cryptography** | Implementing quantum-resistant algorithms on-device            | Patient data protection, Educational records security, Government communications |
+| **Quantum Error Correction**  | Optimizing search via quantum amplified search                 | Sustainably secure learning platforms with resilient cryptography                |
+
 </details>
 
 <details id="detailed-research">
