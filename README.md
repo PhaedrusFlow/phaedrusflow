@@ -434,7 +434,7 @@ $$K = \text{KDF}(Z')$$
 - $Z'$: combined shared secret
 - $\text{KDF}$: Key Derivation Function
 - $K$: final derived key material
-
+</details>
 </details>
 
   
