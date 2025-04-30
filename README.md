@@ -167,7 +167,7 @@
   </a>
 </div>
 
-
+<p></p>
 <details id="Contact">
   <summary><strong>About Me</strong></summary>
 
