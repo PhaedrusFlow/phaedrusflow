@@ -66,16 +66,16 @@
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="https://github.com/yourusername/docker-repo" class="icon-link">
+  <a href="https://github.com/qompassai/Containers" class="icon-link">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" title="Docker"/>
   </a>
-  <a href="https://github.com/yourusername/kubernetes-repo" class="icon-link">
+  <a href="https://github.com/qompassai/k8s" class="icon-link">
     <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" title="Kubernetes"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="https://github.com/yourusername/ansible-repo" class="icon-link">
+  <a href="https://github.com/qompassai/current" class="icon-link">
     <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40" title="Ansible"/>
   </a>
   <a href="https://github.com/yourusername/terraform-repo" class="icon-link">
