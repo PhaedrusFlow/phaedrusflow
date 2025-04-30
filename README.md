@@ -108,10 +108,10 @@
   <a href="https://github.com/qompassai/Zig" class="icon-link">
     <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40" title="Zig"/>
   </a>
-  <a href="https://github.com/yourusername/gnupg-repo" class="icon-link">
+  <a href="https://github.com/qompassai/qpg" class="icon-link">
     <img src="assets/icons/gnupg.svg" alt="GnuPG" width="40" height="40" title="GnuPG"/>
   </a>
-  <a href="https://github.com/yourusername/wayland-repo" class="icon-link">
+  <a href="https://github.com/qompassai/Wayland" class="icon-link">
     <img src="assets/icons/wayland.svg" alt="Wayland" width="40" height="40" title="Wayland"/>
   </a>
   <a href="https://github.com/qompassai/Hyprland" class="icon-link">
