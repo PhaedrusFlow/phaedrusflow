@@ -1,28 +1,24 @@
-## Matt A. Porter
+<h2>Matt A. Porter</h2>
 
-### Former Intelligence Officer | Qompass AI Founder/CEO
+<h3>Former Intelligence Officer | Qompass AI Founder/CEO</h3>
 
 <h3>Helping you navigate the Deep Waters of Deep Tech with Quality AI Adoption Solutions</h3>
 
 <!-- [![Quality AI: Safe, Secure & Trustworthy](assets/images/mlkem-visualization.png)](https://phaedrusflow.github.io/phaedrusflow/diagrams/mlkem/) -->
 
-### Q: What defines AI "Quality"?
+<h3>Q: What defines AI "Quality"?</h3>
 
-### A: Building safe, secure, and trustworthy systems supporting responsible innovation on-prem and on-device.
+<h3>A: Building safe, secure, and trustworthy systems supporting responsible innovation on-prem and on-device.</h3>
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
   <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3">
   </a>
   <a href="./LICENSE-QCDA">
     <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
   </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=phaedrusflow" alt="Profile Views">
-</p>
-
+</div>
 
 <div align="center">
 
@@ -31,47 +27,75 @@
 <div class="tech-pyramid" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
   
   <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/qompassai/html" class="icon-link">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" title="HTML"/>
+  </a>
+  <a href="https://github.com/qompassai/css" class="icon-link">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" title="CSS"/>
+  </a>
+  <a href="https://github.com/qompassai/javascript" class="icon-link">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  </a>
+  <a href="https://github.com/qompassai/typescript" class="icon-link">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" title="TypeScript"/>
+  </a>
+  <a href="https://github.com/qompassai/vue" class="icon-link">
     <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="40" height="40" title="Vue"/>
-  </div>
-  
-  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" title="Tailwind"/>
-    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" title="Vite"/>
-    <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="40" height="40" title="Markdown"/>
-    <img src="https://skillicons.dev/icons?i=latex" alt="Latex" width="40" height="40" title="Latex"/>
-  </div>
-  
-  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-    <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="40" height="40" title="Svelte"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" title="Next.js"/>
-    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="40" height="40" title="Three.js"/>
-  </div>
-  
-  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-    <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" width="40" height="40" title="WebAssembly"/>
-    <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="40" height="40" title="Tauri"/>
-  </div>
-  
-  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-    <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="40" height="40" title="Deno"/>
-  </div>  
+  </a>
 </div>
-<div align="center">
+
+  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/qompassai/tailwind" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" title="Tailwind"/>
+  </a>
+  <a href="https://github.com/qompassai/vite" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" title="Vite"/>
+  </a>
+  <a href="https://github.com/qompassai/markdown" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="40" height="40" title="Markdown"/>
+  </a>
+  <a href="https://github.com/qompassai/latex" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=latex" alt="Latex" width="40" height="40" title="Latex"/>
+  </a>
+</div>
+  
+ <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/qompassai/svelte" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="40" height="40" title="Svelte"/>
+  </a>
+  <a href="https://github.com/qompassai/nextjs" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" title="Next.js"/>
+  </a>
+  <a href="https://github.com/qompassai/threejs" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="40" height="40" title="Three.js"/>
+  </a>
+</div>
+
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/qompassai/current" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" width="40" height="40" title="WebAssembly"/>
+  </a>
+  <a href="https://github.com/qompassai/tauri" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="40" height="40" title="Tauri"/>
+  </a>
+</div>
+
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/qompassai/deno" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="40" height="40" title="Deno"/>
+  </a>
+</div>
 
 <h3 align="center">DevOps</h3>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="https://github.com/qompassai/Shell" class="icon-link">
+  <a href="https://github.com/qompassai/shell" class="icon-link">
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" title="Bash"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="https://github.com/qompassai/Containers" class="icon-link">
+  <a href="https://github.com/qompassai/containers" class="icon-link">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" title="Docker"/>
   </a>
   <a href="https://github.com/qompassai/k8s" class="icon-link">
@@ -83,10 +107,10 @@
   <a href="https://github.com/qompassai/current" class="icon-link">
     <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40" title="Ansible"/>
   </a>
-  <a href="https://github.com/qompassai/Terraform" class="icon-link">
+  <a href="https://github.com/qompassai/terraform" class="icon-link">
     <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40" title="Terraform"/>
   </a>
-  <a href="https://github.com/qompassai/Nginx" class="icon-link">
+  <a href="https://github.com/qompassai/nginx" class="icon-link">
     <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="40" height="40" title="NGINX"/>
   </a>
 </div>
@@ -95,7 +119,7 @@
   <a href="https://github.com/qompassai/qai" class="icon-link">
     <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40" title="Cloudflare"/>
   </a>
-  <a href="https://github.com/Shell" class="icon-link">
+  <a href="https://github.com/qompassai/shell" class="icon-link">
     <img src="assets/icons/ghostty.svg" alt="Ghostty" width="40" height="40" title="Ghostty"/>
   </a>
   <a href="https://github.com/qompassai/qssh" class="icon-link">
@@ -116,7 +140,7 @@
   <a href="https://github.com/qompassai/qpg" class="icon-link">
     <img src="assets/icons/gnupg.svg" alt="GnuPG" width="40" height="40" title="GnuPG"/>
   </a>
-  <a href="https://github.com/qompassai/Wayland" class="icon-link">
+  <a href="https://github.com/qompassai/wayland" class="icon-link">
     <img src="assets/icons/wayland.svg" alt="Wayland" width="40" height="40" title="Wayland"/>
   </a>
   <a href="https://github.com/qompassai/Hyprland" class="icon-link">
@@ -131,7 +155,7 @@
   <a href="https://github.com/qompassai/Vulkan" class="icon-link">
     <img src="assets/icons/vulkan.svg" alt="Vulkan" width="40" height="40" title="Vulkan"/>
   </a>
-  <a href="https://github.com/pipewire" class="icon-link">
+  <a href="https://github.com/qompassai/pipewire" class="icon-link">
     <img src="assets/icons/pipewire.svg" alt="Pipewire" width="40" height="40" title="Pipewire"/>
   </a><a href="https://github.com/qompassai/Python" class="icon-link">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" title="Python"/>
@@ -144,25 +168,25 @@
   </a>
 </div>
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="#" class="icon-link">
+  <a href="https://github.com/qompassai/linux" class="icon-link">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" title="Linux"/>
   </a>
-  <a href="#" class="icon-link">
+  <a href="https://github.com/qompassai/arch" class="icon-link">
     <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40" title="Arch"/>
   </a>
-  <a href="#" class="icon-link">
+  <a href="https://github.com/qompassai/debian" class="icon-link">
     <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40" title="Debian"/>
   </a>
-  <a href="#" class="icon-link">
+  <a href="https://github.com/qompassai/ubuntu" class="icon-link">
     <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40" title="Ubuntu"/>
   </a>
-  <a href="#" class="icon-link">
+  <a href="https://github.com/qompassai/windows" class="icon-link">
     <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40" title="Windows"/>
   </a>
-  <a href="#" class="icon-link">
+  <a href="https://github.com/qompassai/azure" class="icon-link">
     <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40" title="Azure"/>
   </a>
-  <a href="#" class="icon-link">
+  <a href="https://github.com/qompassai/apple" class="icon-link">
     <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40" title="MacOS"/>
   </a>
 </div>
@@ -172,7 +196,7 @@
   <summary><strong>About Me</strong></summary>
 
  <div align="center">
-  <p>Matthew A. Porter<sup></sup><br>
+  <p>Matthew A. Porter<br>
   <sup></sup>Qompass AI, Spokane, WA</p>
 
   <a href="mailto:&#109;&#97;&#112;&#64;&#113;&#111;&#109;&#112;&#97;&#115;&#115;&#46;&#97;&#105;">
@@ -183,6 +207,15 @@
   <img src="https://img.shields.io/badge/SMS-Text_Me-blue?style=flat-square&logo=minutemailer" alt="Text Me">
 </a>
 
+<h3 align="center">Developer Programs</h3>
+<div align="center">
+ 
+[![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
+[![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
+[![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
+[![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
+</div>
 
  <h3>Academic</h3>
   <p>
@@ -199,10 +232,71 @@
 <details id="Research">
   <summary><strong>Current Research</strong></summary>
 <div align="center">
+ 
+  <h3>Professional Profiles</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/matt-a-porter-103535224/">
+      <img src="https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin" alt="Personal LinkedIn">
+    </a>
+    <a href="https://www.linkedin.com/company/95058568/">
+      <img src="https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin" alt="Startup LinkedIn">
+    </a>
+  </p>
+  
+  <h3>Social Media</h3>
+  <p>
+    <a href="https://twitter.com/PhaedrusFlow">
+      <img src="https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter" alt="X/Twitter">
+    </a>
+    <a href="https://www.instagram.com/phaedrusflow">
+      <img src="https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram" alt="Instagram">
+    </a>
+    <a href="https://www.youtube.com/@qompassai">
+      <img src="https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube" alt="YouTube">
+    </a>
+  </p>
+  
+<div align="center">
+<h3>Support & Funding</h3>
+
+<table>
+<tr>
+<th align="center">💰 Pre-Seed Funding 2023-2025</th>
+<th align="center">🏆 Amount</th>
+<th align="center">📅 Date</th>
+</tr>
+<tr>
+<td><a href="https://github.com/qompassai/r4r" title="RJOS/Zimmer Biomet Research Grant Repository">RJOS/Zimmer Biomet Research Grant</a></td>
+<td align="center">$30,000</td>
+<td align="center">March 2024</td>
+</tr>
+<tr>
+<td onclick="window.open('https://github.com/qompassai/PathFinders', '_blank')">
+  <a href="https://github.com/qompassai/PathFinders" title="GitHub Repository">Pathfinders Intern Program</a>
+  <br>
+  <small><a href="https://www.linkedin.com/posts/evergreenbio_bioscience-internships-workforcedevelopment-activity-7253166461416812544-uWUM/" onclick="event.stopPropagation()" target="_blank">View on LinkedIn</a></small>
+</td>
+<td align="center">$2,000</td>
+<td align="center">October 2024</td>
+</tr>
+</table>
+
+<p>Your support helps us continue building innovative solutions at the intersection of health and education.</p>
+
+<a href="https://www.buymeacoffee.com/phaedrusflow" target="_blank">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" width="250" />
+</a>
+
+<hr width="50%" style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<p><i>Funding helps us continue our research at the intersection of AI, healthcare, and education</i></p>
+</div>
+
 
 [📚 Read Full Research Details](#detailed-research)
 
 <h3>Research TLDR</h3>
+[🔗 Interactive Post-Quantum Visualization (Three.js)](assets/pqc.html)
 
 | Area                          | Description                                                    | Applications                                                                     |
 | ----------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -435,75 +529,4 @@ $$K = \text{KDF}(Z')$$
 - $\text{KDF}$: Key Derivation Function
 - $K$: final derived key material
 </details>
-</details>
-
-  
-  <h3>Professional Profiles</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/matt-a-porter-103535224/">
-      <img src="https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin" alt="Personal LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/company/95058568/">
-      <img src="https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin" alt="Startup LinkedIn">
-    </a>
-  </p>
-  
-  <h3>Social Media</h3>
-  <p>
-    <a href="https://twitter.com/PhaedrusFlow">
-      <img src="https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter" alt="X/Twitter">
-    </a>
-    <a href="https://www.instagram.com/phaedrusflow">
-      <img src="https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram" alt="Instagram">
-    </a>
-    <a href="https://www.youtube.com/@qompassai">
-      <img src="https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube" alt="YouTube">
-    </a>
-  </p>
-  
-<div align="center">
-<h3>Support & Funding</h3>
-
-<table>
-<tr>
-<th align="center">💰 Pre-Seed Funding 2023-2025</th>
-<th align="center">🏆 Amount</th>
-<th align="center">📅 Date</th>
-</tr>
-<tr>
-<td><a href="https://github.com/qompassai/r4r" title="RJOS/Zimmer Biomet Research Grant Repository">RJOS/Zimmer Biomet Research Grant</a></td>
-<td align="center">$30,000</td>
-<td align="center">March 2024</td>
-</tr>
-<tr>
-<td onclick="window.open('https://github.com/qompassai/PathFinders', '_blank')">
-  <a href="https://github.com/qompassai/PathFinders" title="GitHub Repository">Pathfinders Intern Program</a>
-  <br>
-  <small><a href="https://www.linkedin.com/posts/evergreenbio_bioscience-internships-workforcedevelopment-activity-7253166461416812544-uWUM/" onclick="event.stopPropagation()" target="_blank">View on LinkedIn</a></small>
-</td>
-<td align="center">$2,000</td>
-<td align="center">October 2024</td>
-</tr>
-</table>
-
-<p>Your support helps us continue building innovative solutions at the intersection of health and education.</p>
-
-<a href="https://www.buymeacoffee.com/phaedrusflow" target="_blank">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" width="250" />
-</a>
-
-<hr width="50%" style="height:2px;border-width:0;color:gray;background-color:gray">
-
-<p><i>Funding helps us continue our research at the intersection of AI, healthcare, and education</i></p>
-</div>
-
-<h3 align="center">Developer Programs</h3>
-<div align="center">
- 
-[![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
-[![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
-[![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
-[![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
-</div>
 </details>

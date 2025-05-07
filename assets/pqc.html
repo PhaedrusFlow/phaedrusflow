@@ -1,0 +1,73 @@
+<!-- ~/.GH/PF/phaedrusflow/assets/pqc.html -->
+<!-- ------------------------------------- -->
+<!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Post-Quantum Key Exchange Visualization</title>
+</head>
+<body>
+  <div id="pq-visual" style="width: 600px; height: 400px;"></div>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.154.0/build/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.154.0/examples/js/controls/OrbitControls.js"></script>
+  <script>
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, 600/400, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer();
+    renderer.setSize(600, 400);
+    document.getElementById('pq-visual').appendChild(renderer.domElement);
+
+    const controls = new THREE.OrbitControls(camera, renderer.domElement);
+
+    const nodeGeometry = new THREE.SphereGeometry(0.2, 32, 32);
+    const aliceMat = new THREE.MeshStandardMaterial({ color: 0x2196f3 });
+    const bobMat = new THREE.MeshStandardMaterial({ color: 0x4caf50 });
+    const keyMat = new THREE.MeshStandardMaterial({ color: 0xffc107 });
+    const ctMat = new THREE.MeshStandardMaterial({ color: 0xf44336 });
+
+    const alice = new THREE.Mesh(nodeGeometry, aliceMat);
+    alice.position.set(-1, 0, 0);
+    scene.add(alice);
+
+    const bob = new THREE.Mesh(nodeGeometry, bobMat);
+    bob.position.set(1, 0, 0);
+    scene.add(bob);
+
+    const key = new THREE.Mesh(nodeGeometry, keyMat);
+    key.position.set(0, 1, 0);
+    scene.add(key);
+
+    const ciphertext = new THREE.Mesh(nodeGeometry, ctMat);
+    ciphertext.position.set(0, -1, 0);
+    scene.add(ciphertext);
+
+    function addEdge(start, end, color) {
+      const points = [start.position, end.position];
+      const geometry = new THREE.BufferGeometry().setFromPoints(points);
+      const material = new THREE.LineBasicMaterial({ color });
+      const line = new THREE.Line(geometry, material);
+      scene.add(line);
+    }
+    addEdge(alice, key, 0x888888);
+    addEdge(key, ciphertext, 0x888888);
+    addEdge(ciphertext, bob, 0x888888);
+
+    scene.add(new THREE.AmbientLight(0xffffff, 0.6));
+    const light = new THREE.PointLight(0xffffff, 1);
+    light.position.set(0, 2, 2);
+    scene.add(light);
+
+    camera.position.z = 4;
+
+    function animate() {
+      requestAnimationFrame(animate);
+      controls.update();
+      renderer.render(scene, camera);
+    }
+    animate();
+  </script>
+</body>
+</html>
+
