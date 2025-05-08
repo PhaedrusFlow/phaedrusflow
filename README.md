@@ -72,7 +72,7 @@
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="https://github.com/qompassai/current" class="icon-link">
+  <a href="https://github.com/qompassai/wasm" class="icon-link">
     <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" width="40" height="40" title="WebAssembly"/>
   </a>
   <a href="https://github.com/qompassai/tauri" class="icon-link">
@@ -104,7 +104,7 @@
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="https://github.com/qompassai/current" class="icon-link">
+  <a href="https://github.com/qompassai/ansible" class="icon-link">
     <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40" title="Ansible"/>
   </a>
   <a href="https://github.com/qompassai/terraform" class="icon-link">
