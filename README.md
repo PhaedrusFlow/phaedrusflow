@@ -167,7 +167,7 @@
     <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
   </a>
   <a href="https://github.com/qompassai/valkey" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=valkey" alt="Valkey" width="40" height="40" title="Valkey"/>
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" title="Redis"/>
   </a>
 </div>
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
