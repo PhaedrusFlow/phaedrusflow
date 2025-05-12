@@ -174,6 +174,9 @@
   <a href="https://github.com/qompassai/arch" class="icon-link">
     <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40" title="Arch"/>
   </a>
+  <a href="https://github.com/qompassai/nix" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=nix" alt="Nix" width="40" height="40" title="Nix"/>
+  </a>
   <a href="https://github.com/qompassai/debian" class="icon-link">
     <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40" title="Debian"/>
   </a>
