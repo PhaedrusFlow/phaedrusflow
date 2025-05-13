@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<h3 align="center">Front-End Technologies</h3>
+<h3 align="center">Front-End</h3>
 
 <div class="tech-pyramid" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
   
@@ -96,10 +96,22 @@
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/containers" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="40" height="40" title="Unreal"/>
+  </a>
+  <a href="https://github.com/qompassai/mysql" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" title="MySQL"/>
+  </a>
+</div>
+
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/qompassai/containers" class="icon-link">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" title="Docker"/>
   </a>
   <a href="https://github.com/qompassai/k8s" class="icon-link">
     <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" title="Kubernetes"/>
+  </a>
+  <a href="https://github.com/qompassai/psql" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="40" height="40" title="Postgres"/>
   </a>
 </div>
 
@@ -112,6 +124,9 @@
   </a>
   <a href="https://github.com/qompassai/nginx" class="icon-link">
     <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="40" height="40" title="NGINX"/>
+  </a>
+  <a href="https://github.com/qompassai/Diver" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="40" height="40" title="Neovim"/>
   </a>
 </div>
 
@@ -128,6 +143,9 @@
   <a href="https://github.com/qompassai/qssl" class="icon-link">
     <img src="assets/icons/openssl.svg" alt="OpenSSL" width="40" height="40" title="OpenSSL"/>
   </a>
+  <a href="https://github.com/qompassai/mojo" class="icon-link">
+  <img src="https://cdn.iconduck.com/emojis/37553/fire.svg" alt="Flame" width="40" height="40" title="Mojo"/>
+  </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
@@ -142,6 +160,9 @@
   </a>
   <a href="https://github.com/qompassai/wayland" class="icon-link">
     <img src="assets/icons/wayland.svg" alt="Wayland" width="40" height="40" title="Wayland"/>
+  </a>
+  <a href="https://github.com/qompassai/obs" class="icon-link">
+    <img src="assets/icons/obs-studio.svg" alt="OBS" width="40" height="40" title="OBS"/>
   </a>
   <a href="https://github.com/qompassai/Hyprland" class="icon-link">
     <img src="assets/icons/hyprland.svg" alt="Hyprland" width="40" height="40" title="Hyprland"/>

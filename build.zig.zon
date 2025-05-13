@@ -1,8 +1,9 @@
+//phaedrusflow/build.zig.zon
 .{
     .name = .phaedrusflow,
     .version = "0.1.0",
     .fingerprint = 0x2416fb0176a4e3b8,
-    .minimum_zig_version = "0.14.0",
+    .minimum_zig_version = "0.15.0",
     .dependencies = .{
         .zine = .{
             .url = "git+https://github.com/kristoff-it/zine.git#0e7d06e3faabbfa6fe5fcf52d9b4f71694099df4",

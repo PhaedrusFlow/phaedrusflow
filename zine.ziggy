@@ -1,12 +1,36 @@
 // zine.ziggy
-Site {
-    .title = "The Deep Pursuit of Quality AI",
-    .host_url = "https://phaedrusflow.github.io",
-    .content_dir_path = "content",
-    .layouts_dir_path = "layouts", 
-    .assets_dir_path = "assets",
-    .static_assets = [
-        .{ .src = "assets", .dst = "/" },
-    ],
-}
+const zine = @import("zine");
 
+pub const site = zine.Site{
+    .base_url = "https://phaedrusflow.github.io",
+    .content_dir = "content",
+    .layouts_dir = "layouts",
+    .assets_dir = "assets",
+    .output_dir = "public",
+    
+    .site_title = "The Deep Pursuit of Quality AI",
+    .site_description = "Quality AI Adoption Solutions as a Service",
+    .author = "Matthew A. Porter",
+    .language = "en-US",
+    
+    .math = true,
+    .mermaid = true,
+    .code_highlighting = true,
+    
+    .social = .{
+        .twitter = "PhaedrusFlow",
+        .github = "phaedrusflow"
+    },
+    
+    .static_assets = &.{
+        "favicon.ico",
+        "CNAME",
+        .{ .src = "assets", .dst = "/" }
+    },
+    
+    .theme = .{
+        .primary = "#76B900",
+        .secondary = "#0668E1",
+        .dark_mode = true
+    }
+};
