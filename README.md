@@ -1,3 +1,4 @@
+<!--Copyright (C) 2025 Qompass AI, All rights reserved-->
 <h2>Matt A. Porter</h2>
 
 <h3>Former Intelligence Officer | Qompass AI Founder/CEO</h3>

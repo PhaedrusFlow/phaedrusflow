@@ -1,5 +1,5 @@
 // form-validation.js
-
+// Copyright (C) 2025 Qompass AI, All rights reserved
 document.addEventListener('DOMContentLoaded', function() {
   const contactForm = document.querySelector('.contact-form');
   
