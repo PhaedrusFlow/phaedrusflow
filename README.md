@@ -148,7 +148,7 @@
     <img src="assets/icons/openssl.svg" alt="OpenSSL" width="40" height="40" title="OpenSSL"/>
   </a>
   <a href="https://github.com/qompassai/sqlite" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=zig" alt="SQLite" width="40" height="40" title="SQLite"/>
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40" title="SQLite"/>
   </a>
 </div>
 
