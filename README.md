@@ -12,8 +12,9 @@
 <h3>A: Building safe, secure, and trustworthy systems supporting responsible innovation on-prem and on-device.</h3>
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
- <img src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S" alt="GitHub Trophies"/>
- <a href="https://www.gnu.org/licenses/agpl-3.0">
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S" alt="GitHub Trophies"/>
+  <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3">
   </a>
   <a href="./LICENSE-QCDA">
@@ -21,6 +22,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=phaedrusflow" alt="Profile Views">
 </div>
+
 
 <div align="center">
 
