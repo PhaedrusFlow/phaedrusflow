@@ -148,7 +148,7 @@
     <img src="assets/icons/openssl.svg" alt="OpenSSL" width="40" height="40" title="OpenSSL"/>
   </a>
   <a href="https://github.com/qompassai/mojo" class="icon-link">
-  <img src="https://cdn.iconduck.com/emojis/37553/fire.svg" alt="Flame" width="40" height="40" title="Mojo"/>
+  <img src="https://cdn.iconduck.com/emojis/37553/fire.svg" alt="Mojo" width="40" height="40" title="Mojo"/>
   </a>
 </div>
 
