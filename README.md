@@ -32,34 +32,34 @@
   
   <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/html" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" title="HTML"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="30" title="HTML"/>
   </a>
   <a href="https://github.com/qompassai/css" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" title="CSS"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" title="CSS"/>
   </a>
   <a href="https://github.com/qompassai/javascript" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="30" height="30" title="JavaScript"/>
   </a>
   <a href="https://github.com/qompassai/typescript" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" title="TypeScript"/>
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="30" height="30" title="TypeScript"/>
   </a>
   <a href="https://github.com/qompassai/vue" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="40" height="40" title="Vue"/>
+    <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="30" height="30" title="Vue"/>
   </a>
 </div>
 
   <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/tailwind" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" title="Tailwind"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="30" height="30" title="Tailwind"/>
   </a>
   <a href="https://github.com/qompassai/vite" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" title="Vite"/>
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="30" height="30" title="Vite"/>
   </a>
   <a href="https://github.com/qompassai/markdown" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="40" height="40" title="Markdown"/>
+    <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="30" height="30" title="Markdown"/>
   </a>
   <a href="https://github.com/qompassai/latex" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=latex" alt="Latex" width="40" height="40" title="Latex"/>
+    <img src="https://skillicons.dev/icons?i=latex" alt="Latex" width="30" height="30" title="Latex"/>
   </a>
 </div>
   
