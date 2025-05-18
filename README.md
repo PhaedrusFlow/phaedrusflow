@@ -50,6 +50,9 @@
   <a href="https://github.com/qompassai/vue" class="icon-link">
     <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="30" height="30" title="Vue"/>
   </a>
+  <a href="https://github.com/qompassai/chakraui" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=chakraui" alt="Chakra UI" width="30" height="30" title="Chakra UI"/>
+  </a>
 </div>
 
   <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
@@ -65,6 +68,9 @@
   <a href="https://github.com/qompassai/latex" class="icon-link">
     <img src="https://skillicons.dev/icons?i=latex" alt="Latex" width="30" height="30" title="Latex"/>
   </a>
+  <a href="https://github.com/qompassai/astro" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=astro" alt="Astro" width="30" height="30" title="Astro"/>
+  </a>
 </div>
   
  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
@@ -77,6 +83,9 @@
   <a href="https://github.com/qompassai/threejs" class="icon-link">
     <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="30" height="30" title="Three.js"/>
   </a>
+  <a href="https://github.com/zed-industries/zine" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=zig" alt="Zine (Zig)" width="30" height="30" title="Zine (Zig)"/>
+  </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
@@ -86,8 +95,8 @@
   <a href="https://github.com/qompassai/tauri" class="icon-link">
     <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
   </a>
-  <a href="https://github.com/qompassai/bootstrap" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="30" height="30" title="Bootstrap"/>
+  <a href="https://github.com/qompassai/materialui" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="30" height="30" title="Material UI"/>
   </a>
 </div>
 
@@ -112,11 +121,10 @@
 </p>
 
 
-<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
 <a href="https://github.com/qompassai/mojo" class="icon-link">
-  <img src="assets/icons/mojo.svg" alt="Mojo" width="30" height="30" title="Mojo"/>
+  <img src="https://raw.githubusercontent.com/PhaedrusFlow/phaedrusflow/main/assets/icons/mojo.svg" alt="Mojo" width="30" height="30" title="Mojo"/>
 </a>
-</div>
+
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/shell" class="icon-link">
@@ -136,8 +144,8 @@
     <img src="https://skillicons.dev/icons?i=scala" alt="Scala" width="30" height="30" title="Scala"/>
   </a>
    <a href="https://github.com/qompassai/mariadb" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=mariadb" alt="MariaDB" width="30" height="30" title="MariaDB"/>
-  </a>
+  <img src="assets/icons/mariadb.svg" alt="MariaDB" width="30" height="30" title="MariaDB"/>
+</a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
