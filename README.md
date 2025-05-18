@@ -65,28 +65,28 @@
   
  <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/svelte" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="40" height="40" title="Svelte"/>
+    <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="30" height="30" title="Svelte"/>
   </a>
   <a href="https://github.com/qompassai/nextjs" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" title="Next.js"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="30" height="30" title="Next.js"/>
   </a>
   <a href="https://github.com/qompassai/threejs" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="40" height="40" title="Three.js"/>
+    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="30" height="30" title="Three.js"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/wasm" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" width="40" height="40" title="WebAssembly"/>
+    <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" width="30" height="30" title="WebAssembly"/>
   </a>
   <a href="https://github.com/qompassai/tauri" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="40" height="40" title="Tauri"/>
+    <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/deno" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="40" height="40" title="Deno"/>
+    <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="30" height="30" title="Deno"/>
   </a>
 </div>
 
@@ -94,131 +94,131 @@
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/shell" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" title="Bash"/>
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="30" height="30" title="Bash"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/containers" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="40" height="40" title="Unreal"/>
+    <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="30" height="30" title="Unreal"/>
   </a>
   <a href="https://github.com/qompassai/mysql" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" title="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="30" height="30" title="MySQL"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/containers" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" title="Docker"/>
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" height="30" title="Docker"/>
   </a>
   <a href="https://github.com/qompassai/k8s" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" title="Kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="30" height="30" title="Kubernetes"/>
   </a>
   <a href="https://github.com/qompassai/psql" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="40" height="40" title="Postgres"/>
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="30" height="30" title="Postgres"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/ansible" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40" title="Ansible"/>
+    <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="30" height="30" title="Ansible"/>
   </a>
   <a href="https://github.com/qompassai/terraform" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40" title="Terraform"/>
+    <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="30" height="30" title="Terraform"/>
   </a>
   <a href="https://github.com/qompassai/nginx" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="40" height="40" title="NGINX"/>
+    <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="30" height="30" title="NGINX"/>
   </a>
   <a href="https://github.com/qompassai/Diver" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="40" height="40" title="Neovim"/>
+    <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="30" height="30" title="Neovim"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/qai" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40" height="40" title="Cloudflare"/>
+    <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="30" height="30" title="Cloudflare"/>
   </a>
   <a href="https://github.com/qompassai/shell" class="icon-link">
-    <img src="assets/icons/ghostty.svg" alt="Ghostty" width="40" height="40" title="Ghostty"/>
+    <img src="assets/icons/ghostty.svg" alt="Ghostty" width="30" height="30" title="Ghostty"/>
   </a>
   <a href="https://github.com/qompassai/qssh" class="icon-link">
-    <img src="assets/icons/openssh.svg" alt="OpenSSH" width="40" height="40" title="OpenSSH"/>
+    <img src="assets/icons/openssh.svg" alt="OpenSSH" width="30" height="30" title="OpenSSH"/>
   </a>
   <a href="https://github.com/qompassai/qssl" class="icon-link">
-    <img src="assets/icons/openssl.svg" alt="OpenSSL" width="40" height="40" title="OpenSSL"/>
+    <img src="assets/icons/openssl.svg" alt="OpenSSL" width="30" height="30" title="OpenSSL"/>
   </a>
   <a href="https://github.com/qompassai/sqlite" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40" title="SQLite"/>
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="30" height="30" title="SQLite"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/Tor" class="icon-link">
-    <img src="assets/icons/tor.svg" alt="Tor" width="40" height="40" title="Tor"/>
+    <img src="assets/icons/tor.svg" alt="Tor" width="30" height="30" title="Tor"/>
   </a>
   <a href="https://github.com/qompassai/Zig" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="40" height="40" title="Zig"/>
+    <img src="https://skillicons.dev/icons?i=zig" alt="Zig" width="30" height="30" title="Zig"/>
   </a>
   <a href="https://github.com/qompassai/qpg" class="icon-link">
-    <img src="assets/icons/gnupg.svg" alt="GnuPG" width="40" height="40" title="GnuPG"/>
+    <img src="assets/icons/gnupg.svg" alt="GnuPG" width="30" height="30" title="GnuPG"/>
   </a>
   <a href="https://github.com/qompassai/wayland" class="icon-link">
-    <img src="assets/icons/wayland.svg" alt="Wayland" width="40" height="40" title="Wayland"/>
+    <img src="assets/icons/wayland.svg" alt="Wayland" width="30" height="30" title="Wayland"/>
   </a>
   <a href="https://github.com/qompassai/obs" class="icon-link">
-    <img src="assets/icons/obs-studio.svg" alt="OBS" width="40" height="40" title="OBS"/>
+    <img src="assets/icons/obs-studio.svg" alt="OBS" width="30" height="30" title="OBS"/>
   </a>
   <a href="https://github.com/qompassai/Hyprland" class="icon-link">
-    <img src="assets/icons/hyprland.svg" alt="Hyprland" width="40" height="40" title="Hyprland"/>
+    <img src="assets/icons/hyprland.svg" alt="Hyprland" width="30" height="30" title="Hyprland"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/Go" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" title="Go"/>
+    <img src="https://skillicons.dev/icons?i=go" alt="Go" width="30" height="30" title="Go"/>
   </a>
   <a href="https://github.com/qompassai/Vulkan" class="icon-link">
-    <img src="assets/icons/vulkan.svg" alt="Vulkan" width="40" height="40" title="Vulkan"/>
+    <img src="assets/icons/vulkan.svg" alt="Vulkan" width="30" height="30" title="Vulkan"/>
   </a>
   <a href="https://github.com/qompassai/pipewire" class="icon-link">
-    <img src="assets/icons/pipewire.svg" alt="Pipewire" width="40" height="40" title="Pipewire"/>
+    <img src="assets/icons/pipewire.svg" alt="Pipewire" width="30" height="30" title="Pipewire"/>
   </a><a href="https://github.com/qompassai/Python" class="icon-link">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30" title="Python"/>
   </a>
   <a href="https://github.com/qompassai/Lua" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="40" height="40" title="Lua"/>
+    <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="30" height="30" title="Lua"/>
   </a>
   <a href="https://github.com/qompassai/Rust" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" title="Rust"/>
+    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="30" height="30" title="Rust"/>
   </a>
   <a href="https://github.com/qompassai/valkey" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" title="Redis"/>
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="30" height="30" title="Redis"/>
   </a>
 </div>
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/linux" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" title="Linux"/>
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="30" height="30" title="Linux"/>
   </a>
   <a href="https://github.com/qompassai/arch" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="40" height="40" title="Arch"/>
+    <img src="https://skillicons.dev/icons?i=arch" alt="Arch" width="30" height="30" title="Arch"/>
   </a>
   <a href="https://github.com/qompassai/nix" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=nix" alt="Nix" width="40" height="40" title="Nix"/>
+    <img src="https://skillicons.dev/icons?i=nix" alt="Nix" width="30" height="30" title="Nix"/>
   </a>
   <a href="https://github.com/qompassai/debian" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="40" height="40" title="Debian"/>
+    <img src="https://skillicons.dev/icons?i=debian" alt="Debian" width="30" height="30" title="Debian"/>
   </a>
   <a href="https://github.com/qompassai/ubuntu" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40" title="Ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="30" height="30" title="Ubuntu"/>
   </a>
   <a href="https://github.com/qompassai/windows" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40" title="Windows"/>
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="30" height="30" title="Windows"/>
   </a>
   <a href="https://github.com/qompassai/azure" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40" title="Azure"/>
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30" height="30" title="Azure"/>
   </a>
   <a href="https://github.com/qompassai/apple" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="40" height="40" title="MacOS"/>
+    <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="30" height="30" title="MacOS"/>
   </a>
 </div>
 
