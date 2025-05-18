@@ -176,6 +176,9 @@
   <a href="https://github.com/qompassai/Diver" class="icon-link">
     <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="30" height="30" title="Neovim"/>
   </a>
+  <a href="https://github.com/qompassai/maven" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="30" height="30" title="Maven"/>
+  </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
@@ -193,6 +196,9 @@
   </a>
   <a href="https://github.com/qompassai/sqlite" class="icon-link">
     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="30" height="30" title="SQLite"/>
+  </a>
+  <a href="https://github.com/qompassai/gtk" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=gtk" alt="GTK" width="30" height="30" title="GTK"/>
   </a>
 </div>
 
@@ -214,6 +220,9 @@
   </a>
   <a href="https://github.com/qompassai/Hyprland" class="icon-link">
     <img src="assets/icons/hyprland.svg" alt="Hyprland" width="30" height="30" title="Hyprland"/>
+  </a>
+  <a href="https://github.com/qompassai/Azimuth" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=bots" alt="bots" width="30" height="30" title="bots"/>
   </a>
 </div>
 
@@ -237,6 +246,9 @@
   </a>
   <a href="https://github.com/qompassai/valkey" class="icon-link">
     <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="30" height="30" title="Redis"/>
+  </a>
+  <a href="https://github.com/qompassai/cpp" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="30" height="30" title="C++"/>
   </a>
 </div>
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
@@ -263,6 +275,9 @@
   </a>
   <a href="https://github.com/qompassai/apple" class="icon-link">
     <img src="https://skillicons.dev/icons?i=apple" alt="MacOS" width="30" height="30" title="MacOS"/>
+  </a>
+  <a href="https://github.com/qompassai/fedora" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=redhat" alt="Fedora" width="30" height="30" title="Fedora"/>
   </a>
 </div>
 
