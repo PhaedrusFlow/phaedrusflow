@@ -11,9 +11,7 @@
 
 <h3>A: Building safe, secure, and trustworthy systems supporting responsible innovation on-prem and on-device.</h3>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S" alt="GitHub Trophies"/>
+<p align="center">
   <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3">
   </a>
@@ -21,12 +19,18 @@
     <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
   </a>
   <img src="https://komarev.com/ghpvc/?username=phaedrusflow" alt="Profile Views">
-</div>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S" alt="GitHub Trophies"/>
+</p>
 
 <div align="center">
 
 <h3 align="center">Front-End</h3>
+<p align="center" style="font-size: 14px; margin-top: -10px;">
+  <span>🔗 Click each icon to learn more</span>
+</p>
 
 <div class="tech-pyramid" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
   
@@ -82,28 +86,57 @@
   <a href="https://github.com/qompassai/tauri" class="icon-link">
     <img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" width="30" height="30" title="Tauri"/>
   </a>
+  <a href="https://github.com/qompassai/bootstrap" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="30" height="30" title="Bootstrap"/>
+  </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/deno" class="icon-link">
     <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="30" height="30" title="Deno"/>
   </a>
+  <a href="https://github.com/qompassai/bootstrap" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="30" height="30" title="Bootstrap"/>
+  </a>
+</div>
+
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+  <a href="https://github.com/qompassai/react" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30" title="React"/>
+  </a>
 </div>
 
 <h3 align="center">DevOps</h3>
+<p align="center" style="font-size: 14px; margin-top: -10px;">
+  <span>🔗 Click each icon to learn more</span>
+</p>
+
+
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
+<a href="https://github.com/qompassai/mojo" class="icon-link">
+  <img src="assets/icons/mojo.svg" alt="Mojo" width="30" height="30" title="Mojo"/>
+</a>
+</div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/shell" class="icon-link">
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="30" height="30" title="Bash"/>
   </a>
+  <a href="https://github.com/qompassai/dotnet" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="30" height="30" title=".NET"/>
+  </a>
 </div>
+
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
   <a href="https://github.com/qompassai/containers" class="icon-link">
     <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="30" height="30" title="Unreal"/>
   </a>
-  <a href="https://github.com/qompassai/mysql" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="30" height="30" title="MySQL"/>
+  <a href="https://github.com/qompassai/scala" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=scala" alt="Scala" width="30" height="30" title="Scala"/>
+  </a>
+   <a href="https://github.com/qompassai/mariadb" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=mariadb" alt="MariaDB" width="30" height="30" title="MariaDB"/>
   </a>
 </div>
 
@@ -116,6 +149,9 @@
   </a>
   <a href="https://github.com/qompassai/psql" class="icon-link">
     <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="30" height="30" title="Postgres"/>
+  </a>
+  <a href="https://github.com/qompassai/mysql" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="30" height="30" title="MySQL"/>
   </a>
 </div>
 
