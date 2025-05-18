@@ -50,8 +50,8 @@
   <a href="https://github.com/qompassai/vue" class="icon-link">
     <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="30" height="30" title="Vue"/>
   </a>
-  <a href="https://github.com/qompassai/chakraui" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=chakraui" alt="Chakra UI" width="30" height="30" title="Chakra UI"/>
+  <a href="https://github.com/qompassai/webflow" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=webflow" alt="WebFlow" width="30" height="30" title="WebFlow"/>
   </a>
 </div>
 
@@ -120,10 +120,11 @@
   <span>🔗 Click each icon to learn more</span>
 </p>
 
-
+<div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
 <a href="https://github.com/qompassai/mojo" class="icon-link">
   <img src="https://raw.githubusercontent.com/PhaedrusFlow/phaedrusflow/main/assets/icons/mojo.svg" alt="Mojo" width="30" height="30" title="Mojo"/>
 </a>
+</div>
 
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
