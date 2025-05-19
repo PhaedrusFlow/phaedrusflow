@@ -50,8 +50,8 @@
   <a href="https://github.com/qompassai/vue" class="icon-link">
     <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="30" height="30" title="Vue"/>
   </a>
-  <a href="https://github.com/qompassai/webflow" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=webflow" alt="WebFlow" width="30" height="30" title="WebFlow"/>
+  <a href="https://github.com/qompassai/nuxtjs" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=nuxtjs" alt="NuxtJS" width="30" height="30" title="NuxtJS"/>
   </a>
 </div>
 
@@ -222,13 +222,13 @@
   <a href="https://github.com/qompassai/Hyprland" class="icon-link">
     <img src="assets/icons/hyprland.svg" alt="Hyprland" width="30" height="30" title="Hyprland"/>
   </a>
-  <a href="https://github.com/qompassai/Azimuth" class="icon-link">
-    <img src="https://skillicons.dev/icons?i=bots" alt="bots" width="30" height="30" title="bots"/>
+  <a href="https://github.com/qompassai/java" class="icon-link">
+    <img src="https://skillicons.dev/icons?i=java" alt="java" width="30" height="30" title="Java"/>
   </a>
 </div>
 
 <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
-  <a href="https://github.com/qompassai/Go" class="icon-link">
+  <a href="https://github.com/qompassai/go" class="icon-link">
     <img src="https://skillicons.dev/icons?i=go" alt="Go" width="30" height="30" title="Go"/>
   </a>
   <a href="https://github.com/qompassai/Vulkan" class="icon-link">
