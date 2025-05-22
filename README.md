@@ -19,6 +19,8 @@
     <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
   </a>
   <img src="https://komarev.com/ghpvc/?username=phaedrusflow" alt="Profile Views">
+  ![GitHub all releases](https://img.shields.io/github/downloads/phaedrusflow/phaedrusflow/total?style=flat-square)
+
 </p>
 
 <p align="center">
@@ -83,7 +85,7 @@
   <a href="https://github.com/qompassai/threejs" class="icon-link">
     <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="30" height="30" title="Three.js"/>
   </a>
-  <a href="https://github.com/zed-industries/zine" class="icon-link">
+  <a href="https://github.com/qompassai/Zig" class="icon-link">
     <img src="https://skillicons.dev/icons?i=zig" alt="Zine (Zig)" width="30" height="30" title="Zine (Zig)"/>
   </a>
 </div>
