@@ -1,6 +1,6 @@
 name: Static Site QA Template
 
-on: # yamllint disable-line rule:truthy
+on: 
   workflow_call:
     inputs:
       site_url:
@@ -12,9 +12,9 @@ on: # yamllint disable-line rule:truthy
 jobs:
   qa:
     name: QA Static Site
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     permissions:
-      issues: write # required for peter-evans/create-issue-from-file
+      issues: write
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
