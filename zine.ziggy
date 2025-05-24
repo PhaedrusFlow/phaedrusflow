@@ -1,4 +1,6 @@
 // zine.ziggy
+//-----------------------
+//Copyright (C) 2025 Qompass AI, All rights reserved
 const zine = @import("zine");
 
 pub const site = zine.Site{
@@ -8,7 +10,7 @@ pub const site = zine.Site{
     .assets_dir = "assets",
     .output_dir = "public",
     
-    .site_title = "The Deep Pursuit of Quality AI",
+    .site_title = "Qompass AI Founder Github",
     .site_description = "Quality AI Adoption Solutions as a Service",
     .author = "Matthew A. Porter",
     .language = "en-US",
