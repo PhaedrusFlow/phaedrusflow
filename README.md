@@ -287,14 +287,12 @@
 <p></p>
 
 <details id="About Me">
-  <summary><strong>About Me</strong></summary>
+  <summary><strong>About the Founder</strong></summary>
 
 <div align="center">
   <p>Matthew A. Porter<br>
   Founder & CEO<br>
   Qompass AI, Spokane, WA</p>
-</div>
-</details>
 
 <h3>Publications</h3>
   <p>
@@ -309,16 +307,13 @@
     </a>
   </p>
 
-<h3 align="center">Developer Programs</h3>
-<div align="center">
+<h3>Developer Programs</h3>
 
 [![NVIDIA Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/)
 [![Meta Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/)
 [![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/phaedrusflow)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/qompass)
 [![Epic Games Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge&logo=epic-games&logoColor=white)](https://dev.epicgames.com/)
-
-</div>
 
 <h3>Professional Profiles</h3>
   <p>
@@ -346,8 +341,10 @@
 </div>
 </details>
 
+<details id="Support and Funding">
+  <summary><strong>💰 Support & Funding</strong></summary>
+
 <div align="center">
-<h3>💰 Our Support & Funding</h3>
 
 <table>
 <tr>
@@ -384,6 +381,13 @@
 
 42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH
 
+</details>
+
+<p><i>Funding helps us continue our research at the intersection of AI, healthcare, and education</i></p>
+
+📄 **[Complete funding configuration](./FUNDING.yml)**
+
+</div>
 </details>
 
 [📚 Read Full Research Details](#detailed-research)
