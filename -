@@ -343,7 +343,6 @@
 
 </div>
 
-<details>
 <summary style="font-size: 1.2em; padding: 10px; background: #764ba2; color: white; border-radius: 6px; cursor: pointer;"><strong>🌌 Research</strong></summary>
 <blockquote style="font-size: 1.05em; line-height: 1.6; padding: 15px; background: #f0f4f8; border-left: 4px solid #764ba2; margin: 10px 0;">
 
