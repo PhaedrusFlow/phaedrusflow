@@ -70,21 +70,6 @@
     }
     animate();
    <script>
-  function openDetailsNested() {
-    var listOpen = document.querySelectorAll("details[open]");
-    if(listOpen.length > 0) {
-      for(var i=0; i<listOpen.length; i++) {
-        var elem = listOpen[i];
-        while (elem) {
-          if (elem.matches("DETAILS")) {
-            elem.setAttribute("open","");
-          }
-          elem = elem.parentElement;
-        }
-      }
-    }
-  }
-  window.addEventListener("load", openDetailsNested, true);
   </script>
 </body>
 </html>
