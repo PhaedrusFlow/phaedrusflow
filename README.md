@@ -585,9 +585,8 @@ $$K = \\text{KDF}(Z')$$
 - $K$: final derived key material
 
 </details>
-
 </details>
-
+</details>
 <details id="🔥 How Do I Support">
   <summary><strong>🔥 How Do I Support</strong></summary>
 
