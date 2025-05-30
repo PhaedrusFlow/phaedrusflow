@@ -286,7 +286,7 @@
 
 ______________________________________________________________________
 
-<details id="🧭 About Me">
+<details markdown="1">
   <summary><strong>🧭 About Me</strong></summary>
 
 <div align="center">
@@ -342,8 +342,9 @@ ______________________________________________________________________
 
 </div>
 
-<details id="🌌 Research">
-  <summary><strong>🌌  Research</strong></summary>
+<details markdown="1">
+    <summary><strong>🌌 Research</strong></summary>
+
 [📚 Qompass AI Odyssey: Deep Research on Quantum AI](#Odyssey)
 
 <h3>Qompass AI Odyssey TLDR</h3>
@@ -358,7 +359,7 @@ ______________________________________________________________________
 | **Post-Quantum Cryptography** | Implementing quantum-resistant algorithms on-device            | Patient data protection, Educational records security, Government communications |
 | **Quantum Error Correction**  | Optimizing search via quantum amplified search                 | Sustainably secure learning platforms with resilient cryptography                |
 
-<details id="Odyssey">
+<details id="Odyssey" markdown="1">
   <summary><strong>Qompass AI Odyssey Thesis: The Pursuit of Quality AI Requires a Quantum Scale</strong></summary>
 
 The foundation of quantum computing and impetus for enterprise quantum adoption begins with the Schrödinger equation:
@@ -587,7 +588,7 @@ $$K = \\text{KDF}(Z')$$
 </details>
 </details>
 </details>
-<details id="🔥 How Do I Support">
+<details markdown="1">
   <summary><strong>🔥 How Do I Support</strong></summary>
 
 <div align="center">
@@ -620,7 +621,7 @@ $$K = \\text{KDF}(Z')$$
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-Support-7FADF2?style=for-the-badge&logo=opencollective&logoColor=white)](https://opencollective.com/qompassai)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/phaedrusflow)
 
-<details>
+<details markdown="1">
 <summary><strong>🔐 Cryptocurrency Donations</strong></summary>
 
 **Monero (XMR):**
@@ -647,3 +648,21 @@ $$K = \\text{KDF}(Z')$$
 </details>
 
 </details>
+
+<script>
+function openDetailsNested() {
+  var listOpen = document.querySelectorAll("details[open]");
+  if(listOpen.length > 0) {
+    for(var i=0; i<listOpen.length; i++) {
+      var elem = listOpen[i];
+      while (elem) {
+        if (elem.matches("DETAILS")) {
+          elem.setAttribute("open","");
+        }
+        elem = elem.parentElement;
+      }
+    }
+  }
+}
+window.addEventListener("load", openDetailsNested, true);
+</script>
