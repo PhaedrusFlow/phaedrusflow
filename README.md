@@ -286,8 +286,9 @@
 
 ______________________________________________________________________
 
-<details markdown="1">
-  <summary><strong>🧭 About Me</strong></summary>
+<details>
+<summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;"><strong>🧭 About Me</strong></summary>
+<blockquote style="font-size: 1.2em; line-height: 1.8; padding: 25px; background: #f8f9fa; border-left: 6px solid #667eea; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
 <div align="center">
   <p>Matthew A. Porter<br>
@@ -342,8 +343,9 @@ ______________________________________________________________________
 
 </div>
 
-<details markdown="1">
-    <summary><strong>🌌 Research</strong></summary>
+<details>
+<summary style="font-size: 1.2em; padding: 10px; background: #764ba2; color: white; border-radius: 6px; cursor: pointer;"><strong>🌌 Research</strong></summary>
+<blockquote style="font-size: 1.05em; line-height: 1.6; padding: 15px; background: #f0f4f8; border-left: 4px solid #764ba2; margin: 10px 0;">
 
 [📚 Qompass AI Odyssey: Deep Research on Quantum AI](#Odyssey)
 
@@ -359,8 +361,9 @@ ______________________________________________________________________
 | **Post-Quantum Cryptography** | Implementing quantum-resistant algorithms on-device            | Patient data protection, Educational records security, Government communications |
 | **Quantum Error Correction**  | Optimizing search via quantum amplified search                 | Sustainably secure learning platforms with resilient cryptography                |
 
-<details id="Odyssey" markdown="1">
+<details id="Odyssey">
   <summary><strong>Qompass AI Odyssey Thesis: The Pursuit of Quality AI Requires a Quantum Scale</strong></summary>
+<blockquote>
 
 The foundation of quantum computing and impetus for enterprise quantum adoption begins with the Schrödinger equation:
 
@@ -585,11 +588,18 @@ $$K = \\text{KDF}(Z')$$
 - $\\text{KDF}$: Key Derivation Function
 - $K$: final derived key material
 
+</blockquote>
 </details>
+
+</blockquote>
 </details>
+
+</blockquote>
 </details>
-<details markdown="1">
-  <summary><strong>🔥 How Do I Support</strong></summary>
+
+<details>
+<summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #ff6b6b; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;"><strong>🔥 How Do I Support</strong></summary>
+<blockquote style="font-size: 1.2em; line-height: 1.8; padding: 25px; background: #fff5f5; border-left: 6px solid #ff6b6b; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
 <div align="center">
 
