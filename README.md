@@ -24,10 +24,15 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/phaedrusflow/phaedrusflow/total?style=flat-square)
 
 </p>
+<div align="center">
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&margin-h=10&column=6&rank=SECRET,SSS,SS,S" alt="GitHub Trophies"/>
 </p>
+
+</div>
+
+<div align="center">
 
 <h3 align="center">Front-End</h3>
 <p align="center" style="font-size: 14px; margin-top: -10px;">
