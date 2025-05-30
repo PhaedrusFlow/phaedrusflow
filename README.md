@@ -25,8 +25,10 @@
 
 </p>
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; width: 100%;">
   <img src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S" alt="GitHub Trophies"/>
+</div>
+
 </p>
 
 <div align="center">
@@ -286,8 +288,10 @@
 
 <p></p>
 
+______________________________________________________________________
+
 <details id="About Me">
-  <summary><strong>About the Founder</strong></summary>
+  <summary><strong>About Me</strong></summary>
 
 <div align="center">
   <p>Matthew A. Porter<br>
