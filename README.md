@@ -2,7 +2,7 @@
 
 <h2>Matt A. Porter</h2>
 
-<h3>Former Intelligence Officer | Qompass AI Founder/CEO</h3>
+<h3>Former Intelligence Officer | Deep Tech Architect | Life-long Student</h3>
 
 <h3>Helping you navigate the Deep Waters of Deep Tech with Quality AI Adoption Solutions</h3>
 
@@ -20,16 +20,11 @@
     <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
   </a>
   <img src="https://komarev.com/ghpvc/?username=phaedrusflow" alt="Profile Views">
-
-![GitHub all releases](https://img.shields.io/github/downloads/phaedrusflow/phaedrusflow/total?style=flat-square)
-
+  <img src="https://img.shields.io/github/downloads/phaedrusflow/phaedrusflow/total?style=flat-square" alt="GitHub all releases">
 </p>
+
 <div align="center">
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&margin-h=10&column=6&rank=SECRET,SSS,SS,S" alt="GitHub Trophies"/>
-</p>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=20&margin-h=15&column=3&rank=SECRET,SSS,SS" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
@@ -296,8 +291,10 @@ ______________________________________________________________________
 
 <div align="center">
   <p>Matthew A. Porter<br>
-  Founder & CEO<br>
-  Qompass AI, Spokane, WA</p>
+  Former Intelligence Officer<br>
+  Educator & Learner<br>
+  DeepTech Founder & CEO</p>
+</div>
 
 <h3>Publications</h3>
   <p>
@@ -346,14 +343,14 @@ ______________________________________________________________________
 </div>
 </details>
 
-<details id="Support and Funding">
-  <summary><strong>💰 Support & Funding</strong></summary>
+<details id="How Do I Support">
+  <summary><strong>💰 How Do I Support</strong></summary>
 
 <div align="center">
 
 <table>
 <tr>
-<th align="center">🏛️ Pre-Seed Funding 2023-2025</th>
+<th align="center">🏛️ Qompass AI Pre-Seed Funding 2023-2025</th>
 <th align="center">🏆 Amount</th>
 <th align="center">📅 Date</th>
 </tr>
@@ -371,7 +368,7 @@ ______________________________________________________________________
 </table>
 
 <br>
-<h4>🤝 Support Our Mission</h4>
+<h4>🤝 How To Support Our Mission</h4>
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/phaedrusflow)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/qompassai)
@@ -384,7 +381,17 @@ ______________________________________________________________________
 
 **Monero (XMR):**
 
-42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH
+<div align="center">
+  <img src="https://chart.googleapis.com/chart?chs=180x180&cht=qr&chl=monero:42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH" alt="Monero QR Code">
+
+<div style="margin: 10px 0;">
+    <code>42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH</code>
+  </div>
+
+<button onclick="navigator.clipboard.writeText('42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH')" style="padding: 6px 12px; background: #FF6600; color: white; border: none; border-radius: 4px; cursor: pointer;">
+    📋 Copy Address
+  </button>
+</div>
 
 </details>
 
@@ -563,13 +570,13 @@ $$|z| < \\gamma_1 \\text{ and } |Az - ct| < \\gamma_2$$
 **Hash-based Hypertree:**
 
 - FORS few-time signature:
-  $$\\text{FORS-Sign}\_{\\text{SK}}(M) = (\\text{sk}\_1, \\ldots, \\text{sk}\_k, \\text{Auth}\_1, \\ldots, \\text{Auth}\_k)$$
+    $$\\text{FORS-Sign}\_{\\text{SK}}(M) = (\\text{sk}\_1, \\ldots, \\text{sk}\_k, \\text{Auth}\_1, \\ldots, \\text{Auth}\_k)$$
 
 - WOTS+ chain function:
-  $$f^i(x) = F(f^{i-1}(x), i-1)$$
+    $$f^i(x) = F(f^{i-1}(x), i-1)$$
 
 - Signature verification:
-  $$\\text{root} = \\text{FORS-Verify}(M, \\sigma\_{\\text{FORS}})$$
+    $$\\text{root} = \\text{FORS-Verify}(M, \\sigma\_{\\text{FORS}})$$
 
 **SLH-DSA Legend:**
 
@@ -597,7 +604,7 @@ $$fG - gF = q \\mod (X^N + 1)$$
 **Signature Generation:**
 
 - For message $m$ with hash $c$, find small $(s_1, s_2)$ such that:
-  $$s_1 + s_2h = c \\mod q$$
+    $$s_1 + s_2h = c \\mod q$$
 
 **Verification:**
 
