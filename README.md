@@ -25,12 +25,9 @@
 
 </p>
 
-<div align="center" style="display: flex; justify-content: center; width: 100%;">
-<p align="center" style="text-align: center; width: 100%; margin: 0 auto;">
-  <img src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=6&rank=SECRET,SSS,SS,S" alt="GitHub Trophies" style="max-width: 100%; height: auto;"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&margin-h=10&column=6&rank=SECRET,SSS,SS,S" alt="GitHub Trophies"/>
 </p>
-
-<div align="center">
 
 <h3 align="center">Front-End</h3>
 <p align="center" style="font-size: 14px; margin-top: -10px;">
