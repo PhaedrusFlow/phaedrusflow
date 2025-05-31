@@ -284,7 +284,7 @@
 
 <p></p>
 
----
+______________________________________________________________________
 
 <details>
 <summary style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;"><strong>🧭 About Me</strong></summary>
@@ -384,7 +384,8 @@
 **Monero (XMR):**
 
 <div align="center">
-  <img src="https://chart.googleapis.com/chart?chs=180x180&cht=qr&chl=monero:42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH" alt="Monero QR Code">
+  <img src="./assets/monero-qr.png" alt="Monero QR Code" width="180">
+</div>
 
 <div style="margin: 10px 0;">
     <code>42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH</code>
