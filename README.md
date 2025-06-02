@@ -400,7 +400,7 @@ ______________________________________________________________________
 
 <p><i>Funding helps us continue our research at the intersection of AI, healthcare, and education</i></p>
 
-📄 **[Complete funding configuration](./FUNDING.yml)**
+📄 **[Complete funding configuration](.github/FUNDING.yml)**
 
 </div>
 </details>
