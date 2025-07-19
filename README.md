@@ -35,25 +35,26 @@
       alt="Activity Graph" />
   </a>
 
-  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=8683947&activity_type=all"
-    target="_blank">
+
+  <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369" target="_blank"
+    style="display: block" align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-        srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=dark"
-        width="497.5" height="auto">
-      <img alt="@phaedrusflow's Recent Work - Last 28 days"
-        src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=light"
-        width="497.5" height="auto">
+        srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark"
+        width="815" height="auto">
+      <img alt="Activity Trends of pingcap/tidb - Last 28 days"
+        src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light"
+        width="815" height="auto">
     </picture>
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=qompassai&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaedrusflow&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true"
       alt="Top Languages" />
   </a>
 </div>
-
+</div>
 
 <div align="center">
 
