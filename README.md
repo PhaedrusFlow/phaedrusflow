@@ -50,7 +50,6 @@
       alt="Top Languages" />
   </a>
 </div>
-
 <div align="center">
 
   <h3 align="center">Front-End</h3>
@@ -59,7 +58,6 @@
   </p>
 
   <div class="tech-pyramid" style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/html" class="icon-link">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="30" title="HTML" />
@@ -80,7 +78,6 @@
         <img src="https://skillicons.dev/icons?i=nuxtjs" alt="NuxtJS" width="30" height="30" title="NuxtJS" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/tailwind" class="icon-link">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="30" height="30" title="Tailwind" />
@@ -98,7 +95,6 @@
         <img src="https://skillicons.dev/icons?i=astro" alt="Astro" width="30" height="30" title="Astro" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/svelte" class="icon-link">
         <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="30" height="30" title="Svelte" />
@@ -113,7 +109,6 @@
         <img src="https://skillicons.dev/icons?i=zig" alt="Zine (Zig)" width="30" height="30" title="Zine (Zig)" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/wasm" class="icon-link">
         <img src="https://skillicons.dev/icons?i=wasm" alt="WebAssembly" width="30" height="30" title="WebAssembly" />
@@ -126,7 +121,6 @@
           title="Material UI" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/deno" class="icon-link">
         <img src="https://skillicons.dev/icons?i=deno" alt="Deno" width="30" height="30" title="Deno" />
@@ -135,25 +129,21 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="30" height="30" title="Bootstrap" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/react" class="icon-link">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30" title="React" />
       </a>
     </div>
-
     <h3 align="center">DevOps</h3>
     <p align="center" style="font-size: 14px; margin-top: -10px;">
       <span>🔗 Click each icon to learn more</span>
     </p>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/mojo" class="icon-link">
         <img src="https://raw.githubusercontent.com/PhaedrusFlow/phaedrusflow/main/assets/icons/mojo.svg" alt="Mojo"
           width="30" height="30" title="Mojo" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/shell" class="icon-link">
         <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="30" height="30" title="Bash" />
@@ -162,7 +152,6 @@
         <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="30" height="30" title=".NET" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/unreal" class="icon-link">
         <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal" width="30" height="30" title="Unreal" />
@@ -174,7 +163,6 @@
         <img src="assets/icons/mariadb.svg" alt="MariaDB" width="30" height="30" title="MariaDB" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/containers" class="icon-link">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="30" height="30" title="Docker" />
@@ -190,7 +178,6 @@
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="30" height="30" title="MySQL" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/ansible" class="icon-link">
         <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="30" height="30" title="Ansible" />
@@ -208,7 +195,6 @@
         <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="30" height="30" title="Maven" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/qai" class="icon-link">
         <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="30" height="30"
@@ -230,7 +216,6 @@
         <img src="https://skillicons.dev/icons?i=gtk" alt="GTK" width="30" height="30" title="GTK" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/Tor" class="icon-link">
         <img src="assets/icons/tor.svg" alt="Tor" width="30" height="30" title="Tor" />
@@ -254,7 +239,6 @@
         <img src="https://skillicons.dev/icons?i=java" alt="java" width="30" height="30" title="Java" />
       </a>
     </div>
-
     <div class="icon-row" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px;">
       <a href="https://github.com/qompassai/go" class="icon-link">
         <img src="https://skillicons.dev/icons?i=go" alt="Go" width="30" height="30" title="Go" />
@@ -310,148 +294,130 @@
       </a>
     </div>
 
-    <p></p>
   </div>
-</div>
 
-***
-<details>
-  <summary
-    style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;">
-    <strong>🧭 About Me</strong>
-  </summary>
-  <blockquote
-    style="font-size: 1.2em; line-height: 1.8; padding: 25px; background: #f8f9fa; border-left: 6px solid #667eea; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  ***
+  <details>
+    <summary
+      style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #667eea; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;">
+      <strong>🧭 About Me</strong>
+    </summary>
+    <blockquote
+      style="font-size: 1.2em; line-height: 1.8; padding: 25px; background: #f8f9fa; border-left: 6px solid #667eea; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <div align="center">
+        <p>Matthew A. Porter<br>
+          Former Intelligence Officer<br>
+          Educator & Learner<br>
+          DeepTech Founder & CEO</p>
+      </div>
+      <h3>Publications</h3>
+      <p>
+        <a href="https://orcid.org/0000-0002-0302-4812">
+          <img src="https://img.shields.io/badge/ORCID-0000--0002--0302--4812-green?style=flat-square&logo=orcid"
+            alt="ORCID">
+        </a>
+        <a href="https://www.researchgate.net/profile/Matt-Porter-7">
+          <img src="https://img.shields.io/badge/ResearchGate-Open--Research-blue?style=flat-square&logo=researchgate"
+            alt="ResearchGate">
+        </a>
+        <a href="https://zenodo.org/communities/qompassai">
+          <img src="https://img.shields.io/badge/Zenodo-Publications-blue?style=flat-square&logo=zenodo" alt="Zenodo">
+        </a>
+      </p>
+      <h3>Developer Programs</h3>
+      [![NVIDIA
+      Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)](https://developer.nvidia.com/)
+      [![Meta
+      Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge\&logo=meta\&logoColor=white)](https://developers.facebook.com/)
+      [![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge\&logo=hackerone\&logoColor=white)](https://hackerone.com/phaedrusflow)
+      [![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square\&logo=huggingface)](https://huggingface.co/qompass)
+      [![Epic Games
+      Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge\&logo=epic-games\&logoColor=white)](https://dev.epicgames.com/)
+      <h3>Professional Profiles</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/matt-a-porter-103535224/">
+          <img src="https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin"
+            alt="Personal LinkedIn">
+        </a>
+        <a href="https://www.linkedin.com/company/95058568/">
+          <img src="https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin"
+            alt="Startup LinkedIn">
+        </a>
+      </p>
+      <h3>Social Media</h3>
+      <p>
+        <a href="https://twitter.com/PhaedrusFlow">
+          <img src="https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter"
+            alt="X/Twitter">
+        </a>
+        <a href="https://www.instagram.com/phaedrusflow">
+          <img src="https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram"
+            alt="Instagram">
+        </a>
+        <a href="https://www.youtube.com/@qompassai">
+          <img src="https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube" alt="YouTube">
+        </a>
+      </p>
+    </blockquote>
+  </details>
 
-    <div align="center">
-      <p>Matthew A. Porter<br>
-        Former Intelligence Officer<br>
-        Educator & Learner<br>
-        DeepTech Founder & CEO</p>
-    </div>
 
-    <h3>Publications</h3>
-    <p>
-      <a href="https://orcid.org/0000-0002-0302-4812">
-        <img src="https://img.shields.io/badge/ORCID-0000--0002--0302--4812-green?style=flat-square&logo=orcid"
-          alt="ORCID">
-      </a>
-      <a href="https://www.researchgate.net/profile/Matt-Porter-7">
-        <img src="https://img.shields.io/badge/ResearchGate-Open--Research-blue?style=flat-square&logo=researchgate"
-          alt="ResearchGate">
-      </a>
-      <a href="https://zenodo.org/communities/qompassai">
-        <img src="https://img.shields.io/badge/Zenodo-Publications-blue?style=flat-square&logo=zenodo" alt="Zenodo">
-      </a>
-    </p>
-
-    <h3>Developer Programs</h3>
-
-    [![NVIDIA
-    Developer](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)](https://developer.nvidia.com/)
-    [![Meta
-    Developer](https://img.shields.io/badge/Meta-Developer_Program-0668E1?style=for-the-badge\&logo=meta\&logoColor=white)](https://developers.facebook.com/)
-    [![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge\&logo=hackerone\&logoColor=white)](https://hackerone.com/phaedrusflow)
-    [![HuggingFace](https://img.shields.io/badge/HuggingFace-qompass-yellow?style=flat-square\&logo=huggingface)](https://huggingface.co/qompass)
-    [![Epic Games
-    Developer](https://img.shields.io/badge/Epic_Games-Developer_Program-313131?style=for-the-badge\&logo=epic-games\&logoColor=white)](https://dev.epicgames.com/)
-
-    <h3>Professional Profiles</h3>
-    <p>
-      <a href="https://www.linkedin.com/in/matt-a-porter-103535224/">
-        <img src="https://img.shields.io/badge/LinkedIn-Matt--Porter-blue?style=flat-square&logo=linkedin"
-          alt="Personal LinkedIn">
-      </a>
-      <a href="https://www.linkedin.com/company/95058568/">
-        <img src="https://img.shields.io/badge/LinkedIn-Qompass--AI-blue?style=flat-square&logo=linkedin"
-          alt="Startup LinkedIn">
-      </a>
-    </p>
-
-    <h3>Social Media</h3>
-    <p>
-      <a href="https://twitter.com/PhaedrusFlow">
-        <img src="https://img.shields.io/badge/Twitter-@PhaedrusFlow-blue?style=flat-square&logo=twitter"
-          alt="X/Twitter">
-      </a>
-      <a href="https://www.instagram.com/phaedrusflow">
-        <img src="https://img.shields.io/badge/Instagram-phaedrusflow-purple?style=flat-square&logo=instagram"
-          alt="Instagram">
-      </a>
-      <a href="https://www.youtube.com/@qompassai">
-        <img src="https://img.shields.io/badge/YouTube-QompassAI-red?style=flat-square&logo=youtube" alt="YouTube">
-      </a>
-    </p>
-
-  </blockquote>
-</details>
-
-<details>
-  <summary
-    style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #ff6b6b; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;">
-    <strong>🔥 How Do I Support</strong>
-  </summary>
-  <blockquote
-    style="font-size: 1.2em; line-height: 1.8; padding: 25px; background: #fff5f5; border-left: 6px solid #ff6b6b; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-
-    <div align="center">
-
-      <table>
-        <tr>
-          <th align="center">🏛️ Qompass AI Pre-Seed Funding 2023-2025</th>
-          <th align="center">🏆 Amount</th>
-          <th align="center">📅 Date</th>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/qompassai/r4r"
-              title="RJOS/Zimmer Biomet Research Grant Repository">RJOS/Zimmer Biomet Research Grant</a></td>
-          <td align="center">$30,000</td>
-          <td align="center">March 2024</td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/qompassai/PathFinders" title="GitHub Repository">Pathfinders Intern
-              Program</a><br>
-            <small><a
-                href="https://www.linkedin.com/posts/evergreenbio_bioscience-internships-workforcedevelopment-activity-7253166461416812544-uWUM/"
-                target="_blank">View on LinkedIn</a></small>
-          </td>
-          <td align="center">$2,000</td>
-          <td align="center">October 2024</td>
-        </tr>
-      </table>
-
-      <br>
-      <h4>🤝 How To Support Our Mission</h4>
-
-      [![GitHub
-      Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge\&logo=github-sponsors\&logoColor=white)](https://github.com/sponsors/phaedrusflow)
-      [![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge\&logo=patreon\&logoColor=white)](https://patreon.com/qompassai)
-      [![Liberapay](https://img.shields.io/badge/Liberapay-Donate-F6C915?style=for-the-badge\&logo=liberapay\&logoColor=black)](https://liberapay.com/qompassai)
-      [![Open
-      Collective](https://img.shields.io/badge/Open%20Collective-Support-7FADF2?style=for-the-badge\&logo=opencollective\&logoColor=white)](https://opencollective.com/qompassai)
-      [![Buy Me A
-      Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://www.buymeacoffee.com/phaedrusflow)
-
-      <details markdown="1">
-        <summary><strong>🔐 Cryptocurrency Donations</strong></summary>
-
-        **Monero (XMR):**
-
-        <div align="center">
-          <img src="./assets/monero-qr.png" alt="Monero QR Code" width="180">
-        </div>
-
-        <div style="margin: 10px 0;">
-          <code>42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH</code>
-        </div>
-
-        <button
-          onclick="navigator.clipboard.writeText('42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH')"
-          style="padding: 6px 12px; background: #FF6600; color: white; border: none; border-radius: 4px; cursor: pointer;">
-          📋 Copy Address
-        </button>
-        <p><i>Funding helps us continue our research at the intersection of AI, healthcare, and education</i></p>
-
-  </blockquote>
-</details>
-</details>
+  <details>
+    <summary
+      style="font-size: 1.4em; font-weight: bold; padding: 15px; background: #ff6b6b; color: white; border-radius: 10px; cursor: pointer; margin: 10px 0;">
+      <strong>🔥 How Do I Support</strong>
+    </summary>
+    <blockquote
+      style="font-size: 1.2em; line-height: 1.8; padding: 25px; background: #fff5f5; border-left: 6px solid #ff6b6b; border-radius: 8px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <div align="center">
+        <table>
+          <tr>
+            <th align="center">🏛️ Qompass AI Pre-Seed Funding 2023-2025</th>
+            <th align="center">🏆 Amount</th>
+            <th align="center">📅 Date</th>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/qompassai/r4r"
+                title="RJOS/Zimmer Biomet Research Grant Repository">RJOS/Zimmer Biomet Research Grant</a></td>
+            <td align="center">$30,000</td>
+            <td align="center">March 2024</td>
+          </tr>
+          <tr>
+            <td><a href="https://github.com/qompassai/PathFinders" title="GitHub Repository">Pathfinders Intern
+                Program</a><br>
+              <small><a
+                  href="https://www.linkedin.com/posts/evergreenbio_bioscience-internships-workforcedevelopment-activity-7253166461416812544-uWUM/"
+                  target="_blank">View on LinkedIn</a></small>
+            </td>
+            <td align="center">$2,000</td>
+            <td align="center">October 2024</td>
+          </tr>
+        </table>
+        <br>
+        <h4>🤝 How To Support Our Mission</h4>
+        [![GitHub
+        Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge\&logo=github-sponsors\&logoColor=white)](https://github.com/sponsors/phaedrusflow)
+        [![Patreon](https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge\&logo=patreon\&logoColor=white)](https://patreon.com/qompassai)
+        [![Liberapay](https://img.shields.io/badge/Liberapay-Donate-F6C915?style=for-the-badge\&logo=liberapay\&logoColor=black)](https://liberapay.com/qompassai)
+        [![Open
+        Collective](https://img.shields.io/badge/Open%20Collective-Support-7FADF2?style=for-the-badge\&logo=opencollective\&logoColor=white)](https://opencollective.com/qompassai)
+        [![Buy Me A
+        Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black)](https://www.buymeacoffee.com/phaedrusflow)
+        <details markdown="1">
+          <summary><strong>🔐 Cryptocurrency Donations</strong></summary>
+          **Monero (XMR):**
+          <div align="center">
+            <img src="./assets/monero-qr.png" alt="Monero QR Code" width="180">
+          </div>
+          <div style="margin: 10px 0;">
+            <code>42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH</code>
+          </div>
+          <button
+            onclick="navigator.clipboard.writeText('42HGspSFJQ4MjM5ZusAiKZj9JZWhfNgVraKb1eGCsHoC6QJqpo2ERCBZDhhKfByVjECernQ6KeZwFcnq8hVwTTnD8v4PzyH')"
+            style="padding: 6px 12px; background: #FF6600; color: white; border: none; border-radius: 4px; cursor: pointer;">
+            📋 Copy Address
+          </button>
+          <p><i>Funding helps us continue our research at the intersection of AI, healthcare, and education</i></p>
+    </blockquote>
+  </details>
+  </details>
