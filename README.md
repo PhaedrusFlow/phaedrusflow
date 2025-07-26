@@ -1,9 +1,6 @@
 <!-- /phaedrusflow/phaedrusflow/README.md-->
-
 <!-- Qompass AI Founder Github Profile-->
-
 <!--Copyright (C) 2025 Qompass AI, All rights reserved-->
-
 <!------------------------------------------------------>
 
 <h2>Matt A. Porter</h2>
@@ -35,12 +32,6 @@
     src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=20&margin-h=15&column=3&rank=SECRET,SSS,SS"
     alt="GitHub Trophies" />
 
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?organization=qompassai&theme=github-dark-dimmed&custom_title=QompassAI%20Organization%20Contributions&hide_border=true"
-      alt="Qompass AI Activity Graph" />
-  </a>
-
   <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369" target="_phaedrusflow">
     <picture>
       <source media="(prefers-color-scheme: dark)"
@@ -52,7 +43,6 @@
     </picture>
   </a>
 </div>
-
 
   <div align="center">
     <h3 align="center">Front-End</h3>
