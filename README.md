@@ -25,36 +25,25 @@
       color: #f7fafc;
     ">
       <img
-        src="https://avatars.githubusercontent.com/u/167497392?s=200&v=4"
+        src="https://github.com/qompassai.png"
         alt="Qompass AI"
         width="56"
         height="56"
         style="border-radius: 50%; border: 2px solid rgba(255,255,255,0.35);"
       />
-      <div style="text-align: left;">
-        <div style="font-size: 1.1rem; font-weight: 600; letter-spacing: 0.03em;">
-          Qompass AI · Organization
-        </div>
-        <div style="font-size: 0.95rem; opacity: 0.9; margin-top: 4px;">
-          Quality AI Adoption Solutions
-        </div>
-        <img
-          src="https://img.shields.io/badge/Explore%20the%20Org-0d9488?style=for-the-badge&logo=github&logoColor=white"
-          alt="Explore Qompass AI on GitHub"
-          style="margin-top: 10px;"
-        />
-      </div>
+      <img
+        src="https://img.shields.io/badge/Explore%20Qompass%20AI-0d9488?style=for-the-badge&logo=github&logoColor=white"
+        alt="My Organizational Repos"
+        style="margin-top: 10px;"
+      />
     </div>
-  </a>
 </div>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3">
-  </a>
   <a href="./LICENSE-QCDA">
     <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
-  </a>
   <img src="https://komarev.com/ghpvc/?username=phaedrusflow" alt="Profile Views">
   <img src="https://img.shields.io/github/downloads/phaedrusflow/phaedrusflow/total?style=flat-square"
     alt="GitHub all releases">
