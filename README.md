@@ -14,9 +14,10 @@
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/qompassai" target="_blank" style="text-decoration: none;">
     <div style="
-      display: inline-flex;
+      display: flex;
+      flex-direction: column;
       align-items: center;
-      gap: 16px;
+      gap: 10px;
       padding: 18px 26px;
       border-radius: 12px;
       border: 1px solid #e2e8f0;
@@ -33,26 +34,41 @@
       />
       <img
         src="https://img.shields.io/badge/Explore%20Qompass%20AI-0d9488?style=for-the-badge&logo=github&logoColor=white"
-        alt="My Organizational Repos"
-        style="margin-top: 10px;"
+        alt="See my Organizational Repos"
       />
     </div>
+  </a>
 </div>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/agpl-3.0">
     <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3">
+  </a>
   <a href="./LICENSE-QCDA">
     <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=phaedrusflow" alt="Profile Views">
   <img src="https://img.shields.io/github/downloads/phaedrusflow/phaedrusflow/total?style=flat-square"
-    alt="GitHub all releases">
+       alt="GitHub all releases">
 </p>
 
 <div align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=20&margin-h=15&column=3&rank=SECRET,SSS,SS"
-    alt="GitHub Trophies" />
+    alt="GitHub Trophies"
+  />
+
+  <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369" target="_phaedrusflow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark"
+              width="815" height="auto">
+      <img alt="Activity Trends of Qompass AI - Last 28 days"
+           src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light"
+           width="815" height="auto">
+    </picture>
+  </a>
+</div>
 
   <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369" target="_phaedrusflow">
     <picture>
@@ -63,7 +79,6 @@
         src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light"
         width="815" height="auto">
     </picture>
-  </a>
 </div>
 
   <div align="center">
