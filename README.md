@@ -11,9 +11,42 @@
 
 <!-- [![Quality AI: Safe, Secure & Trustworthy](assets/images/mlkem-visualization.png)](https://phaedrusflow.github.io/phaedrusflow/diagrams/mlkem/) -->
 
-<h3>Q: What defines AI "Quality"?</h3>
-
-<h3>A: Building safe, secure, and trustworthy systems supporting responsible innovation on-prem and on-device.</h3>
+<div align="center" style="margin: 30px 0;">
+  <a href="https://github.com/qompassai" target="_blank" style="text-decoration: none;">
+    <div style="
+      display: inline-flex;
+      align-items: center;
+      gap: 16px;
+      padding: 18px 26px;
+      border-radius: 12px;
+      border: 1px solid #e2e8f0;
+      background: linear-gradient(135deg, #1a202c 0%, #2d3748 40%, #4c51bf 100%);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+      color: #f7fafc;
+    ">
+      <img
+        src="https://avatars.githubusercontent.com/u/167497392?s=200&v=4"
+        alt="Qompass AI"
+        width="56"
+        height="56"
+        style="border-radius: 50%; border: 2px solid rgba(255,255,255,0.35);"
+      />
+      <div style="text-align: left;">
+        <div style="font-size: 1.1rem; font-weight: 600; letter-spacing: 0.03em;">
+          Qompass AI · Organization
+        </div>
+        <div style="font-size: 0.95rem; opacity: 0.9; margin-top: 4px;">
+          Quality AI Adoption Solutions
+        </div>
+        <img
+          src="https://img.shields.io/badge/Explore%20the%20Org-0d9488?style=for-the-badge&logo=github&logoColor=white"
+          alt="Explore Qompass AI on GitHub"
+          style="margin-top: 10px;"
+        />
+      </div>
+    </div>
+  </a>
+</div>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/agpl-3.0">
