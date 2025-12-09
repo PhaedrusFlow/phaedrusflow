@@ -1,6 +1,9 @@
 <!-- /phaedrusflow/phaedrusflow/README.md-->
+
 <!-- Qompass AI Founder Github Profile-->
+
 <!--Copyright (C) 2025 Qompass AI, All rights reserved-->
+
 <!------------------------------------------------------>
 
 <h2>Matt A. Porter</h2>
@@ -11,36 +14,26 @@
 
 <!-- [![Quality AI: Safe, Secure & Trustworthy](assets/images/mlkem-visualization.png)](https://phaedrusflow.github.io/phaedrusflow/diagrams/mlkem/) -->
 
-<div align="center" style="margin: 30px 0;">
-  <a href="https://github.com/qompassai" target="_blank" style="text-decoration: none;">
-    <div style="
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      gap: 8px;
-      padding: 12px 20px;
-      max-width: 320px;
-      border-radius: 12px;
-      border: 1px solid #e2e8f0;
-      background: linear-gradient(135deg, #1a202c 0%, #2d3748 40%, #4c51bf 100%);
-      box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-      color: #f7fafc;
-    ">
-      <img
-        src="https://github.com/qompassai.png"
-        alt="Qompass AI"
-        width="64"
-        height="64"
-        style="border-radius: 50%; border: 2px solid rgba(255,255,255,0.35);"
-      />
-      <img
-        src="https://img.shields.io/badge/My%20Organizational%20Repos-0d9488?style=for-the-badge&logo=github&logoColor=white"
-        alt="My Organizational Repos"
-      />
-    </div>
+<p align="center">
+  <a href="https://github.com/qompassai" target="_blank">
+    <img
+      src="https://github.com/qompassai.png"
+      alt="Qompass AI"
+      width="72"
+      height="72"
+      style="border-radius: 50%; border: 2px solid rgba(255,255,255,0.35);"
+    />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://github.com/qompassai" target="_blank">
+    <img
+      src="https://img.shields.io/badge/CLICK%20TO%20VIEW-My%20Organizational%20Repos-0d9488?style=for-the-badge&logo=github&logoColor=white"
+      alt="Click to view my organizational repositories on GitHub"
+    />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/agpl-3.0">
