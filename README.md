@@ -17,8 +17,10 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 10px;
-      padding: 18px 26px;
+      justify-content: center;
+      gap: 8px;
+      padding: 12px 20px;
+      max-width: 320px;
       border-radius: 12px;
       border: 1px solid #e2e8f0;
       background: linear-gradient(135deg, #1a202c 0%, #2d3748 40%, #4c51bf 100%);
@@ -28,13 +30,13 @@
       <img
         src="https://github.com/qompassai.png"
         alt="Qompass AI"
-        width="56"
-        height="56"
+        width="64"
+        height="64"
         style="border-radius: 50%; border: 2px solid rgba(255,255,255,0.35);"
       />
       <img
-        src="https://img.shields.io/badge/Explore%20Qompass%20AI-0d9488?style=for-the-badge&logo=github&logoColor=white"
-        alt="Explore Qompass AI"
+        src="https://img.shields.io/badge/My%20Organizational%20Repos-0d9488?style=for-the-badge&logo=github&logoColor=white"
+        alt="My Organizational Repos"
       />
     </div>
   </a>
@@ -51,13 +53,6 @@
   <img src="https://img.shields.io/github/downloads/phaedrusflow/phaedrusflow/total?style=flat-square"
        alt="GitHub all releases">
 </p>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=phaedrusflow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=20&margin-h=15&column=3&rank=SECRET,SSS,SS"
-    alt="GitHub Trophies"
-  />
-</div>
 
 <div align="center">
     <h3 align="center">Front-End</h3>
@@ -534,8 +529,8 @@ The commercial license option allows for tailored solutions in critical sectors
 such as healthcare, which has seen significant impacts from cyberattacks. For
 example, the recent Change Healthcare attack<sup><a href="#ref4">\[4]</a></sup>
 affected millions of Americans and caused widespread disruption for hospitals
-and other providers. In January 2025, CISA<sup><a href="#ref2">\[2]</a></sup> and
-FDA<sup><a href="#ref3">\[3]</a></sup> jointly warned of critical backdoor
+and other providers. In January 2025, CISA<sup><a href="#ref2">\[2]</a></sup>
+and FDA<sup><a href="#ref3">\[3]</a></sup> jointly warned of critical backdoor
 vulnerabilities in Contec CMS8000 patient monitors, revealing how medical
 devices could be compromised for unauthorized remote access and patient data
 manipulation.
