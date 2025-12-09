@@ -43,8 +43,6 @@
     <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
   </a>
   <img src="https://komarev.com/ghpvc/?username=phaedrusflow" alt="Profile Views">
-  <img src="https://img.shields.io/github/downloads/phaedrusflow/phaedrusflow/total?style=flat-square"
-       alt="GitHub all releases">
 </p>
 
 <div align="center">
