@@ -1,0 +1,6 @@
+# robots.txt
+# Qompass AI 
+# Copyright (C) 2026 Qompass AI, All rights reserved
+# ----------------------------------------
+User-agent: *
+Disallow:
