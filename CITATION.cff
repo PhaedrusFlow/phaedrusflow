@@ -10,7 +10,7 @@ version: "1.0.0"
 date-released: "2025-04-08"
 url: "https://github.com/phaedrusflow/phaedrusflow"
 repository-code: "https://github.com/PhaedrusFlow/phaedrusflow"
-license: "AGPL-3.0"
+license: "Apache-2.0"
 keywords:
   - quantum
   - AI
